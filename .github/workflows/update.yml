@@ -23,5 +23,5 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add index.html
           git commit -m "Auto-update news" || exit 0
-          git push
+          git push origin main --force
           
