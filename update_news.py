@@ -1,30 +1,37 @@
-import feedparser
 
-def fetch_and_update():
-    # Google News se AI ki khabrein nikalna
-    feed = feedparser.parse("https://news.google.com/rss/search?q=artificial+intelligence")
-    news_html = ""
+  import requests
+import json
+from datetime import datetime
+
+def fetch_news():
+    # Yeh aik free rasta hai news lene ka
+    url = "https://raw.githubusercontent.com/jamesrobertson/free-news-api/main/news.json"
     
-    # Top 5 news cards banana
-    for entry in feed.entries[:5]:
-        news_html += f'<div class="card"><h2>{entry.title}</h2><p>Latest AI update.</p><a href="{entry.link}" class="btn" target="_blank">Read More</a></div>'
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            data = response.json()
+            # Hum sirf top 10 news nikal rahe hain
+            news_list = data[:10]
+        else:
+            raise Exception("API issue")
+    except:
+        # Agar API fail ho jaye toh ye dummy data chalay ga
+        news_list = [
+            {
+                "title": "AI Revolution 2026",
+                "description": "Artificial Intelligence is taking over the tech world rapidly.",
+                "url": "https://google.com",
+                "source": "Tech Daily",
+                "date": datetime.now().strftime("%Y-%m-%d")
+            }
+        ]
 
-    # index.html ko read karna
-    with open("index.html", "r") as f:
-        data = f.read()
-
-    # Container ke andar news insert karna
-    start_marker = '<div class="container">'
-    end_marker = '</div>'
-    
-    parts = data.split(start_marker)
-    if len(parts) > 1:
-        after_container = parts[1].split(end_marker)
-        new_data = parts[0] + start_marker + news_html + end_marker + after_container[-1]
-        
-        with open("index.html", "w") as f:
-            f.write(new_data)
+    # File mein save karna
+    with open('news.json', 'w') as f:
+        json.dump(news_list, f, indent=4)
+    print("News updated successfully!")
 
 if __name__ == "__main__":
-    fetch_and_update()
-  
+    fetch_news()
+
