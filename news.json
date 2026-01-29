@@ -1,1 +1,22 @@
-[]
+import requests
+import json
+
+def fetch_news():
+    # Aik simple API se news lene ka tarika
+    url = "https://newsapi.org/v2/everything?q=artificial+intelligence&apiKey=YOUR_KEY_OR_FREE_SOURCE"
+    # Note: Agar aapke paas API key nahi hai, toh hum temporary dummy data daal dete hain testing ke liye
+    news_data = [
+        {
+            "title": "AI is Changing the World",
+            "description": "Artificial Intelligence is growing rapidly in 2026.",
+            "url": "https://google.com",
+            "source": "Tech News",
+            "date": "2026-01-30"
+        }
+    ]
+    with open('news.json', 'w') as f:
+        json.dump(news_data, f)
+
+if __name__ == "__main__":
+    fetch_news()
+
