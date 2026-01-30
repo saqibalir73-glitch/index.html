@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Movie | Filmy-AI</title>
+    <style>
+        body { background: #001524; color: white; font-family: sans-serif; text-align: center; margin: 0; }
+        .header { background: #ffcc00; color: black; padding: 15px; font-weight: bold; }
+        .container { padding: 20px; }
+        img { width: 200px; border: 3px solid #ffcc00; border-radius: 10px; }
+        .info { margin: 20px 0; background: #002d4a; padding: 15px; border-radius: 10px; text-align: left; }
+        .dl-btn { display: block; background: #00ff00; color: black; padding: 12px; margin: 10px 0; text-decoration: none; font-weight: bold; border-radius: 5px; }
+        .q-tag { background: #ffcc00; color: black; padding: 2px 5px; font-size: 12px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="header">FILMY-AI DOWNLOAD SERVER</div>
+    <div class="container" id="content">Loading Movie Details...</div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const movieId = urlParams.get('id');
+
+        fetch('news.json').then(r => r.json()).then(data => {
+            const m = data.news_items.find(x => x.id == movieId);
+            if(m) {
+                document.getElementById('content').innerHTML = `
+                    <h1>${m.title}</h1>
+                    <img src="${m.img}">
+                    <div class="info">
+                        <p><b>Release:</b> ${m.year}</p>
+                        <p><b>Description:</b> ${m.desc}</p>
+                    </div>
+                    <h3>Choose Quality:</h3>
+                    <a href="#" class="dl-btn">DOWNLOAD 480p (${m.size_480})</a>
+                    <a href="#" class="dl-btn">DOWNLOAD 720p (${m.size_720})</a>
+                    <a href="#" class="dl-btn">DOWNLOAD 1080p (${m.size_1080})</a>
+                    <a href="#" class="dl-btn" style="background:red; color:white;">DOWNLOAD 320p (Low Quality)</a>
+                `;
+            } else {
+                document.getElementById('content').innerHTML = "Movie Not Found!";
+            }
+        });
+    </script>
+</body>
+</html>
