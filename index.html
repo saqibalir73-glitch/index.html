@@ -1,67 +1,75 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Filmy-AI: All Movies Download</title>
+    <title>Filmy-AI Unlimited | 10,000+ Movies</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        body { background: #000; color: #fff; font-family: 'Arial', sans-serif; margin: 0; }
-        .nav { background: #ffcc00; color: #000; padding: 15px; font-weight: bold; font-size: 22px; text-align: center; }
-        .search-area { background: #1a1a1a; padding: 30px 10px; text-align: center; border-bottom: 2px solid #333; }
-        input { width: 85%; padding: 15px; border-radius: 30px; border: none; font-size: 16px; outline: none; }
-        .go-btn { background: #ffcc00; border: none; padding: 10px 20px; border-radius: 20px; font-weight: bold; margin-top: 10px; cursor: pointer; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; padding: 20px; }
-        .card { background: #111; border: 1px solid #333; border-radius: 10px; overflow: hidden; text-align: center; transition: 0.3s; }
-        .card:hover { border-color: #ffcc00; transform: scale(1.05); }
-        .poster { height: 200px; background: #222; display: flex; align-items: center; justify-content: center; font-size: 50px; }
-        .title { padding: 10px; font-size: 13px; font-weight: bold; height: 40px; }
-        .dl-btn { background: red; color: #fff; text-decoration: none; display: block; padding: 10px; font-size: 12px; font-weight: bold; }
-        .category-bar { background: #222; padding: 10px; overflow-x: auto; white-space: nowrap; }
-        .cat-item { display: inline-block; padding: 5px 15px; background: #333; margin: 5px; border-radius: 15px; font-size: 12px; }
+        body { background: #05070a; color: #fff; font-family: sans-serif; margin: 0; text-align: center; }
+        .header { background: #e50914; padding: 20px; font-size: 28px; font-weight: bold; border-bottom: 4px solid #b20710; }
+        .stats { background: #111; padding: 10px; font-size: 14px; color: #ffcc00; }
+        .movie-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; padding: 15px; }
+        .card { background: #161b22; border-radius: 10px; overflow: hidden; border: 1px solid #333; transition: 0.2s; }
+        .card:hover { transform: scale(1.03); border-color: #e50914; }
+        .card img { width: 100%; height: 190px; object-fit: cover; opacity: 0.8; }
+        .title { padding: 8px; font-size: 12px; font-weight: bold; height: 35px; overflow: hidden; color: #eee; }
+        .dl-btn { background: #e50914; color: #fff; text-decoration: none; display: block; padding: 10px; font-weight: bold; font-size: 11px; }
+        
+        .pagination { margin: 40px 0; padding: 20px; display: flex; justify-content: center; align-items: center; gap: 15px; background: #111; }
+        .page-btn { background: #333; color: white; border: none; padding: 12px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        .page-btn:hover { background: #e50914; }
+        .page-info { font-size: 18px; font-weight: bold; color: #ffcc00; }
     </style>
 </head>
 <body>
 
-<div class="nav">FILMY-AI PRO</div>
+<div class="header">FILMY-AI UNLIMITED</div>
+<div class="stats">🔥 Database: 10,000+ Movies | High Speed Servers</div>
 
-<div class="search-area">
-    <input type="text" id="userSearch" placeholder="Search 50,000+ Movies (Hindi Dubbed)...">
-    <br>
-    <button class="go-btn" onclick="masterSearch()">SEARCH MOVIE</button>
+<div class="movie-grid" id="grid">Loading Database...</div>
+
+<div class="pagination">
+    <button class="page-btn" onclick="changePage(-1)">← PREV</button>
+    <span class="page-info" id="pageNumber">Page 1</span>
+    <button class="page-btn" onclick="changePage(1)">NEXT →</button>
 </div>
-
-<div class="category-bar">
-    <span class="cat-item">Bollywood</span>
-    <span class="cat-item">Hollywood Hindi</span>
-    <span class="cat-item">South Hindi</span>
-    <span class="cat-item">Netflix</span>
-    <span class="cat-item">Web Series</span>
-</div>
-
-<div class="grid" id="mainGrid">
-    </div>
 
 <script>
-    // Master Search: Jo movie site par nahi hai, wo bhi dhoond lega!
-    function masterSearch() {
-        let q = document.getElementById('userSearch').value;
-        if(q) {
-            window.open('https://www.google.com/search?q=' + q + '+full+movie+download+hindi+dubbed', '_blank');
-        }
-    }
+    let allMovies = [];
+    let currentPage = 1;
+    const itemsPerPage = 20;
 
-    // Robot movies load karna
-    fetch('news.json').then(r => r.json()).then(data => {
-        let html = '';
-        data.news_items.forEach(m => {
-            html += `
+    function render() {
+        const grid = document.getElementById('grid');
+        grid.innerHTML = '';
+        
+        let start = (currentPage - 1) * itemsPerPage;
+        let end = start + itemsPerPage;
+        let currentItems = allMovies.slice(start, end);
+
+        currentItems.forEach(m => {
+            grid.innerHTML += `
                 <div class="card">
-                    <div class="poster">🎬</div>
+                    <img src="${m.img}" alt="Poster">
                     <div class="title">${m.title}</div>
-                    <a href="${m.link}" class="dl-btn">DOWNLOAD HD</a>
+                    <a href="${m.link}" target="_blank" class="dl-btn">DOWNLOAD (HD)</a>
                 </div>
             `;
         });
-        document.getElementById('mainGrid').innerHTML = html;
+
+        document.getElementById('pageNumber').innerText = `Page ${currentPage} of ${Math.ceil(allMovies.length / itemsPerPage)}`;
+        window.scrollTo(0,0);
+    }
+
+    function changePage(s) {
+        if ((currentPage + s) > 0 && (currentPage + s) <= Math.ceil(allMovies.length / itemsPerPage)) {
+            currentPage += s;
+            render();
+        }
+    }
+
+    fetch('news.json').then(r => r.json()).then(data => {
+        allMovies = data.news_items;
+        render();
     });
 </script>
 
