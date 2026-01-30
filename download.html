@@ -1,46 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download Movie | Filmy-AI</title>
-    <style>
-        body { background: #001524; color: white; font-family: sans-serif; text-align: center; margin: 0; }
-        .header { background: #ffcc00; color: black; padding: 15px; font-weight: bold; }
-        .container { padding: 20px; }
-        img { width: 200px; border: 3px solid #ffcc00; border-radius: 10px; }
-        .info { margin: 20px 0; background: #002d4a; padding: 15px; border-radius: 10px; text-align: left; }
-        .dl-btn { display: block; background: #00ff00; color: black; padding: 12px; margin: 10px 0; text-decoration: none; font-weight: bold; border-radius: 5px; }
-        .q-tag { background: #ffcc00; color: black; padding: 2px 5px; font-size: 12px; font-weight: bold; }
-    </style>
-</head>
-<body>
-    <div class="header">FILMY-AI DOWNLOAD SERVER</div>
-    <div class="container" id="content">Loading Movie Details...</div>
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const movieId = urlParams.get('id');
 
-    <script>
-        const urlParams = new URLSearchParams(window.location.search);
-        const movieId = urlParams.get('id');
-
-        fetch('news.json').then(r => r.json()).then(data => {
+    fetch('news.json?v=' + Date.now())
+        .then(r => r.json())
+        .then(data => {
+            // Movie ko ID se dhundna
             const m = data.news_items.find(x => x.id == movieId);
             if(m) {
                 document.getElementById('content').innerHTML = `
-                    <h1>${m.title}</h1>
-                    <img src="${m.img}">
-                    <div class="info">
-                        <p><b>Release:</b> ${m.year}</p>
-                        <p><b>Description:</b> ${m.desc}</p>
+                    <h2 style="color:#ffcc00">${m.title}</h2>
+                    <img src="${m.img}" style="width:200px; border:4px solid #ffcc00;">
+                    <div class="info" style="background:#002d4a; padding:15px; margin:20px 0; border-radius:10px; text-align:left;">
+                        <p><b>Quality:</b> 480p, 720p, 1080p (BlueRay)</p>
+                        <p><b>Language:</b> Hindi Dubbed</p>
+                        <p><b>Size:</b> ${m.size_720 || '1.2 GB'}</p>
                     </div>
-                    <h3>Choose Quality:</h3>
-                    <a href="#" class="dl-btn">DOWNLOAD 480p (${m.size_480})</a>
-                    <a href="#" class="dl-btn">DOWNLOAD 720p (${m.size_720})</a>
-                    <a href="#" class="dl-btn">DOWNLOAD 1080p (${m.size_1080})</a>
-                    <a href="#" class="dl-btn" style="background:red; color:white;">DOWNLOAD 320p (Low Quality)</a>
+                    <div style="background:#ffcc00; color:black; padding:10px; font-weight:bold; margin-bottom:10px;">DOWNLOAD LINKS BELOW</div>
+                    <a href="https://www.google.com/search?q=${m.title}+320p+download" class="dl-btn" style="background:#555">Download 320p (Low)</a>
+                    <a href="https://www.google.com/search?q=${m.title}+480p+download" class="dl-btn">Download 480p (HD)</a>
+                    <a href="https://www.google.com/search?q=${m.title}+720p+download" class="dl-btn">Download 720p (Full HD)</a>
+                    <a href="https://www.google.com/search?q=${m.title}+1080p+download" class="dl-btn" style="background:red; color:white;">Download 1080p (4K Quality)</a>
                 `;
             } else {
-                document.getElementById('content').innerHTML = "Movie Not Found!";
+                document.getElementById('content').innerHTML = "<h3>Movie Not Found! Go back to Home.</h3>";
             }
         });
-    </script>
-</body>
-</html>
+</script>
