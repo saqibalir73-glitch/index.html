@@ -1,55 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FILMY-AI PRO PORTAL</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmy-AI Pro | Mp4Moviez Style</title>
     <style>
-        body { background: #0b0f16; color: white; font-family: sans-serif; margin: 0; text-align: center; }
-        .header { background: #e50914; padding: 20px; font-size: 24px; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
-        .search-box { padding: 20px; background: #141a24; position: sticky; top: 0; z-index: 100; }
-        input { width: 85%; padding: 12px; border-radius: 20px; border: none; background: #222; color: #fff; outline: 1px solid #444; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; padding: 20px; }
-        .card { background: #1c2531; border-radius: 10px; overflow: hidden; border-bottom: 3px solid #e50914; transition: 0.3s; }
-        .card img { width: 100%; height: 210px; object-fit: cover; }
-        .m-title { padding: 10px; font-size: 12px; font-weight: bold; height: 35px; overflow: hidden; }
-        .dl-btn { background: #e50914; color: white; text-decoration: none; display: block; padding: 10px; font-weight: bold; }
+        body { background: #001524; color: #fff; font-family: 'Arial Narrow', sans-serif; margin: 0; }
+        .header { background: linear-gradient(#ffcc00, #ff9900); color: #000; padding: 10px; font-weight: bold; font-size: 22px; text-align: center; border-bottom: 2px solid #fff; }
+        .update-bar { background: #ff0000; color: #fff; padding: 5px; font-size: 13px; font-weight: bold; }
+        .search-area { padding: 10px; background: #002d4a; border-bottom: 1px solid #004b7c; }
+        input { width: 90%; padding: 10px; border: 2px solid #ffcc00; border-radius: 5px; background: #fff; color: #000; font-weight: bold; }
+        .category-title { background: #004b7c; padding: 8px; text-align: left; font-weight: bold; border-left: 5px solid #ffcc00; margin: 5px 0; }
+        .movie-list { display: flex; flex-direction: column; }
+        .movie-item { display: flex; align-items: center; padding: 10px; border-bottom: 1px solid #003554; background: #001f33; text-decoration: none; color: #fff; }
+        .movie-item:nth-child(even) { background: #002640; }
+        .movie-item img { width: 60px; height: 80px; object-fit: cover; border: 1px solid #ffcc00; margin-right: 15px; }
+        .movie-info { text-align: left; }
+        .movie-name { font-size: 15px; color: #ffcc00; font-weight: bold; margin-bottom: 5px; }
+        .dl-tag { background: #ffcc00; color: #000; padding: 2px 6px; font-size: 11px; border-radius: 3px; font-weight: bold; }
+        .pagination { padding: 20px; display: flex; justify-content: center; gap: 10px; }
+        .pg-btn { background: #ffcc00; color: #000; border: none; padding: 8px 15px; font-weight: bold; border-radius: 3px; cursor: pointer; }
     </style>
 </head>
 <body>
-    <div class="header">FILMY-AI PRO</div>
-    <div class="search-box">
-        <input type="text" id="srch" onkeyup="filterMovies()" placeholder="Search Movies (e.g. Pushpa)...">
+    <div class="header">FILMY-AI.NET</div>
+    <div class="update-bar">Latest: 10,000+ Movies Added! [HD Quality]</div>
+    <div class="search-area"><input type="text" id="srch" onkeyup="s()" placeholder="Search Movies Here..."></div>
+    
+    <div class="category-title">Latest Bollywood & Hollywood Movies</div>
+    <div id="status" style="padding: 10px; color: #ffcc00;">Robot Loading Files...</div>
+    <div class="movie-list" id="grid"></div>
+
+    <div class="pagination">
+        <button class="pg-btn" onclick="cp(-1)">PREV</button>
+        <span id="pnum" style="align-self:center; font-weight:bold;">Page 1</span>
+        <button class="pg-btn" onclick="cp(1)">NEXT</button>
     </div>
-    <div id="status" style="padding: 20px; color: yellow;">Connecting to Robot...</div>
-    <div class="grid" id="grid"></div>
 
     <script>
-        let db = [];
-        function filterMovies() {
+        let db = []; let p = 1; const sz = 20;
+        function s() {
             let q = document.getElementById('srch').value.toLowerCase();
-            let cards = document.getElementsByClassName('card');
-            for (let i = 0; i < cards.length; i++) {
-                let title = cards[i].innerText.toLowerCase();
-                cards[i].style.display = title.includes(q) ? "block" : "none";
-            }
+            render(db.filter(x => x.title.toLowerCase().includes(q)).slice(0, 20));
         }
-
-        fetch('news.json?v=' + Date.now())
-            .then(r => r.json())
-            .then(data => {
-                db = data.news_items;
-                document.getElementById('status').style.display = 'none';
-                document.getElementById('grid').innerHTML = db.map(m => `
-                    <div class="card">
-                        <img src="${m.img}" onerror="this.src='https://via.placeholder.com/150x200?text=Poster'">
-                        <div class="m-title">${m.title}</div>
-                        <a href="${m.link}" target="_blank" class="dl-btn">DOWNLOAD NOW</a>
+        function render(list) {
+            document.getElementById('grid').innerHTML = list.map(m => `
+                <a href="${m.link}" class="movie-item">
+                    <img src="${m.img}">
+                    <div class="movie-info">
+                        <div class="movie-name">${m.title}</div>
+                        <span class="dl-tag">HD Rip</span> <span class="dl-tag" style="background:#00ff00">Free Download</span>
                     </div>
-                `).join('');
-            }).catch(e => {
-                document.getElementById('status').innerHTML = "❌ Error: Robot ko news.json nahi mili.";
-            });
+                </a>
+            `).join('');
+        }
+        function cp(v) { p += v; if(p<1)p=1; document.getElementById('pnum').innerText = "Page "+p; render(db.slice((p-1)*sz, p*sz)); window.scrollTo(0,0); }
+        fetch('news.json?v=' + Date.now()).then(r => r.json()).then(data => {
+            db = data.news_items;
+            document.getElementById('status').style.display = 'none';
+            render(db.slice(0, sz));
+        });
     </script>
 </body>
 </html>
