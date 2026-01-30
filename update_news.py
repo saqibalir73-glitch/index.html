@@ -1,31 +1,31 @@
 import json
 import datetime
-import requests
 
-# Hum trending Bollywood aur Hollywood movies uthayenge
-def get_trending_movies():
-    # Note: Filhal main 30-40 trending movies ka setup de raha hoon
-    # Taake aapki site bhari hui lage
-    movies = [
-        "Pushpa 2 The Rule", "Singham Again", "Animal 2024", "Stree 2", 
-        "Kalki 2898 AD", "Jawan", "Pathaan", "Salaar", "Leo Hindi Dubbed",
-        "Deadpool and Wolverine Hindi", "Avatar 2 Hindi", "Spider-Man No Way Home Hindi",
-        "KGF Chapter 2", "RRR", "Kantaram", "Drishyam 2", "War", "Tiger 3"
-    ]
+# Shuruat ke liye bade movies ke naam
+seed_movies = ["Pushpa", "Animal", "Singham", "Jawan", "Pathaan", "Tiger", "Stree", "Kalki", "RRR", "KGF", "Drishyam", "Dangal", "War", "Leo", "Master", "Vikram", "Batman", "Spider-Man", "Avengers", "Joker"]
+years = ["2023", "2024", "2025", "2026"]
+qualities = ["HD", "4K", "Bluray", "Web-DL"]
+
+all_items = []
+
+# Loop jo 10,000 movies banayega
+for i in range(1, 10001):
+    m_name = seed_movies[i % len(seed_movies)]
+    year = years[i % len(years)]
+    quality = qualities[i % len(qualities)]
     
-    items = []
-    for m in movies:
-        items.append({
-            "title": m,
-            "content": f"Watch {m} Full Movie in HD Hindi Dubbed. High Speed Download Links Available.",
-            "link": f"https://www.google.com/search?q={m.replace(' ', '+')}+full+movie+download+hindi+dubbed"
-        })
-    return items
+    all_items.append({
+        "title": f"{m_name} Part {i} ({year}) {quality}",
+        "img": f"https://image.tmdb.org/t/p/w500/8cdcl36U69T9PUtC77Y95Y9Y9R6m.jpg",
+        "link": f"https://www.google.com/search?q={m_name}+full+movie+download+hindi"
+    })
 
 data = {
     "last_updated": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    "news_items": get_trending_movies()
+    "news_items": all_items
 }
 
 with open('news.json', 'w') as f:
     json.dump(data, f, indent=4)
+
+print("10,000 Movies Generated Successfully!")
