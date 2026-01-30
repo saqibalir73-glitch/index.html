@@ -1,96 +1,69 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premium Movie & Song Portal</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <title>Filmy-AI: All Movies Download</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        :root { --primary: #00b4d8; --bg: #0b0e14; --card-bg: #1a1f29; }
-        body { font-family: 'Poppins', sans-serif; background-color: var(--bg); color: white; margin: 0; padding-bottom: 50px; }
-        
-        /* Search Bar Section */
-        .navbar { background: #161b22; padding: 15px; position: sticky; top: 0; z-index: 1000; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
-        .search-box { max-width: 600px; margin: 0 auto; position: relative; }
-        .search-box input { width: 100%; padding: 12px 40px 12px 20px; border-radius: 25px; border: none; background: #2d333b; color: white; outline: none; }
-        .search-box i { position: absolute; right: 15px; top: 13px; color: var(--primary); }
-
-        .hero { text-align: center; padding: 40px 20px; background: linear-gradient(to bottom, #161b22, var(--bg)); }
-        
-        /* Grid Layout */
-        .container { max-width: 1200px; margin: 0 auto; padding: 20px; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
-        
-        .card { background: var(--card-bg); border-radius: 15px; overflow: hidden; transition: 0.3s; border: 1px solid #30363d; position: relative; }
-        .card:hover { transform: translateY(-10px); border-color: var(--primary); }
-        .card-img { width: 100%; height: 180px; background: #2d333b; display: flex; align-items: center; justify-content: center; font-size: 40px; color: #415a77; }
-        .card-body { padding: 15px; }
-        .card-title { font-size: 1.1rem; font-weight: bold; margin: 0 0 10px 0; color: #e0e1dd; }
-        
-        /* Action Buttons */
-        .actions { display: flex; justify-content: space-between; align-items: center; margin-top: 15px; border-top: 1px solid #30363d; padding-top: 10px; }
-        .btn-group { display: flex; gap: 10px; }
-        .icon-btn { color: #8b949e; cursor: pointer; font-size: 1.2rem; transition: 0.2s; }
-        .icon-btn:hover { color: var(--primary); }
-        .download-btn { background: var(--primary); color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-size: 0.8rem; font-weight: bold; }
-
-        .video-main { max-width: 900px; margin: 20px auto; border-radius: 15px; overflow: hidden; box-shadow: 0 0 20px var(--primary); }
+        body { background: #000; color: #fff; font-family: 'Arial', sans-serif; margin: 0; }
+        .nav { background: #ffcc00; color: #000; padding: 15px; font-weight: bold; font-size: 22px; text-align: center; }
+        .search-area { background: #1a1a1a; padding: 30px 10px; text-align: center; border-bottom: 2px solid #333; }
+        input { width: 85%; padding: 15px; border-radius: 30px; border: none; font-size: 16px; outline: none; }
+        .go-btn { background: #ffcc00; border: none; padding: 10px 20px; border-radius: 20px; font-weight: bold; margin-top: 10px; cursor: pointer; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; padding: 20px; }
+        .card { background: #111; border: 1px solid #333; border-radius: 10px; overflow: hidden; text-align: center; transition: 0.3s; }
+        .card:hover { border-color: #ffcc00; transform: scale(1.05); }
+        .poster { height: 200px; background: #222; display: flex; align-items: center; justify-content: center; font-size: 50px; }
+        .title { padding: 10px; font-size: 13px; font-weight: bold; height: 40px; }
+        .dl-btn { background: red; color: #fff; text-decoration: none; display: block; padding: 10px; font-size: 12px; font-weight: bold; }
+        .category-bar { background: #222; padding: 10px; overflow-x: auto; white-space: nowrap; }
+        .cat-item { display: inline-block; padding: 5px 15px; background: #333; margin: 5px; border-radius: 15px; font-size: 12px; }
     </style>
 </head>
 <body>
 
-    <div class="navbar">
-        <div class="search-box">
-            <input type="text" id="searchInput" onkeyup="searchFunction()" placeholder="Search Movies or Songs...">
-            <i class="fa fa-search"></i>
-        </div>
+<div class="nav">FILMY-AI PRO</div>
+
+<div class="search-area">
+    <input type="text" id="userSearch" placeholder="Search 50,000+ Movies (Hindi Dubbed)...">
+    <br>
+    <button class="go-btn" onclick="masterSearch()">SEARCH MOVIE</button>
+</div>
+
+<div class="category-bar">
+    <span class="cat-item">Bollywood</span>
+    <span class="cat-item">Hollywood Hindi</span>
+    <span class="cat-item">South Hindi</span>
+    <span class="cat-item">Netflix</span>
+    <span class="cat-item">Web Series</span>
+</div>
+
+<div class="grid" id="mainGrid">
     </div>
 
-    <div class="hero">
-        <h1>Bollywood Pro Portal</h1>
-        <p>Premium Trailers & Hits</p>
-        <div class="video-main">
-            <iframe width="100%" height="450" src="https://www.youtube.com/embed/YykjpeuMNEk" frameborder="0" allowfullscreen></iframe>
-        </div>
-    </div>
-
-    <div class="container" id="movieGrid">
-        <p id="loadingText">Robot is fetching 10+ updates...</p>
-    </div>
-
-    <script>
-        function searchFunction() {
-            let input = document.getElementById('searchInput').value.toLowerCase();
-            let cards = document.getElementsByClassName('card');
-            for (let i = 0; i < cards.length; i++) {
-                let title = cards[i].querySelector('.card-title').innerText.toLowerCase();
-                cards[i].style.display = title.includes(input) ? "" : "none";
-            }
+<script>
+    // Master Search: Jo movie site par nahi hai, wo bhi dhoond lega!
+    function masterSearch() {
+        let q = document.getElementById('userSearch').value;
+        if(q) {
+            window.open('https://www.google.com/search?q=' + q + '+full+movie+download+hindi+dubbed', '_blank');
         }
+    }
 
-        fetch('news.json')
-            .then(res => res.json())
-            .then(data => {
-                const container = document.getElementById('movieGrid');
-                container.innerHTML = '';
-                data.news_items.forEach(item => {
-                    container.innerHTML += `
-                        <div class="card">
-                            <div class="card-img"><i class="fa fa-play-circle"></i></div>
-                            <div class="card-body">
-                                <div class="card-title">${item.title}</div>
-                                <p style="font-size: 0.8rem; color: #8b949e;">${item.content.substring(0, 60)}...</p>
-                                <div class="actions">
-                                    <div class="btn-group">
-                                        <i class="fa fa-share-alt icon-btn" title="Share" onclick="alert('Link Copied!')"></i>
-                                        <i class="fa fa-heart icon-btn" title="Add to Favorites"></i>
-                                    </div>
-                                    <a href="${item.link}" class="download-btn"><i class="fa fa-download"></i> Download</a>
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                });
-            });
-    </script>
+    // Robot movies load karna
+    fetch('news.json').then(r => r.json()).then(data => {
+        let html = '';
+        data.news_items.forEach(m => {
+            html += `
+                <div class="card">
+                    <div class="poster">🎬</div>
+                    <div class="title">${m.title}</div>
+                    <a href="${m.link}" class="dl-btn">DOWNLOAD HD</a>
+                </div>
+            `;
+        });
+        document.getElementById('mainGrid').innerHTML = html;
+    });
+</script>
+
 </body>
 </html>
