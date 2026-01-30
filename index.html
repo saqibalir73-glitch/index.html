@@ -1,74 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filmy-AI Pro Portal</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmy-AI Pro</title>
     <style>
-        :root { --main: #e50914; --bg: #0b0f16; }
-        body { background: var(--bg); color: white; font-family: 'Segoe UI', sans-serif; margin: 0; }
-        .header { background: var(--main); padding: 20px; text-align: center; font-size: 24px; font-weight: bold; }
-        .search-section { padding: 20px; background: #141a24; position: sticky; top: 0; z-index: 100; }
-        input { width: 90%; padding: 15px; border-radius: 30px; border: none; background: #222; color: #fff; font-size: 16px; outline: 2px solid #333; }
-        input:focus { outline-color: var(--main); }
-        .movie-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; padding: 20px; }
-        .card { background: #1c2531; border-radius: 12px; overflow: hidden; border-bottom: 4px solid var(--main); transition: 0.3s; }
-        .card:hover { transform: translateY(-5px); }
-        .card img { width: 100%; height: 230px; object-fit: cover; }
-        .card-body { padding: 10px; }
-        .m-title { font-size: 13px; font-weight: bold; margin-bottom: 10px; height: 36px; overflow: hidden; }
-        .dl-btn { background: var(--main); color: white; text-decoration: none; display: block; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; font-size: 12px; }
+        body { background: #0b0f16; color: white; font-family: sans-serif; margin: 0; text-align: center; }
+        .header { background: #e50914; padding: 20px; font-size: 24px; font-weight: bold; }
+        .search-area { padding: 20px; background: #141a24; }
+        input { width: 85%; padding: 15px; border-radius: 25px; border: none; background: #222; color: #fff; outline: 1px solid #444; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; padding: 20px; }
+        .card { background: #1c2531; border-radius: 10px; overflow: hidden; border-bottom: 3px solid #e50914; }
+        .card img { width: 100%; height: 210px; object-fit: cover; }
+        .dl-btn { background: #e50914; color: white; text-decoration: none; display: block; padding: 10px; font-weight: bold; font-size: 12px; }
     </style>
 </head>
 <body>
+    <div class="header">FILMY-AI PRO</div>
+    <div class="search-area"><input type="text" id="srch" onkeyup="s()" placeholder="Search Movies..."></div>
+    <div id="m" style="padding: 20px;">Robot data connect kar raha hai...</div>
+    <div class="grid" id="g"></div>
 
-<div class="header">FILMY-AI PRO PORTAL</div>
-
-<div class="search-section">
-    <input type="text" id="mainSearch" onkeyup="searchNow()" placeholder="Search Movies (e.g. Pushpa, Hindi)...">
-</div>
-
-<div class="movie-grid" id="movieDisplay">
-    </div>
-
-<script>
-    let movieDB = [];
-
-    // Search function fix
-    function searchNow() {
-        let term = document.getElementById('mainSearch').value.toLowerCase();
-        let filtered = movieDB.filter(m => m.title.toLowerCase().includes(term));
-        displayMovies(filtered);
-    }
-
-    function displayMovies(list) {
-        const grid = document.getElementById('movieDisplay');
-        if(list.length === 0) {
-            grid.innerHTML = '<p style="grid-column: 1/-1;">No movies found. Try another name!</p>';
-            return;
+    <script>
+        let d = [];
+        function s() {
+            let q = document.getElementById('srch').value.toLowerCase();
+            show(d.filter(x => x.title.toLowerCase().includes(q)));
         }
-        grid.innerHTML = list.map(m => `
-            <div class="card">
-                <img src="${m.img}" alt="Poster">
-                <div class="card-body">
-                    <div class="m-title">${m.title}</div>
-                    <a href="${m.link}" class="dl-btn">DOWNLOAD NOW</a>
-                </div>
-            </div>
-        `).join('');
-    }
-
-    // Robot data connection
-    fetch('news.json')
-        .then(res => res.json())
-        .then(data => {
-            movieDB = data.news_items;
-            displayMovies(movieDB);
-        })
-        .catch(err => {
-            document.getElementById('movieDisplay').innerHTML = '❌ Robot data connect nahi ho raha. Actions run karein!';
+        function show(l) {
+            document.getElementById('g').innerHTML = l.map(x => `
+                <div class="card"><img src="${x.img}"><div style="padding:10px;font-size:12px;">${x.title}</div>
+                <a href="${x.link}" target="_blank" class="dl-btn">DOWNLOAD</a></div>
+            `).join('');
+        }
+        // Is line par dhyan dein: fetch ab error nahi dega
+        fetch('./news.json?v=' + Date.now()).then(r => r.json()).then(data => {
+            d = data.news_items;
+            document.getElementById('m').style.display = 'none';
+            show(d);
+        }).catch(e => {
+            document.getElementById('m').innerHTML = "❌ Robot abhi data likh raha hai. 30 seconds baad refresh karein.";
         });
-</script>
-
+    </script>
 </body>
 </html>
