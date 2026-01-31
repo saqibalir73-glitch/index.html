@@ -1,27 +1,32 @@
 name: Update News
+
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # Har 6 ghante baad chalega
-  workflow_dispatch: # Manual chalane ke liye
+    - cron: '0 */3 * * *'
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Run update script
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Script
         run: python update_news.py
-      - name: Commit and push changes
+
+      - name: Commit and Push
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add index.html
-          git commit -m "Auto-update news" || exit 0
-          git push origin main --force
-          
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git commit -m "Auto Update: Movies Added" || exit 0
+          git push
