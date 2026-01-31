@@ -1,19 +1,22 @@
-import requests, json
+import requests
+import json
 
-# TMDB se connect kar raha hai (Netflix/Filmyzilla data ke liye)
-def fetch_movies():
+def fetch_data():
+    # Google/TMDB Database Connector
     url = "https://api.themoviedb.org/3/trending/movie/week?api_key=138316d05242c6f75ef26cb3e316dd1d"
-    data = requests.get(url).json()
+    response = requests.get(url).json()
     movies = []
-    for m in data.get('results', []):
+    
+    for item in response.get('results', []):
         movies.append({
-            "id": str(m['id']),
-            "title": m['title'],
-            "year": m['release_date'][:4] if m.get('release_date') else "2026",
-            "img": f"https://image.tmdb.org/t/p/w500{m['poster_path']}"
+            "id": str(item['id']),
+            "title": item['title'],
+            "year": item['release_date'][:4] if item.get('release_date') else "2026",
+            "img": f"https://image.tmdb.org/t/p/w500{item['poster_path']}"
         })
+    
     with open('news.json', 'w') as f:
         json.dump({"news_items": movies}, f, indent=4)
 
 if __name__ == "__main__":
-    fetch_movies()
+    fetch_data()
