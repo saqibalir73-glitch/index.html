@@ -1,19 +1,50 @@
-<script>
-    // Ye code URL se ID pakadta hai (Jaise: download.html?id=123)
-    const params = new URLSearchParams(window.location.search);
-    const movieID = params.get('id');
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Center</title>
+    <style>
+        body { font-family: Tahoma; background: #f1f1f1; text-align: center; margin: 0; }
+        .dl-header { background: #e91e63; color: white; padding: 15px; font-weight: bold; }
+        .movie-box { background: white; margin: 10px; padding: 20px; border-radius: 8px; }
+        .movie-box img { width: 180px; border: 3px solid #ddd; border-radius: 5px; }
+        .btn { display: block; padding: 15px; margin: 10px; border-radius: 5px; color: white; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="dl-header" id="m-header">Processing Link...</div>
+    
+    <div class="movie-box">
+        <img id="m-poster" src="" alt="Loading...">
+        <h2 id="m-title">Fetching Title...</h2>
+    </div>
 
-    async function getMovieData() {
-        const res = await fetch('news.json');
-        const data = await res.json();
-        const movie = data.news_items.find(m => m.id == movieID);
+    <div style="background:#fff; padding:10px; margin:10px;">
+        <h3 style="color:red;">Download Links (No Waiting)</h3>
+        <a href="#" class="btn" style="background:green;">🚀 Download 480p (Fast)</a>
+        <a href="#" class="btn" style="background:blue;">🚀 Download 720p (HD)</a>
+        <a href="#" class="btn" style="background:red;">🚀 Download 1080p (Full HD)</a>
+    </div>
 
-        if(movie) {
-            document.getElementById('title').innerText = movie.title;
-            document.getElementById('poster').src = movie.img;
-            // Yahan automatic download links generate ho rahe hain
-            document.getElementById('dl-480').href = "https://google.com/search?q=download+" + movie.title + "+480p";
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const movieId = params.get('id');
+
+        async function loadMovieData() {
+            const res = await fetch('news.json');
+            const data = await res.json();
+            const movie = data.news_items.find(m => m.id == movieId);
+
+            if(movie) {
+                document.getElementById('m-header').innerText = "Download: " + movie.title;
+                document.getElementById('m-title').innerText = movie.title + " (" + movie.year + ")";
+                document.getElementById('m-poster').src = movie.img;
+                document.title = "Download " + movie.title;
+            } else {
+                document.body.innerHTML = "<h1>Error: Movie link expired or not found!</h1>";
+            }
         }
-    }
-    getMovieData();
-</script>
+        loadMovieData();
+    </script>
+</body>
+</html>
