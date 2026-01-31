@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hollywood Hindi Dubbed - Filmy AI</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; background-color: #f1f1f1; margin: 0; }
+        .header { background: #fff; text-align: center; padding: 10px; border-bottom: 3px solid #e91e63; }
+        .section-header { background: #e91e63; color: white; padding: 8px; text-align: center; font-weight: bold; }
+        .movie-card { background: #fff; border-bottom: 1px solid #ddd; padding: 10px; display: flex; text-decoration: none; color: #000; }
+        .movie-card img { width: 85px; height: 120px; border: 1px solid #ccc; margin-right: 12px; }
+        .movie-name { color: #0033cc; font-weight: bold; font-size: 15px; }
+        .download-info { color: #ff6600; font-size: 12px; font-weight: bold; margin-top: 5px; }
+        .back-btn { display: block; text-align: center; background: #333; color: #fff; padding: 10px; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h2 style="margin:0;">Hollywood Hindi Dubbed (2026)</h2>
+</div>
+
+<a href="index.html" class="back-btn">← Back to Home</a>
+
+<div class="section-header">Latest Hollywood Updates</div>
+
+<div id="hollywood-movies">
+    <p style="text-align:center; padding:20px;">Hollywood Movies load ho rahi hain...</p>
+</div>
+
+<script>
+    async function loadHollywood() {
+        try {
+            const response = await fetch('news.json');
+            const data = await response.json();
+            const container = document.getElementById('hollywood-movies');
+            container.innerHTML = '';
+
+            // Sirf Hollywood/English movies filter karne ke liye
+            data.news_items.forEach(movie => {
+                container.innerHTML += `
+                    <a href="download.html?id=${movie.id}" class="movie-card">
+                        <img src="${movie.img}" alt="poster">
+                        <div class="movie-details">
+                            <div class="movie-name">${movie.title} (${movie.year}) Dual Audio [Hindi-English]</div>
+                            <div class="download-info">Quality: 480p, 720p, 1080p</div>
+                            <div style="color: green; font-size: 11px;">Added: Today</div>
+                        </div>
+                    </a>
+                `;
+            });
+        } catch (e) {
+            console.log("Error:", e);
+        }
+    }
+    loadHollywood();
+</script>
+
+</body>
+</html>
