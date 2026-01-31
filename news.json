@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
             "id": "1168190",
             "title": "The Wrecking Crew",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
+        },
+        {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "1234731",
@@ -22,7 +22,7 @@
             "id": "840464",
             "title": "Greenland 2: Migration",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/nh43XSQegiFELtR1CyGHeqPMXBA.jpg"
         },
         {
             "id": "1198994",
@@ -37,28 +37,46 @@
             "img": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg"
         },
         {
-            "id": "991494",
-            "title": "The SpongeBob Movie: Search for SquarePants",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg"
-        },
-        {
-            "id": "1315303",
-            "title": "Primate",
+            "id": "1116201",
+            "title": "Iron Lung",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
         },
         {
-            "id": "1252037",
-            "title": "The Tank",
+            "id": "1368166",
+            "title": "The Housemaid",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+        },
+        {
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
         },
         {
             "id": "1167307",
             "title": "David",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg"
+        },
+        {
+            "id": "1317288",
+            "title": "Marty Supreme",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
+        },
+        {
+            "id": "1291608",
+            "title": "Dhurandhar",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
         },
         {
             "id": "1575337",
@@ -73,46 +91,28 @@
             "img": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg"
         },
         {
-            "id": "1220564",
-            "title": "The Secret Agent",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
-        },
-        {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
-        },
-        {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
-        },
-        {
-            "id": "1443762",
-            "title": "The Big Fake",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/A188B94iDLdB6499QBYbz74WgOF.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
-        },
-        {
             "id": "1233413",
             "title": "Sinners",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg"
         },
         {
-            "id": "1116201",
-            "title": "Iron Lung",
+            "id": "1054867",
+            "title": "One Battle After Another",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
+        },
+        {
+            "id": "701387",
+            "title": "Bugonia",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+        },
+        {
+            "id": "1315303",
+            "title": "Primate",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg"
         },
         {
             "id": "1206008",
