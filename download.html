@@ -1,73 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download Movie - Filmy AI</title>
-    <style>
-        body { font-family: Tahoma, sans-serif; background-color: #f1f1f1; margin: 0; padding: 0; text-align: center; }
-        .header { background: #fff; padding: 15px; border-bottom: 3px solid #e91e63; margin-bottom: 10px; }
-        .movie-content { background: #fff; margin: 10px; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        .movie-content img { width: 200px; border-radius: 5px; border: 2px solid #ddd; margin-bottom: 15px; }
-        .movie-title { color: #0033cc; font-size: 20px; font-weight: bold; margin-bottom: 10px; }
-        
-        /* Download Buttons Style */
-        .quality-header { background: #ff0080; color: white; padding: 8px; font-weight: bold; margin-top: 20px; }
-        .dl-btn { display: block; background: #4CAF50; color: white; padding: 12px; margin: 10px auto; width: 80%; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; }
-        .dl-btn.blue { background: #2196F3; }
-        .dl-btn.red { background: #f44336; }
-        .back-home { display: inline-block; margin-top: 20px; color: #333; text-decoration: none; font-weight: bold; }
-    </style>
-</head>
-<body>
-
-<div class="header">
-    <h2 style="margin:0;">Filmy-AI Downloader</h2>
-</div>
-
-<div class="movie-content" id="movie-details">
-    <p>Movie details load ho rahi hain...</p>
-</div>
-
-<div class="quality-header">Download Links</div>
-
-<div class="movie-content">
-    <a href="#" class="dl-btn" onclick="alert('480p Download Starting...')">Download 480p (400 MB)</a>
-    <a href="#" class="dl-btn blue" onclick="alert('720p Download Starting...')">Download 720p (1.1 GB)</a>
-    <a href="#" class="dl-btn red" onclick="alert('1080p Download Starting...')">Download 1080p (2.4 GB)</a>
-</div>
-
-<a href="index.html" class="back-home">← Back to Home</a>
-
 <script>
-    async function loadDownloadDetails() {
-        try {
-            // URL se movie ID nikalna
-            const urlParams = new URLSearchParams(window.location.search);
-            const movieId = urlParams.get('id');
+    // Ye code URL se ID pakadta hai (Jaise: download.html?id=123)
+    const params = new URLSearchParams(window.location.search);
+    const movieID = params.get('id');
 
-            const response = await fetch('news.json');
-            const data = await response.json();
-            
-            // Movie dhoondna data mein se
-            const movie = data.news_items.find(m => m.id == movieId);
+    async function getMovieData() {
+        const res = await fetch('news.json');
+        const data = await res.json();
+        const movie = data.news_items.find(m => m.id == movieID);
 
-            if (movie) {
-                document.getElementById('movie-details').innerHTML = `
-                    <div class="movie-title">${movie.title} (${movie.year})</div>
-                    <img src="${movie.img}" alt="poster">
-                    <p style="color: #666;">Language: Hindi Dubbed | Quality: BluRay</p>
-                `;
-                document.title = "Download " + movie.title;
-            } else {
-                document.getElementById('movie-details').innerHTML = "<p>Movie nahi mili!</p>";
-            }
-        } catch (e) {
-            console.log("Error loading details:", e);
+        if(movie) {
+            document.getElementById('title').innerText = movie.title;
+            document.getElementById('poster').src = movie.img;
+            // Yahan automatic download links generate ho rahe hain
+            document.getElementById('dl-480').href = "https://google.com/search?q=download+" + movie.title + "+480p";
         }
     }
-    loadDownloadDetails();
+    getMovieData();
 </script>
-
-</body>
-</html>
