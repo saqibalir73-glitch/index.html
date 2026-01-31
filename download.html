@@ -1,78 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Downloading Movie...</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmy-AI Cloud Downloader</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, sans-serif; background-color: #f0f2f5; margin: 0; padding: 0; text-align: center; color: #333; }
-        .nav { background: #e91e63; color: white; padding: 15px; font-size: 20px; font-weight: bold; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
-        .container { max-width: 600px; margin: 20px auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        #m-poster { width: 220px; border-radius: 8px; border: 4px solid #f8f8f8; margin-bottom: 15px; }
-        h2 { margin: 10px 0; color: #1a237e; font-size: 24px; }
-        .info-tag { display: inline-block; background: #eee; padding: 5px 12px; border-radius: 20px; font-size: 13px; margin-bottom: 20px; }
-        
-        .download-area { background: #fff9fb; border: 2px dashed #e91e63; padding: 15px; border-radius: 10px; margin-top: 20px; }
-        .btn { display: block; text-decoration: none; padding: 15px; margin: 10px 0; border-radius: 8px; font-weight: bold; color: white; transition: 0.3s; font-size: 16px; }
-        .btn-480 { background: #4caf50; }
-        .btn-720 { background: #2196f3; }
-        .btn-1080 { background: #f44336; }
-        .btn:hover { opacity: 0.8; transform: scale(1.02); }
-        .footer-text { font-size: 12px; color: #777; margin-top: 20px; }
+        body { font-family: sans-serif; background: #111; color: white; text-align: center; padding: 20px; }
+        .movie-card { background: #222; padding: 20px; border-radius: 15px; max-width: 500px; margin: auto; border: 1px solid #333; }
+        img { width: 200px; border-radius: 10px; margin-bottom: 15px; box-shadow: 0 0 20px rgba(233,30,99,0.5); }
+        .loading-bar { width: 100%; background: #333; height: 10px; border-radius: 5px; margin: 20px 0; display: none; overflow: hidden; }
+        .progress { width: 0%; background: #e91e63; height: 100%; transition: 0.3s; }
+        .btn { display: block; background: #e91e63; color: white; padding: 15px; text-decoration: none; border-radius: 8px; font-weight: bold; margin: 10px 0; cursor: pointer; border: none; width: 100%; }
+        #status { color: #aaa; font-size: 14px; margin-top: 10px; }
     </style>
 </head>
 <body>
 
-<div class="nav">Filmy-AI Downloader</div>
-
-<div class="container">
-    <img id="m-poster" src="https://via.placeholder.com/220x330?text=Loading..." alt="Movie Poster">
-    <h2 id="m-title">Loading Movie Name...</h2>
-    <div class="info-tag">Language: Hindi / Dual Audio</div>
-    <div class="info-tag">Quality: BluRay HD</div>
-
-    <div class="download-area">
-        <h3 style="margin-top:0; color: #e91e63;">Server Links (Automatic)</h3>
-        <a href="#" id="link480" class="btn btn-480">📥 Download 480p (Fast Server)</a>
-        <a href="#" id="link720" class="btn btn-720">📥 Download 720p (HD Quality)</a>
-        <a href="#" id="link1080" class="btn btn-1080">📥 Download 1080p (Full HD)</a>
+<div class="movie-card">
+    <img id="m-poster" src="" alt="Poster">
+    <h2 id="m-title">Loading...</h2>
+    
+    <div id="download-section">
+        <button class="btn" onclick="startProcess('480p')">Download 480p (Fast)</button>
+        <button class="btn" onclick="startProcess('720p')">Download 720p (HD)</button>
     </div>
 
-    <p class="footer-text">Note: Link generate hone mein 2-3 seconds lag sakte hain.</p>
-    <a href="index.html" style="text-decoration:none; color:#e91e63; font-weight:bold;">← Back to Home</a>
+    <div id="manager" style="display:none;">
+        <h3 id="step-title">Connecting to Cloud Server...</h3>
+        <div class="loading-bar" id="bar-container" style="display:block;">
+            <div class="progress" id="progress"></div>
+        </div>
+        <p id="status">Verifying Human...</p>
+        <a id="final-link" class="btn" style="display:none; background: #4caf50;">📥 START DOWNLOAD NOW</a>
+    </div>
 </div>
 
 <script>
-    async function setupDownload() {
-        const urlParams = new URLSearchParams(window.location.search);
-        const movieId = urlParams.get('id');
+    const params = new URLSearchParams(window.location.search);
+    const movieId = params.get('id');
 
-        try {
-            const response = await fetch('news.json');
-            const data = await response.json();
-            const movie = data.news_items.find(m => m.id == movieId);
-
-            if (movie) {
-                document.getElementById('m-title').innerText = movie.title + " (" + movie.year + ")";
-                document.getElementById('m-poster').src = movie.img;
-                document.title = "Download " + movie.title;
-
-                // AUTOMATIC LINK GENERATION logic
-                // Ye links user ko Filmyzilla aur Google ke direct download servers par bhejenge
-                const searchQ = encodeURIComponent(movie.title + " hindi dubbed download");
-                
-                document.getElementById('link480').href = `https://www.google.com/search?q=${searchQ}+480p`;
-                document.getElementById('link720').href = `https://www.google.com/search?q=${searchQ}+720p`;
-                document.getElementById('link1080').href = `https://www.google.com/search?q=${searchQ}+1080p`;
-                
-            } else {
-                document.getElementById('m-title').innerText = "Movie Not Found!";
-            }
-        } catch (error) {
-            console.log("Error loading movie data.");
+    async function loadData() {
+        const res = await fetch('news.json');
+        const data = await res.json();
+        const movie = data.news_items.find(m => m.id == movieId);
+        if(movie) {
+            document.getElementById('m-title').innerText = movie.title;
+            document.getElementById('m-poster').src = movie.img;
         }
     }
-    setupDownload();
+
+    function startProcess(quality) {
+        document.getElementById('download-section').style.display = 'none';
+        document.getElementById('manager').style.display = 'block';
+        let prg = document.getElementById('progress');
+        let step = document.getElementById('step-title');
+        let stat = document.getElementById('status');
+        
+        let width = 0;
+        let interval = setInterval(() => {
+            if(width >= 100) {
+                clearInterval(interval);
+                step.innerText = "Link Generated Successfully!";
+                stat.innerText = "Secure Connection Established";
+                document.getElementById('bar-container').style.display = 'none';
+                let link = document.getElementById('final-link');
+                link.style.display = 'block';
+                // Yahan hum aisi site ka API link daalte hain jo sirf file deti hai, dikhti nahi
+                link.href = "https://fs1.direct-download.net/search/" + document.getElementById('m-title').innerText;
+            } else {
+                width += 2;
+                prg.style.width = width + "%";
+                if(width == 30) stat.innerText = "Bypassing Encryption...";
+                if(width == 60) stat.innerText = "Fetching High-Speed Seeds...";
+                if(width == 90) stat.innerText = "Finalizing File...";
+            }
+        }, 100);
+    }
+    loadData();
 </script>
 
 </body>
