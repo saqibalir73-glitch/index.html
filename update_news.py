@@ -1,38 +1,35 @@
-import urllib.request
+import requests
 import json
-import datetime
+import os
 
-# Aapki Master Key
+# Google/TMDB API Connector
 API_KEY = "138316d05242c6f75ef26cb3e316dd1d"
 
-def get_movies():
-    movies = []
-    url = f"https://api.themoviedb.org/3/trending/movie/week?api_key={API_KEY}"
+def fetch_auto_movies():
+    # Trending aur Netflix Popular movies ka data
+    url = f"https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&sort_by=popularity.desc&with_original_language=en|hi"
+    
     try:
-        with urllib.request.urlopen(url) as response:
-            data = json.loads(response.read().decode())
-            if 'results' in data:
-                for i, res in enumerate(data['results'], 1):
-                    movies.append({
-                        "id": i,
-                        "title": res.get('title', 'No Title'),
-                        "img": f"https://image.tmdb.org/t/p/w500{res.get('poster_path')}",
-                        "year": res.get('release_date', '2025')[:4],
-                        "size_720": "1.4 GB",
-                        "desc": res.get('overview', 'No description available.'),
-                        "link": f"download.html?id={i}"
-                    })
+        response = requests.get(url)
+        data = response.json()
+        
+        movie_list = []
+        for movie in data.get('results', []):
+            movie_list.append({
+                "id": str(movie['id']),
+                "title": movie['title'],
+                "year": movie['release_date'][:4] if movie.get('release_date') else "2026",
+                "img": f"https://image.tmdb.org/t/p/w500{movie['poster_path']}",
+                "desc": movie.get('overview', 'No description available.')[:100] + "..."
+            })
+        
+        # News.json file ko update karna
+        with open('news.json', 'w') as f:
+            json.dump({"news_items": movie_list}, f, indent=4)
+        print("Done: Google Data Connected!")
+        
     except Exception as e:
         print(f"Error: {e}")
-    return movies
 
-movie_list = get_movies()
-data = {
-    "last_updated": datetime.datetime.now().strftime("%Y-%m-%d"),
-    "news_items": movie_list
-}
-
-with open('news.json', 'w') as f:
-    json.dump(data, f, indent=4)
-
-print(f"Success! {len(movie_list)} movies updated.")
+if __name__ == "__main__":
+    fetch_auto_movies()
