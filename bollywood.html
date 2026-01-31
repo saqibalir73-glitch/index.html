@@ -1,0 +1,13 @@
+<div id="bollywood-list"></div>
+<script>
+    async function loadBollywood() {
+        const res = await fetch('news.json');
+        const data = await res.json();
+        const container = document.getElementById('bollywood-list');
+        // Yahan logic hai ke sirf Bollywood dikhaye
+        data.news_items.forEach(movie => {
+            container.innerHTML += `<a href="download.html?id=${movie.id}">${movie.title}</a><br>`;
+        });
+    }
+    loadBollywood();
+</script>
