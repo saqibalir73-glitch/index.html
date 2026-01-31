@@ -5,28 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mp4Moviez - Download Free Movies</title>
     <style>
+        /* Professional Styles */
         body { font-family: Tahoma, Geneva, sans-serif; background-color: #f1f1f1; margin: 0; padding: 0; }
         .header { background: #fff; text-align: center; padding: 10px; border-bottom: 3px solid #e91e63; }
         .logo { font-size: 24px; font-weight: bold; color: #000; text-decoration: none; }
-        .telegram-btn { background: #0088cc; color: white; padding: 10px; margin: 10px; border-radius: 4px; text-decoration: none; display: block; font-weight: bold; font-size: 14px; }
-        
-        /* Category Styles */
-        .cat-box { background: #fff; border: 1px dashed #bbb; margin: 4px; padding: 12px; text-align: center; color: #d32f2f; font-weight: bold; font-size: 14px; cursor: pointer; }
-        
-        /* Updates Header */
-        .section-header { background: #e91e63; color: white; padding: 8px; text-align: center; font-weight: bold; font-size: 15px; margin-top: 5px; }
+        .telegram-btn { background: #0088cc; color: white; padding: 10px; margin: 10px; border-radius: 4px; text-decoration: none; display: block; font-weight: bold; text-align: center; }
+        .cat-box { background: #fff; border: 1px dashed #bbb; margin: 4px; padding: 12px; text-align: center; color: #d32f2f; font-weight: bold; font-size: 14px; }
+        .section-header { background: #e91e63; color: white; padding: 8px; text-align: center; font-weight: bold; }
         
         /* Movie List Styles */
         .movie-item { background: #fff; border-bottom: 1px solid #ddd; padding: 10px; display: flex; }
-        .movie-item img { width: 90px; height: 130px; border: 1px solid #ccc; margin-right: 12px; border-radius: 3px; }
-        .movie-details { flex: 1; }
-        .movie-name { color: #0033cc; font-weight: bold; font-size: 15px; text-decoration: none; line-height: 1.4; }
-        .movie-info { color: #ff6600; font-size: 12px; margin-top: 4px; font-weight: bold; }
-        .movie-quality { color: #800080; font-size: 12px; font-weight: bold; margin-top: 2px; }
-        
-        /* Footer/Folders Style */
-        .folder-row { background: #fff; border: 1px solid #eee; padding: 12px; display: flex; align-items: center; color: #d32f2f; font-weight: bold; text-decoration: none; border-bottom: 1px solid #ddd; }
-        .folder-icon { font-size: 20px; margin-right: 15px; color: #ff9800; }
+        .movie-item img { width: 85px; height: 120px; border: 1px solid #ccc; margin-right: 12px; }
+        .movie-name { color: #0033cc; font-weight: bold; font-size: 15px; text-decoration: none; }
+        .movie-info { color: #ff6600; font-size: 12px; font-weight: bold; margin-top: 4px; }
     </style>
 </head>
 <body>
@@ -36,24 +27,19 @@
     <a href="https://t.me/your_channel" class="telegram-btn">Join Us On Telegram</a>
 </div>
 
-<div class="cat-box">Latest Hollywood Movies (2026)</div>
-<div class="cat-box">Bollywood Hindi Full Movies (2026)</div>
-<div class="cat-box">South Indian Hindi Dubbed Movies (2026)</div>
+<div class="cat-box">Latest Bollywood Movies (2026)</div>
+<div class="cat-box">South Indian Hindi Dubbed (2026)</div>
 
 <div class="section-header">Latest Updates</div>
 
 <div id="movies-list">
-    <div style="padding:20px; text-align:center;">Asli Movies loading...</div>
+    <p style="text-align:center; padding:20px;">Posters Load Ho Rahe Hain...</p>
 </div>
 
 <div class="section-header">Full Categories</div>
 
-<a href="#" class="folder-row"><span class="folder-icon">📁</span> Request Your Movie</a>
-<a href="#" class="folder-row"><span class="folder-icon">📁</span> Hollywood Series Hindi Dubbed</a>
-<a href="#" class="folder-row"><span class="folder-icon">📁</span> South Indian Movies (Hindi)</a>
-<a href="#" class="folder-row"><span class="folder-icon">📁</span> Contact Us / DMCA</a>
-
 <script>
+    // Ye script aapke robot (update_news.py) ki banayi hui news.json se data uthayegi
     async function fetchMovies() {
         try {
             const response = await fetch('news.json');
@@ -66,15 +52,15 @@
                     <div class="movie-item">
                         <img src="${movie.img}" alt="poster">
                         <div class="movie-details">
-                            <a href="${movie.link}" class="movie-name">${movie.title} (${movie.year}) Hindi Dubbed HD</a>
-                            <div class="movie-info">Category: Hollywood Hindi Dubbed (2026)</div>
-                            <div class="movie-quality">Added: [ HD + Mp4 ]</div>
+                            <a href="#" class="movie-name">${movie.title} (${movie.year}) Hindi Dubbed HD</a>
+                            <div class="movie-info">Category: Hollywood Hindi Dubbed</div>
+                            <div style="color: #800080; font-size: 12px; font-weight: bold;">Added: [ HD + Mp4 ]</div>
                         </div>
                     </div>
                 `;
             });
         } catch (e) {
-            console.log("Error loading movies:", e);
+            document.getElementById('movies-list').innerHTML = "<p style='text-align:center;'>Pehle GitHub Actions Run Karein!</p>";
         }
     }
     fetchMovies();
