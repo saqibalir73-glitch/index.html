@@ -1,24 +1,38 @@
+import requests
 import json
 import datetime
 
-titles = ["Pushpa 2", "Singham Again", "Animal", "Stree 2", "Kalki 2898 AD", "Jawan", "Pathaan", "Tiger 3", "Gadar 2", "Salaar"]
-imgs = ["https://image.tmdb.org/t/p/w500/9v9S9r47kX98L7OUnv9Y4I3E3mS.jpg", "https://image.tmdb.org/t/p/w500/6v7FvN2D6mO1O5N4VfV7O9S9R6m.jpg", "https://image.tmdb.org/t/p/w500/hr9JAz68vXmG8V6Tz8O9A5X6U5m.jpg"]
+# Aapki Master Key
+API_KEY = "138316d05242c6f75ef26cb3e316dd1d"
+BASE_URL = "https://api.themoviedb.org/3"
 
-movies = []
-for i in range(1, 10001):
-    m_name = titles[i % len(titles)]
-    movies.append({
-        "id": i,
-        "title": f"{m_name} (2026) Official Hindi Dubbed HD",
-        "img": imgs[i % len(imgs)],
-        "year": "2026",
-        "size_480": "450MB",
-        "size_720": "1.2GB",
-        "size_1080": "2.8GB",
-        "desc": f"{m_name} is an upcoming Indian action thriller. Download in full HD original quality.",
-        "link": f"download.html?id={i}" # Ye link aapki site ke download page par le jayega
-    })
+def get_movies():
+    movies = []
+    # Hum trending movies uthayenge taake posters asli hon
+    url = f"{BASE_URL}/trending/movie/week?api_key={API_KEY}"
+    response = requests.get(url).json()
+    
+    if 'results' in response:
+        for i, res in enumerate(response['results'], 1):
+            movies.append({
+                "id": i,
+                "title": res.get('title', 'No Title'),
+                "img": f"https://image.tmdb.org/t/p/w500{res.get('poster_path')}",
+                "year": res.get('release_date', '2025')[:4],
+                "size_720": "1.4 GB",
+                "desc": res.get('overview', 'No description available.'),
+                "link": f"download.html?id={i}"
+            })
+    return movies
 
-data = {"last_updated": datetime.datetime.now().strftime("%Y-%m-%d"), "news_items": movies}
+# Data update karna
+movie_list = get_movies()
+data = {
+    "last_updated": datetime.datetime.now().strftime("%Y-%m-%d"),
+    "news_items": movie_list
+}
+
 with open('news.json', 'w') as f:
     json.dump(data, f, indent=4)
+
+print(f"Mubarak ho! {len(movie_list)} movies asli posters ke saath update ho gayi hain.")
