@@ -1,21 +1,51 @@
-<div id="movie-grid"></div>
-<script>
-    async function loadAutoMovies() {
-        const response = await fetch('news.json');
-        const data = await response.json();
-        const container = document.getElementById('movie-grid');
-        container.innerHTML = '';
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmy-AI | Automatic Movies</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; background: #f1f1f1; margin: 0; padding: 0; }
+        .header { background: #fff; padding: 15px; text-align: center; border-bottom: 3px solid #e91e63; }
+        .cat-box { background: #fff; border: 1px dashed #bbb; margin: 5px; padding: 15px; text-align: center; color: #d32f2f; font-weight: bold; cursor: pointer; display: block; text-decoration: none; }
+        .section-header { background: #e91e63; color: white; padding: 10px; text-align: center; font-weight: bold; }
+        .movie-card { background: #fff; border-bottom: 1px solid #ddd; padding: 10px; display: flex; text-decoration: none; color: #000; }
+        .movie-card img { width: 85px; height: 120px; margin-right: 12px; border: 1px solid #ccc; border-radius: 4px; }
+        .m-name { color: #0033cc; font-weight: bold; font-size: 15px; }
+    </style>
+</head>
+<body>
+    <div class="header"><h1>Filmy-AI Automatic</h1></div>
+    
+    <a href="index.html" class="cat-box">📁 All Latest Movies (Auto-Sync)</a>
+    <a href="hollywood.html" class="cat-box">📁 Hollywood Hindi Dubbed</a>
 
-        data.news_items.forEach(movie => {
-            container.innerHTML += `
-                <a href="download.html?id=${movie.id}" class="movie-card">
-                    <img src="${movie.img}">
-                    <div class="info">
-                        <b>${movie.title}</b>
-                        <p>Auto-Updated from Google</p>
-                    </div>
-                </a>`;
-        });
-    }
-    loadAutoMovies();
-</script>
+    <div class="section-header">Latest Updates From Server</div>
+    <div id="movie-container">
+        <p style="text-align:center; padding:20px;">Google/Server se movies connect ho rahi hain...</p>
+    </div>
+
+    <script>
+        async function fetchAutoMovies() {
+            try {
+                const res = await fetch('news.json');
+                const data = await res.json();
+                const container = document.getElementById('movie-container');
+                container.innerHTML = '';
+
+                data.news_items.forEach(movie => {
+                    container.innerHTML += `
+                        <a href="download.html?id=${movie.id}" class="movie-card">
+                            <img src="${movie.img}" alt="poster">
+                            <div>
+                                <div class="m-name">${movie.title} (${movie.year})</div>
+                                <div style="color:#ff6600; font-size:12px; font-weight:bold; margin-top:5px;">Quality: 480p, 720p, 1080p [Hindi]</div>
+                                <div style="color:purple; font-size:11px;">Status: ✅ Full Movie Added</div>
+                            </div>
+                        </a>`;
+                });
+            } catch (e) { container.innerHTML = "<p>Data connect nahi ho raha. Actions check karein.</p>"; }
+        }
+        fetchAutoMovies();
+    </script>
+</body>
+</html>
