@@ -1,43 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filmy-AI | Official</title>
-    <style>
-        body { font-family: Tahoma; background: #f1f1f1; margin: 0; }
-        .header { background: #fff; text-align: center; padding: 15px; border-bottom: 3px solid #e91e63; }
-        .cat-box { background: #fff; border: 1px dashed #bbb; margin: 5px; padding: 15px; text-align: center; color: #d32f2f; font-weight: bold; cursor: pointer; display: block; text-decoration: none; }
-        .section-header { background: #e91e63; color: white; padding: 10px; text-align: center; font-weight: bold; }
-        .movie-card { background: #fff; border-bottom: 1px solid #ddd; padding: 10px; display: flex; text-decoration: none; color: #000; }
-        .movie-card img { width: 80px; height: 110px; margin-right: 10px; border: 1px solid #ccc; }
-    </style>
-</head>
-<body>
-    <div class="header"><h1>Filmy-AI</h1></div>
-    
-    <a href="bollywood.html" class="cat-box">📁 Latest Bollywood Movies (2026)</a>
-    <a href="hollywood.html" class="cat-box">📁 Hollywood Hindi Dubbed (2026)</a>
+<div id="movie-grid"></div>
+<script>
+    async function loadAutoMovies() {
+        const response = await fetch('news.json');
+        const data = await response.json();
+        const container = document.getElementById('movie-grid');
+        container.innerHTML = '';
 
-    <div class="section-header">Latest Updates</div>
-    <div id="latest-movies"></div>
-
-    <script>
-        async function loadLatest() {
-            const res = await fetch('news.json');
-            const data = await res.json();
-            const container = document.getElementById('latest-movies');
-            data.news_items.slice(0, 10).forEach(movie => {
-                container.innerHTML += `
-                    <a href="download.html?id=${movie.id}" class="movie-card">
-                        <img src="${movie.img}">
-                        <div>
-                            <b style="color:#0033cc">${movie.title}</b><br>
-                            <small style="color:#ff6600">Full Movie [Hindi-Dubbed]</small>
-                        </div>
-                    </a>`;
-            });
-        }
-        loadLatest();
-    </script>
-</body>
-</html>
+        data.news_items.forEach(movie => {
+            container.innerHTML += `
+                <a href="download.html?id=${movie.id}" class="movie-card">
+                    <img src="${movie.img}">
+                    <div class="info">
+                        <b>${movie.title}</b>
+                        <p>Auto-Updated from Google</p>
+                    </div>
+                </a>`;
+        });
+    }
+    loadAutoMovies();
+</script>
