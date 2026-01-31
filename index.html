@@ -2,50 +2,59 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filmy-AI | Automatic Movies</title>
+    <title>Filmy-AI | Official Movie Portal</title>
     <style>
         body { font-family: Tahoma, sans-serif; background: #f1f1f1; margin: 0; padding: 0; }
         .header { background: #fff; padding: 15px; text-align: center; border-bottom: 3px solid #e91e63; }
-        .cat-box { background: #fff; border: 1px dashed #bbb; margin: 5px; padding: 15px; text-align: center; color: #d32f2f; font-weight: bold; cursor: pointer; display: block; text-decoration: none; }
+        .search-box { padding: 10px; width: 80%; margin: 10px auto; display: block; border: 1px solid #ccc; border-radius: 20px; outline: none; }
         .section-header { background: #e91e63; color: white; padding: 10px; text-align: center; font-weight: bold; }
-        .movie-card { background: #fff; border-bottom: 1px solid #ddd; padding: 10px; display: flex; text-decoration: none; color: #000; }
-        .movie-card img { width: 85px; height: 120px; margin-right: 12px; border: 1px solid #ccc; border-radius: 4px; }
-        .m-name { color: #0033cc; font-weight: bold; font-size: 15px; }
+        .movie-card { background: #fff; border-bottom: 1px solid #ddd; padding: 12px; display: flex; text-decoration: none; color: #000; transition: 0.3s; }
+        .movie-card:hover { background: #f9f9f9; }
+        .movie-card img { width: 85px; height: 120px; margin-right: 15px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
+        .m-name { color: #0033cc; font-weight: bold; font-size: 16px; margin-bottom: 5px; }
+        .m-info { color: #ff6600; font-size: 12px; font-weight: bold; }
     </style>
 </head>
 <body>
-    <div class="header"><h1>Filmy-AI Automatic</h1></div>
+    <div class="header"><h1>Filmy-AI.Org</h1></div>
     
-    <a href="index.html" class="cat-box">📁 All Latest Movies (Auto-Sync)</a>
-    <a href="hollywood.html" class="cat-box">📁 Hollywood Hindi Dubbed</a>
+    <input type="text" id="searchInput" class="search-box" placeholder="Search Netflix/Bollywood Movies..." onkeyup="searchMovie()">
 
-    <div class="section-header">Latest Updates From Server</div>
+    <div class="section-header">Latest Updates (Auto-Sync)</div>
     <div id="movie-container">
-        <p style="text-align:center; padding:20px;">Google/Server se movies connect ho rahi hain...</p>
+        <p style="text-align:center; padding:20px;">Movies Load Ho Rahi Hain...</p>
     </div>
 
     <script>
-        async function fetchAutoMovies() {
+        let allMovies = [];
+        async function loadMovies() {
             try {
                 const res = await fetch('news.json');
                 const data = await res.json();
-                const container = document.getElementById('movie-container');
-                container.innerHTML = '';
-
-                data.news_items.forEach(movie => {
-                    container.innerHTML += `
-                        <a href="download.html?id=${movie.id}" class="movie-card">
-                            <img src="${movie.img}" alt="poster">
-                            <div>
-                                <div class="m-name">${movie.title} (${movie.year})</div>
-                                <div style="color:#ff6600; font-size:12px; font-weight:bold; margin-top:5px;">Quality: 480p, 720p, 1080p [Hindi]</div>
-                                <div style="color:purple; font-size:11px;">Status: ✅ Full Movie Added</div>
-                            </div>
-                        </a>`;
-                });
-            } catch (e) { container.innerHTML = "<p>Data connect nahi ho raha. Actions check karein.</p>"; }
+                allMovies = data.news_items;
+                displayMovies(allMovies);
+            } catch (e) { document.getElementById('movie-container').innerHTML = "Actions Run Karein!"; }
         }
-        fetchAutoMovies();
+
+        function displayMovies(movies) {
+            const container = document.getElementById('movie-container');
+            container.innerHTML = movies.map(movie => `
+                <a href="download.html?id=${movie.id}" class="movie-card">
+                    <img src="${movie.img}" alt="poster">
+                    <div>
+                        <div class="m-name">${movie.title} (${movie.year})</div>
+                        <div class="m-info">Netflix Original | Hindi Dubbed</div>
+                        <div style="color: #666; font-size: 11px; margin-top:5px;">${movie.desc}</div>
+                    </div>
+                </a>`).join('');
+        }
+
+        function searchMovie() {
+            let term = document.getElementById('searchInput').value.toLowerCase();
+            let filtered = allMovies.filter(m => m.title.toLowerCase().includes(term));
+            displayMovies(filtered);
+        }
+        loadMovies();
     </script>
 </body>
 </html>
