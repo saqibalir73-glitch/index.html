@@ -1,21 +1,59 @@
-// download.html ke script mein ye wala connection check lagayein
-async function loadData() {
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Manager | AllMoviesHD</title>
+    <style>
+        body { font-family: sans-serif; background: #000; color: #fff; text-align: center; }
+        .card { background: #111; margin: 30px auto; padding: 20px; max-width: 400px; border-radius: 15px; border: 2px solid #e91e63; }
+        img { width: 100%; border-radius: 10px; }
+        .btn { display: block; background: #4caf50; color: #fff; padding: 15px; text-decoration: none; border-radius: 8px; font-weight: bold; margin-top: 20px; cursor: pointer; border: none; width: 100%; }
+        #mgr { display: none; margin-top: 20px; }
+        .bar { width: 100%; background: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 10px 0; }
+        .fill { width: 0%; background: #00ff00; height: 100%; transition: 0.1s; }
+    </style>
+</head>
+<body>
+<div class="card">
+    <img id="poster" src="">
+    <h2 id="title">Loading...</h2>
+    <button class="btn" id="dl-btn" onclick="startDL()">📥 START DIRECT DOWNLOAD</button>
+    <div id="mgr">
+        <h3>Connecting to Server...</h3>
+        <div class="bar"><div class="fill" id="fill"></div></div>
+        <p id="status">Bypassing Firewalls...</p>
+    </div>
+</div>
+
+<script>
     const params = new URLSearchParams(window.location.search);
-    const mId = params.get('id');
-    
-    try {
+    const movieName = params.get('name');
+
+    async function setup() {
         const res = await fetch('news.json');
         const data = await res.json();
-        // ID ko match karne ka naya aur pakka tarikha
-        const movie = data.news_items.find(m => String(m.id) === String(mId));
-        
+        const movie = data.news_items.find(m => m.title === movieName);
         if(movie) {
             document.getElementById('title').innerText = movie.title;
             document.getElementById('poster').src = movie.img;
-        } else {
-            document.getElementById('title').innerText = "Movie Data Syncing... Please Wait";
         }
-    } catch(e) {
-        console.log("Json Error");
     }
-}
+
+    function startDL() {
+        document.getElementById('dl-btn').style.display = 'none';
+        document.getElementById('mgr').style.display = 'block';
+        let w = 0;
+        let t = setInterval(() => {
+            w += 5;
+            document.getElementById('fill').style.width = w + "%";
+            if(w >= 100) {
+                clearInterval(t);
+                // Bina Khwari Wala Direct Link
+                window.location.href = "https://www.google.com/search?q=intitle:index.of+mp4+" + encodeURIComponent(movieName) + "&btnI=1";
+            }
+        }, 100);
+    }
+    setup();
+</script>
+</body>
+</html>
