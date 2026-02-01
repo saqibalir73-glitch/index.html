@@ -2,33 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AllMoviesHD Hindi | Secure Download</title>
+    <title>AllMoviesHD Hindi | Pro Player & Downloader</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #0b0b0b; color: white; text-align: center; margin: 0; }
-        .header { background: #e91e63; padding: 15px; font-weight: bold; font-size: 22px; }
-        .card { background: #161616; margin: 30px auto; padding: 25px; max-width: 420px; border-radius: 15px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
-        img { width: 100%; border-radius: 10px; border: 2px solid #222; margin-bottom: 20px; }
-        .dl-btn { display: block; background: #4caf50; color: white; padding: 18px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 18px; cursor: pointer; border: none; width: 100%; box-shadow: 0 4px 10px rgba(76,175,80,0.3); }
-        #loader { display: none; margin-top: 20px; }
-        .progress-bar { width: 100%; background: #222; height: 12px; border-radius: 6px; overflow: hidden; margin: 15px 0; border: 1px solid #444; }
-        .fill { width: 0%; background: #00ff00; height: 100%; transition: 0.1s; }
-        #status-text { font-size: 13px; color: #8bc34a; font-family: monospace; }
+        body { font-family: 'Segoe UI', sans-serif; background: #000; color: white; text-align: center; margin: 0; }
+        .nav { background: #e91e63; padding: 15px; font-weight: bold; font-size: 20px; }
+        .player-container { width: 100%; max-width: 800px; margin: 20px auto; background: #111; border-radius: 10px; overflow: hidden; border: 2px solid #333; }
+        iframe { width: 100%; height: 450px; border: none; }
+        .download-area { margin: 20px; padding: 20px; background: #1a1a1a; border-radius: 10px; }
+        .btn { display: inline-block; background: #4caf50; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px; cursor: pointer; border: none; font-size: 16px; }
+        .btn-blue { background: #2196f3; }
     </style>
 </head>
 <body>
 
-<div class="header">ALLMOVIESHD HINDI</div>
+<div class="nav">ALLMOVIESHD HINDI - PRO SERVER</div>
 
-<div class="card">
-    <img id="poster" src="" alt="Poster">
-    <h2 id="title">Loading Movie...</h2>
-    
-    <button class="dl-btn" id="start-btn" onclick="startOfficialDL()">🚀 START DIRECT DOWNLOAD</button>
+<div id="movie-content">
+    <div class="player-container">
+        <iframe id="video-player" src="" allowfullscreen></iframe>
+    </div>
 
-    <div id="loader">
-        <h3 id="step">Bypassing Encryption...</h3>
-        <div class="progress-bar"><div class="fill" id="fill"></div></div>
-        <p id="status-text">> Handshake Successful</p>
+    <div class="download-area">
+        <h2 id="m-title">Loading Movie Title...</h2>
+        <p>Agar player load na ho, toh niche diye gaye buttons use karein:</p>
+        
+        <button class="btn" onclick="openServer('vidsrc')">📥 SERVER 1 (HD)</button>
+        <button class="btn btn-blue" onclick="openServer('superembed')">📥 SERVER 2 (Fast)</button>
     </div>
 </div>
 
@@ -36,44 +35,34 @@
     const urlParams = new URLSearchParams(window.location.search);
     const mID = urlParams.get('movieid');
 
-    async function loadMovie() {
+    async function initServer() {
         const res = await fetch('news.json');
         const data = await res.json();
         const movie = data.news_items[mID];
+
         if(movie) {
-            document.getElementById('title').innerText = movie.title;
-            document.getElementById('poster').src = movie.img;
+            document.getElementById('m-title').innerText = movie.title;
+            // Ye API movies ko title se dhoond kar player mein chala degi
+            const playerUrl = "https://vidsrc.me/embed/movie?title=" + encodeURIComponent(movie.title);
+            document.getElementById('video-player').src = playerUrl;
         }
     }
 
-    function startOfficialDL() {
-        document.getElementById('start-btn').style.display = 'none';
-        document.getElementById('loader').style.display = 'block';
-        let bar = document.getElementById('fill');
-        let status = document.getElementById('status-text');
-        let step = document.getElementById('step');
-        let w = 0;
-
-        let timer = setInterval(() => {
-            w += 2;
-            bar.style.width = w + "%";
-            
-            if(w == 30) { step.innerText = "Connecting to File Node..."; status.innerText = "> Fetching Secure Token..."; }
-            if(w == 60) { step.innerText = "Optimizing Speed..."; status.innerText = "> Port 8080: Open"; }
-            if(w == 90) { step.innerText = "Starting Stream..."; status.innerText = "> Handing to Browser Manager..."; }
-
-            if(w >= 100) {
-                clearInterval(timer);
-                const title = document.getElementById('title').innerText;
-                
-                // FINAL ATTACK: Google ka direct video filter
-                const finalLink = "https://www.google.com/search?q=" + encodeURIComponent(title) + "+filetype:mp4+direct+download";
-                
-                window.location.href = finalLink;
-            }
-        }, 100);
+    function openServer(srv) {
+        const title = document.getElementById('m-title').innerText;
+        let finalUrl = "";
+        
+        if(srv === 'vidsrc') {
+            finalUrl = "https://vidsrc.to/v2/embed/movie/" + encodeURIComponent(title);
+        } else {
+            finalUrl = "https://multiembed.mov/?video_id=" + encodeURIComponent(title);
+        }
+        
+        window.open(finalUrl, '_blank');
     }
-    loadMovie();
+
+    initServer();
 </script>
+
 </body>
 </html>
