@@ -1,60 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filmy-AI | Official Movie Portal</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AllMoviesHD Hindi | Dual Audio & Bollywood</title>
     <style>
-        body { font-family: Tahoma, sans-serif; background: #f1f1f1; margin: 0; padding: 0; }
-        .header { background: #fff; padding: 15px; text-align: center; border-bottom: 3px solid #e91e63; }
-        .search-box { padding: 10px; width: 80%; margin: 10px auto; display: block; border: 1px solid #ccc; border-radius: 20px; outline: none; }
-        .section-header { background: #e91e63; color: white; padding: 10px; text-align: center; font-weight: bold; }
-        .movie-card { background: #fff; border-bottom: 1px solid #ddd; padding: 12px; display: flex; text-decoration: none; color: #000; transition: 0.3s; }
-        .movie-card:hover { background: #f9f9f9; }
-        .movie-card img { width: 85px; height: 120px; margin-right: 15px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
-        .m-name { color: #0033cc; font-weight: bold; font-size: 16px; margin-bottom: 5px; }
-        .m-info { color: #ff6600; font-size: 12px; font-weight: bold; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
+        .header { background: #fff; padding: 20px; text-align: center; border-bottom: 4px solid #e91e63; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .logo { font-size: 30px; font-weight: 900; color: #333; text-transform: uppercase; margin: 0; }
+        .logo span { color: #e91e63; }
+        .search-box { width: 85%; max-width: 500px; padding: 12px 20px; margin: 20px auto; display: block; border: 2px solid #ddd; border-radius: 30px; outline: none; font-size: 16px; }
+        .section-title { background: #333; color: #fff; padding: 10px; font-weight: bold; text-align: center; }
+        .movie-list { display: flex; flex-direction: column; }
+        .movie-item { background: #fff; display: flex; padding: 12px; text-decoration: none; color: #333; border-bottom: 1px solid #eee; transition: 0.2s; }
+        .movie-item:hover { background: #fff0f5; }
+        .movie-item img { width: 80px; height: 110px; border-radius: 5px; object-fit: cover; margin-right: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
+        .m-details { display: flex; flex-direction: column; justify-content: center; }
+        .m-title { font-weight: bold; font-size: 17px; color: #0033cc; margin-bottom: 5px; }
+        .m-tag { font-size: 12px; background: #ff6600; color: #fff; padding: 2px 8px; border-radius: 4px; width: fit-content; font-weight: bold; }
     </style>
 </head>
 <body>
-    <div class="header"><h1>Filmy-AI.Org</h1></div>
-    
-    <input type="text" id="searchInput" class="search-box" placeholder="Search Netflix/Bollywood Movies..." onkeyup="searchMovie()">
 
-    <div class="section-header">Latest Updates (Auto-Sync)</div>
-    <div id="movie-container">
-        <p style="text-align:center; padding:20px;">Movies Load Ho Rahi Hain...</p>
-    </div>
+<div class="header">
+    <div class="logo"><span>ALL</span>MOVIES<span>HD</span> HINDI</div>
+</div>
 
-    <script>
-        let allMovies = [];
-        async function loadMovies() {
-            try {
-                const res = await fetch('news.json');
-                const data = await res.json();
-                allMovies = data.news_items;
-                displayMovies(allMovies);
-            } catch (e) { document.getElementById('movie-container').innerHTML = "Actions Run Karein!"; }
-        }
+<input type="text" id="srch" class="search-box" placeholder="Search Movies (Hindi, English, Dual Audio)..." onkeyup="filterMovies()">
 
-        function displayMovies(movies) {
-            const container = document.getElementById('movie-container');
-            container.innerHTML = movies.map(movie => `
-                <a href="download.html?id=${movie.id}" class="movie-card">
-                    <img src="${movie.img}" alt="poster">
-                    <div>
-                        <div class="m-name">${movie.title} (${movie.year})</div>
-                        <div class="m-info">Netflix Original | Hindi Dubbed</div>
-                        <div style="color: #666; font-size: 11px; margin-top:5px;">${movie.desc}</div>
-                    </div>
-                </a>`).join('');
-        }
+<div class="section-title">LATEST UPDATES</div>
+<div id="movie-container" class="movie-list">
+    <p style="text-align:center; padding:20px;">Connecting to Cloud Server...</p>
+</div>
 
-        function searchMovie() {
-            let term = document.getElementById('searchInput').value.toLowerCase();
-            let filtered = allMovies.filter(m => m.title.toLowerCase().includes(term));
-            displayMovies(filtered);
-        }
-        loadMovies();
-    </script>
+<script>
+    let allMovies = [];
+    async function loadMovies() {
+        try {
+            const res = await fetch('news.json');
+            const data = await res.json();
+            allMovies = data.news_items;
+            display(allMovies);
+        } catch (e) { document.getElementById('movie-container').innerHTML = "<p style='text-align:center;'>Click 'Run Workflow' in Actions to load movies.</p>"; }
+    }
+
+    function display(movies) {
+        const container = document.getElementById('movie-container');
+        container.innerHTML = movies.map(m => `
+            <a href="download.html?id=${m.id}" class="movie-item">
+                <img src="${m.img}" alt="poster">
+                <div class="m-details">
+                    <div class="m-title">${m.title} (${m.year})</div>
+                    <div class="m-tag">Hindi Dubbed | 720p HD</div>
+                </div>
+            </a>`).join('');
+    }
+
+    function filterMovies() {
+        let val = document.getElementById('srch').value.toLowerCase();
+        let filtered = allMovies.filter(m => m.title.toLowerCase().includes(val));
+        display(filtered);
+    }
+    loadMovies();
+</script>
+
 </body>
 </html>
