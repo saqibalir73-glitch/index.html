@@ -79,6 +79,12 @@
             "img": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg"
         },
         {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
+        },
+        {
             "id": "1291608",
             "title": "Dhurandhar",
             "year": "2025",
@@ -89,12 +95,6 @@
             "title": "Mercy",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
         },
         {
             "id": "1206008",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
         },
         {
-            "id": "701387",
-            "title": "Bugonia",
+            "id": "1220564",
+            "title": "The Secret Agent",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
         }
     ]
 }
