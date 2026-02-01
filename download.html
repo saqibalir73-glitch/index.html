@@ -2,32 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AllMoviesHD Hindi | Direct Download</title>
+    <title>AllMoviesHD Hindi | Direct Server</title>
     <style>
         body { font-family: sans-serif; background: #000; color: white; text-align: center; margin: 0; }
-        .header { background: #e91e63; padding: 15px; font-weight: bold; font-size: 22px; }
+        .nav { background: #e91e63; padding: 15px; font-weight: bold; font-size: 20px; }
         .card { background: #111; margin: 20px auto; padding: 25px; max-width: 450px; border-radius: 15px; border: 1px solid #333; }
         img { width: 100%; border-radius: 10px; margin-bottom: 20px; }
-        .dl-button { display: block; background: #4caf50; color: white; padding: 18px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 18px; margin-top: 20px; border: none; width: 100%; cursor: pointer; }
-        .loader-container { display: none; padding: 20px; background: #1a1a1a; border-radius: 10px; margin-top: 15px; }
-        .progress-bar { width: 100%; background: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 15px 0; }
-        .progress-fill { width: 0%; background: #00ff00; height: 100%; transition: 0.1s; }
+        .dl-btn { display: block; background: #4caf50; color: white; padding: 18px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 18px; margin-top: 20px; border: none; width: 100%; cursor: pointer; }
+        #loader { display: none; padding: 20px; background: #1a1a1a; border-radius: 10px; margin-top: 15px; }
+        .bar { width: 100%; background: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 15px 0; }
+        .fill { width: 0%; background: #00ff00; height: 100%; transition: 0.1s; }
     </style>
 </head>
 <body>
 
-<div class="header">ALLMOVIESHD HINDI</div>
+<div class="nav">ALLMOVIESHD HINDI</div>
 
 <div class="card">
-    <img id="poster" src="" alt="Movie Poster">
-    <h2 id="title">Loading Movie...</h2>
+    <img id="poster" src="" alt="Poster">
+    <h2 id="title">Loading...</h2>
     
-    <button class="dl-button" id="start-btn" onclick="startFilmyzillaDownload()">📥 START DIRECT DOWNLOAD</button>
+    <button class="dl-btn" id="start-btn" onclick="startDirectDownload()">📥 DOWNLOAD FROM SERVER 1</button>
 
-    <div id="loader" class="loader-container">
-        <h3 id="step">Fetching High-Speed Server...</h3>
-        <div class="progress-bar"><div class="fill" id="fill" style="width:0%; background:#4caf50; height:100%;"></div></div>
-        <p id="status" style="font-size:12px; color:#8bc34a;">Connecting to File Node...</p>
+    <div id="loader">
+        <h3 id="step">Connecting to Filmyzilla Server...</h3>
+        <div class="bar"><div class="fill" id="fill"></div></div>
+        <p id="status" style="font-size:12px; color:#8bc34a;">Handshake Successful</p>
     </div>
 </div>
 
@@ -35,7 +35,7 @@
     const params = new URLSearchParams(window.location.search);
     const mId = params.get('id');
 
-    async function loadMovie() {
+    async function load() {
         const res = await fetch('news.json');
         const data = await res.json();
         const movie = data.news_items.find(m => m.id == mId);
@@ -45,37 +45,38 @@
         }
     }
 
-    function startFilmyzillaDownload() {
+    function startDirectDownload() {
         document.getElementById('start-btn').style.display = 'none';
         document.getElementById('loader').style.display = 'block';
-        
         let fill = document.getElementById('fill');
         let step = document.getElementById('step');
-        let stat = document.getElementById('status');
         let w = 0;
 
         let timer = setInterval(() => {
-            w += 2;
+            w += 1;
             fill.style.width = w + "%";
-            
-            if(w == 30) { step.innerText = "Requesting Token..."; stat.innerText = "IP Verified: 103.44.x.x"; }
-            if(w == 60) { step.innerText = "Bypassing Server Load..."; stat.innerText = "Speed Optimized: 10MB/s"; }
-            if(w == 90) { step.innerText = "Finalizing Secure Stream..."; stat.innerText = "Handshake Successful"; }
+            if(w == 40) step.innerText = "Generating Download Token...";
+            if(w == 80) step.innerText = "Finalizing Secure Stream...";
 
             if(w >= 100) {
                 clearInterval(timer);
-                // YE HAI MAIN PART: User ko lagega download aapki site se ho raha hai
-                // Hum Filmyzilla ke direct CDN link ko background mein call karenge
                 const movieName = document.getElementById('title').innerText;
-                const finalLink = "https://server.filmyzilla-api.com/download/" + encodeURIComponent(movieName);
                 
-                // Direct download start karne ke liye hidden link trigger
-                window.location.href = "https://www.google.com/search?q=index+of+mp4+" + encodeURIComponent(movieName);
+                // Filmyzilla style direct link logic
+                // Ye browser ko kahega ke file download karo, search mat dikhao
+                const directLink = "https://fs1.direct-download.net/fetch?title=" + encodeURIComponent(movieName);
+                
+                let a = document.createElement('a');
+                a.href = directLink;
+                a.download = movieName + ".mp4";
+                document.body.appendChild(a);
+                a.click();
+                
+                step.innerText = "Download Started!";
             }
-        }, 100);
+        }, 50);
     }
-    loadMovie();
+    load();
 </script>
-
 </body>
 </html>
