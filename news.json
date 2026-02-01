@@ -37,18 +37,6 @@
             "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
-        },
-        {
-            "id": "1575337",
-            "title": "Cosmic Princess Kaguya!",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg"
-        },
-        {
             "id": "858024",
             "title": "Hamnet",
             "year": "2025",
@@ -59,6 +47,18 @@
             "title": "Iron Lung",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+        },
+        {
+            "id": "1317288",
+            "title": "Marty Supreme",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        },
+        {
+            "id": "1575337",
+            "title": "Cosmic Princess Kaguya!",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg"
         },
         {
             "id": "1167307",
@@ -97,28 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
         },
         {
-            "id": "1054867",
-            "title": "One Battle After Another",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
-        },
-        {
             "id": "1206008",
             "title": "Ella McCay",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg"
         },
         {
+            "id": "1054867",
+            "title": "One Battle After Another",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
+        },
+        {
+            "id": "1290821",
+            "title": "Shelter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
+        },
+        {
             "id": "701387",
             "title": "Bugonia",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
-        },
-        {
-            "id": "991494",
-            "title": "The SpongeBob Movie: Search for SquarePants",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg"
         }
     ]
 }
