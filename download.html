@@ -2,67 +2,54 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AllMoviesHD | Direct Server</title>
+    <title>Download Movie | AllMoviesHD</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #000; color: #FFF; text-align: center; margin: 0; }
-        .nav { background: #e91e63; padding: 15px; font-weight: bold; font-size: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
-        .card { background: #111; margin: 25px auto; padding: 25px; max-width: 450px; border-radius: 15px; border: 1px solid #333; }
-        img { width: 100%; border-radius: 10px; margin-bottom: 25px; }
-        .dl-btn { display: block; background: #e91e63; color: white; padding: 15px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 18px; margin: 10px 0; border: none; width: 100%; cursor: pointer; }
-        .dl-btn:hover { background: #c2185b; }
-        #status-msg { color: #888; font-family: monospace; font-size: 14px; margin-top: 15px; }
+        body { font-family: sans-serif; background: #000; color: #fff; text-align: center; margin: 0; padding: 20px; }
+        .container { max-width: 500px; margin: auto; background: #111; padding: 20px; border-radius: 15px; border: 1px solid #e91e63; }
+        img { width: 100%; border-radius: 10px; margin-bottom: 20px; }
+        .btn { display: block; background: #e91e63; color: #fff; padding: 15px; text-decoration: none; border-radius: 8px; font-weight: bold; margin-top: 15px; cursor: pointer; border: none; font-size: 18px; }
+        h1 { font-size: 22px; color: #e91e63; }
     </style>
 </head>
 <body>
-
-<div class="nav">ALLMOVIESHD - DIRECT DOWNLOAD</div>
-
-<div class="card">
-    <img id="m-img" src="" alt="Movie Poster">
-    <h2 id="m-title" style="color: #e91e63;">Loading...</h2>
-    
-    <div id="btn-group">
-        <button class="dl-btn" onclick="fetchLink()">🚀 SERVER 1: HIGH SPEED (3GB)</button>
-        <button class="dl-btn" style="background:#2196F3;" onclick="fetchLink()">📥 SERVER 2: CLOUD DOWNLOAD</button>
+    <div class="container">
+        <img id="poster" src="https://via.placeholder.com/500x750?text=Loading+Poster..." alt="Poster">
+        <h1 id="title">Loading Movie Name...</h1>
+        <p>File Size: 1.2 GB | Quality: HD 1080p</p>
+        <button onclick="startDownload()" class="btn">🚀 GENERATE DOWNLOAD LINK</button>
+        <p id="msg" style="margin-top:10px; color:#888;"></p>
     </div>
-    <div id="status-msg">Scanning for safe links...</div>
-</div>
 
-<script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const movieId = urlParams.get('id');
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const mid = params.get('id');
 
-    async function loadMovieDetails() {
-        try {
-            const response = await fetch('news.json');
-            const data = await response.json();
-            const movie = data.news_items.find(m => m.id === movieId);
-
-            if (movie) {
-                document.getElementById('m-title').innerText = movie.title;
-                document.getElementById('m-img').src = movie.img;
-                window.downloadUrl = movie.link;
-            } else {
-                document.getElementById('m-title').innerText = "Movie Not Found";
-            }
-        } catch (e) {
-            console.error("Error loading movie:", e);
+        async function init() {
+            try {
+                const res = await fetch('news.json');
+                const data = await res.json();
+                const movie = data.news_items.find(m => m.id === mid);
+                if(movie) {
+                    document.getElementById('title').innerText = movie.title;
+                    document.getElementById('poster').src = movie.img;
+                    window.finalLink = movie.link;
+                } else {
+                    document.getElementById('title').innerText = "Click Below to Download";
+                }
+            } catch(e) { console.log(e); }
         }
-    }
 
-    function fetchLink() {
-        if (window.downloadUrl) {
-            document.getElementById('status-msg').innerText = "Redirecting to secure server...";
+        function startDownload() {
+            document.getElementById('msg').innerText = "Please wait, secure link generating...";
             setTimeout(() => {
-                window.location.href = window.downloadUrl;
-            }, 1000);
-        } else {
-            alert("Download link not ready. Please try again.");
+                if(window.finalLink) {
+                    window.location.href = window.finalLink;
+                } else {
+                    alert("System busy! Please refresh page and try again.");
+                }
+            }, 2000);
         }
-    }
-
-    loadMovieDetails();
-</script>
-
+        init();
+    </script>
 </body>
 </html>
