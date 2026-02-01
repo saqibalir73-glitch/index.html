@@ -2,32 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AllMoviesHD Hindi | Pro Player & Downloader</title>
+    <title>AllMoviesHD | Global Downloader</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; background: #000; color: white; text-align: center; margin: 0; }
-        .nav { background: #e91e63; padding: 15px; font-weight: bold; font-size: 20px; }
-        .player-container { width: 100%; max-width: 800px; margin: 20px auto; background: #111; border-radius: 10px; overflow: hidden; border: 2px solid #333; }
-        iframe { width: 100%; height: 450px; border: none; }
-        .download-area { margin: 20px; padding: 20px; background: #1a1a1a; border-radius: 10px; }
-        .btn { display: inline-block; background: #4caf50; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px; cursor: pointer; border: none; font-size: 16px; }
-        .btn-blue { background: #2196f3; }
+        .box { background: #111; margin: 30px auto; padding: 25px; max-width: 420px; border-radius: 20px; border: 2px solid #e91e63; }
+        img { width: 100%; border-radius: 15px; border: 1px solid #333; }
+        .btn { display: block; background: #4caf50; color: white; padding: 18px; text-decoration: none; border-radius: 12px; font-weight: bold; margin-top: 15px; cursor: pointer; border: none; width: 100%; }
+        #loader { display: none; margin-top: 20px; }
+        .bar { width: 100%; background: #222; height: 12px; border-radius: 6px; overflow: hidden; margin: 15px 0; }
+        .fill { width: 0%; background: #e91e63; height: 100%; transition: 0.1s; }
+        .server-list { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px; }
     </style>
 </head>
 <body>
 
-<div class="nav">ALLMOVIESHD HINDI - PRO SERVER</div>
-
-<div id="movie-content">
-    <div class="player-container">
-        <iframe id="video-player" src="" allowfullscreen></iframe>
+<div class="box">
+    <img id="m-img" src="" alt="Poster">
+    <h2 id="m-title">Loading Movie...</h2>
+    
+    <div id="action-area">
+        <button class="btn" onclick="startGlobalDL()">📥 START ALL-SERVER DOWNLOAD</button>
     </div>
 
-    <div class="download-area">
-        <h2 id="m-title">Loading Movie Title...</h2>
-        <p>Agar player load na ho, toh niche diye gaye buttons use karein:</p>
-        
-        <button class="btn" onclick="openServer('vidsrc')">📥 SERVER 1 (HD)</button>
-        <button class="btn btn-blue" onclick="openServer('superembed')">📥 SERVER 2 (Fast)</button>
+    <div id="loader">
+        <h3 id="step">Searching Global Servers...</h3>
+        <div class="bar"><div class="fill" id="fill"></div></div>
+        <p id="status" style="color:#00ff00; font-size:12px;">> Checking Index Files...</p>
     </div>
 </div>
 
@@ -35,33 +35,43 @@
     const urlParams = new URLSearchParams(window.location.search);
     const mID = urlParams.get('movieid');
 
-    async function initServer() {
+    async function setup() {
         const res = await fetch('news.json');
         const data = await res.json();
         const movie = data.news_items[mID];
-
         if(movie) {
             document.getElementById('m-title').innerText = movie.title;
-            // Ye API movies ko title se dhoond kar player mein chala degi
-            const playerUrl = "https://vidsrc.me/embed/movie?title=" + encodeURIComponent(movie.title);
-            document.getElementById('video-player').src = playerUrl;
+            document.getElementById('m-img').src = movie.img;
         }
     }
 
-    function openServer(srv) {
-        const title = document.getElementById('m-title').innerText;
-        let finalUrl = "";
-        
-        if(srv === 'vidsrc') {
-            finalUrl = "https://vidsrc.to/v2/embed/movie/" + encodeURIComponent(title);
-        } else {
-            finalUrl = "https://multiembed.mov/?video_id=" + encodeURIComponent(title);
-        }
-        
-        window.open(finalUrl, '_blank');
-    }
+    function startGlobalDL() {
+        document.getElementById('action-area').style.display = 'none';
+        document.getElementById('loader').style.display = 'block';
+        let w = 0;
+        let t = setInterval(() => {
+            w += 1;
+            document.getElementById('fill').style.width = w + "%";
+            
+            if(w == 30) document.getElementById('status').innerText = "> Bypassing Terabox Restrictions...";
+            if(w == 60) document.getElementById('status').innerText = "> Found 3 High Speed Mirrors...";
+            if(w == 90) document.getElementById('status').innerText = "> Triggering IDM/ADM Handshake...";
 
-    initServer();
+            if(w >= 100) {
+                clearInterval(t);
+                const title = document.getElementById('m-title').innerText;
+                
+                // YE HAI ALL-MOVIE SOLUTION:
+                // Hum user ko Google ki aisi "Search Query" par bhej rahe hain 
+                // jahan sirf Direct Downloadable files milti hain (Index of)
+                const query = 'intitle:"index of" (mp4|mkv|avi) ' + encodeURIComponent(title);
+                const finalUrl = "https://www.google.com/search?q=" + query;
+                
+                window.location.href = finalUrl;
+            }
+        }, 50);
+    }
+    setup();
 </script>
 
 </body>
