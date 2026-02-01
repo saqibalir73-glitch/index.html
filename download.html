@@ -2,72 +2,108 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AllMoviesHD | Direct Download</title>
+    <title>IDM Downloader | AllMoviesHD</title>
     <style>
-        body { font-family: sans-serif; background: #000; color: #fff; text-align: center; margin: 0; }
-        .container { background: #111; margin: 30px auto; padding: 25px; max-width: 420px; border-radius: 20px; border: 2px solid #e91e63; }
-        img { width: 100%; border-radius: 15px; margin-bottom: 20px; border: 1px solid #333; }
-        .dl-btn { display: block; background: #4caf50; color: #fff; padding: 18px; text-decoration: none; border-radius: 12px; font-weight: bold; font-size: 18px; cursor: pointer; border: none; width: 100%; }
-        #loader { display: none; margin-top: 20px; }
-        .bar-bg { width: 100%; background: #222; height: 12px; border-radius: 6px; overflow: hidden; margin: 15px 0; }
-        .bar-fill { width: 0%; background: #e91e63; height: 100%; transition: 0.1s; }
-        #status { color: #00ff00; font-family: monospace; font-size: 13px; }
+        body { font-family: 'Segoe UI', sans-serif; background: #121212; color: white; margin: 0; display: flex; align-items: center; justify-content: center; height: 100vh; }
+        /* IDM Style Box */
+        .idm-box { background: #e0e0e0; color: #333; width: 450px; border: 2px solid #666; border-radius: 5px; box-shadow: 10px 10px 20px rgba(0,0,0,0.5); font-size: 13px; text-align: left; }
+        .idm-header { background: linear-gradient(to bottom, #eeeeee, #cccccc); padding: 5px 10px; border-bottom: 1px solid #999; font-weight: bold; display: flex; justify-content: space-between; }
+        .idm-body { padding: 15px; }
+        .idm-row { display: flex; margin-bottom: 10px; }
+        .idm-label { width: 100px; color: #555; }
+        .idm-input { flex: 1; background: white; border: 1px solid #999; padding: 3px 5px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+        .idm-footer { background: #f0f0f0; padding: 10px; text-align: right; border-top: 1px solid #ccc; }
+        .idm-btn { padding: 5px 20px; margin-left: 5px; border: 1px solid #777; background: #e1e1e1; cursor: pointer; font-size: 12px; }
+        .idm-btn-main { background: #4caf50; color: white; border: 1px solid #388e3c; font-weight: bold; }
+        
+        /* Progress Bar */
+        #download-ui { display: none; }
+        .progress-container { width: 100%; background: #ddd; height: 20px; border: 1px solid #999; margin-top: 10px; position: relative; }
+        .progress-fill { width: 0%; background: #000080; height: 100%; transition: 0.1s; }
+        .pct-text { position: absolute; width: 100%; text-align: center; color: white; mix-blend-mode: difference; font-weight: bold; line-height: 20px; }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <img id="m-img" src="" alt="Loading...">
-    <h2 id="m-name">Fetching Movie...</h2>
+<div class="idm-box">
+    <div class="idm-header">
+        <span>Internet Download Manager</span>
+        <span style="cursor:pointer">X</span>
+    </div>
     
-    <button class="dl-btn" id="main-btn" onclick="triggerDL()">📥 START DIRECT DOWNLOAD</button>
+    <div class="idm-body">
+        <div class="idm-row">
+            <div class="idm-label">URL:</div>
+            <div class="idm-input" id="m-url">http://server1.allmovieshd.hindi/file.mp4</div>
+        </div>
+        <div class="idm-row">
+            <div class="idm-label">Category:</div>
+            <div class="idm-input">Videos</div>
+        </div>
+        <div class="idm-row">
+            <div class="idm-label">Save As:</div>
+            <div class="idm-input" id="m-title" style="font-weight:bold;">Movie_HD.mp4</div>
+        </div>
 
-    <div id="loader">
-        <h3 id="step">Connecting to File Server...</h3>
-        <div class="bar-bg"><div class="bar-fill" id="fill"></div></div>
-        <p id="status">> Status: 200 OK</p>
+        <div id="download-ui">
+            <div id="status-text">Downloading file...</div>
+            <div class="progress-container">
+                <div class="pct-text" id="pct">0%</div>
+                <div class="progress-fill" id="fill"></div>
+            </div>
+            <div style="display:flex; justify-content:space-between; margin-top:5px;">
+                <span id="speed">Speed: 8.5 MB/s</span>
+                <span id="time">Time left: 00:01:24</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="idm-footer" id="footer-btns">
+        <button class="idm-btn idm-btn-main" onclick="startIDM()">Start Download</button>
+        <button class="idm-btn" onclick="window.history.back()">Cancel</button>
     </div>
 </div>
 
 <script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const mID = urlParams.get('movieid');
+    const params = new URLSearchParams(window.location.search);
+    const mID = params.get('movieid');
 
-    async function loadMovie() {
+    async function setup() {
         const res = await fetch('news.json');
         const data = await res.json();
         const movie = data.news_items[mID];
         if(movie) {
-            document.getElementById('m-name').innerText = movie.title;
-            document.getElementById('m-img').src = movie.img;
+            document.getElementById('m-title').innerText = movie.title.replace(/\s+/g, '_') + ".mp4";
+            document.getElementById('m-url').innerText = "http://allmovieshd.cdn/" + movie.title.substring(0,10) + "/stream.mp4";
         }
     }
 
-    function triggerDL() {
-        document.getElementById('main-btn').style.display = 'none';
-        document.getElementById('loader').style.display = 'block';
+    function startIDM() {
+        document.getElementById('download-ui').style.display = 'block';
+        document.getElementById('footer-btns').style.display = 'none';
+        
+        let fill = document.getElementById('fill');
+        let pct = document.getElementById('pct');
         let w = 0;
-        let t = setInterval(() => {
-            w += 2;
-            document.getElementById('fill').style.width = w + "%";
-            
-            if(w == 40) document.getElementById('status').innerText = "> Sending Handshake to Server...";
-            if(w == 80) document.getElementById('status').innerText = "> Link Generated: SECURE-ID-" + Math.floor(Math.random()*9999);
+
+        let interval = setInterval(() => {
+            w += Math.random() * 3;
+            if (w > 100) w = 100;
+            fill.style.width = w + "%";
+            pct.innerText = Math.floor(w) + "%";
 
             if(w >= 100) {
-                clearInterval(t);
-                const title = document.getElementById('m-name').innerText;
+                clearInterval(interval);
+                document.getElementById('status-text').innerText = "Download Complete!";
                 
-                // ASLI ENGINE: Ye user ko Google Search se bacha kar seedha index page par le jayega
-                // Jahan movies ki list hoti hai aur IDM khud-ba-khud link utha leta hai
-                const target = "https://www.google.com/search?q=intitle:%22index+of%22+mp4+" + encodeURIComponent(title) + "&btnI=1";
-                
-                window.location.href = target;
-                document.getElementById('step').innerText = "Download Started!";
+                // Asli Download Trigger
+                const movieName = document.getElementById('m-title').innerText;
+                const finalLink = "https://www.google.com/search?q=intitle:index.of+mp4+" + encodeURIComponent(movieName) + "&btnI=1";
+                window.location.href = finalLink;
             }
-        }, 80);
+        }, 150);
     }
-    loadMovie();
+    setup();
 </script>
 
 </body>
