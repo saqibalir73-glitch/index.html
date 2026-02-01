@@ -4,13 +4,13 @@
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AllMoviesHD | Direct Server</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #000; color: #fff; text-align: center; margin: 0; }
+        body { font-family: 'Segoe UI', sans-serif; background: #000; color: #FFF; text-align: center; margin: 0; }
         .nav { background: #e91e63; padding: 15px; font-weight: bold; font-size: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
         .card { background: #111; margin: 25px auto; padding: 25px; max-width: 450px; border-radius: 15px; border: 1px solid #333; }
-        img { width: 100%; border-radius: 10px; margin-bottom: 20px; }
-        .dl-btn { display: block; background: #4caf50; color: white; padding: 18px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 18px; margin: 10px 0; border: none; width: 100%; cursor: pointer; }
-        .dl-btn:hover { background: #45a049; }
-        #status-msg { color: #8bc34a; font-family: monospace; font-size: 13px; margin-top: 10px; }
+        img { width: 100%; border-radius: 10px; margin-bottom: 25px; }
+        .dl-btn { display: block; background: #e91e63; color: white; padding: 15px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 18px; margin: 10px 0; border: none; width: 100%; cursor: pointer; }
+        .dl-btn:hover { background: #c2185b; }
+        #status-msg { color: #888; font-family: monospace; font-size: 14px; margin-top: 15px; }
     </style>
 </head>
 <body>
@@ -19,45 +19,49 @@
 
 <div class="card">
     <img id="m-img" src="" alt="Movie Poster">
-    <h2 id="m-title" style="color:#e91e63;">Loading...</h2>
+    <h2 id="m-title" style="color: #e91e63;">Loading...</h2>
     
     <div id="btn-group">
-        <button class="dl-btn" onclick="fetchLink()">📥 SERVER 1: HIGH SPEED (IDM)</button>
-        <button class="dl-btn" style="background:#2196f3;" onclick="fetchLink()">📥 SERVER 2: CLOUD DOWNLOAD</button>
+        <button class="dl-btn" onclick="fetchLink()">🚀 SERVER 1: HIGH SPEED (3GB)</button>
+        <button class="dl-btn" style="background:#2196F3;" onclick="fetchLink()">📥 SERVER 2: CLOUD DOWNLOAD</button>
     </div>
-
-    <p id="status-msg">> Ready to fetch media...</p>
+    <div id="status-msg">Scanning for safe links...</div>
 </div>
 
 <script>
     const urlParams = new URLSearchParams(window.location.search);
-    const mID = urlParams.get('movieid');
+    const movieId = urlParams.get('id');
 
-    async function load() {
-        const res = await fetch('news.json');
-        const data = await res.json();
-        const movie = data.news_items[mID];
-        if(movie) {
-            document.getElementById('m-title').innerText = movie.title;
-            document.getElementById('m-img').src = movie.img;
+    async function loadMovieDetails() {
+        try {
+            const response = await fetch('news.json');
+            const data = await response.json();
+            const movie = data.news_items.find(m => m.id === movieId);
+
+            if (movie) {
+                document.getElementById('m-title').innerText = movie.title;
+                document.getElementById('m-img').src = movie.img;
+                window.downloadUrl = movie.link;
+            } else {
+                document.getElementById('m-title').innerText = "Movie Not Found";
+            }
+        } catch (e) {
+            console.error("Error loading movie:", e);
         }
     }
 
     function fetchLink() {
-        const title = document.getElementById('m-title').innerText;
-        document.getElementById('status-msg').innerText = "> Bypassing server encryption...";
-        
-        // ASLI SOLUTION: Hum user ko un servers par bhejenge jahan file maujood hai
-        // Ye sites movies ko play aur download karne ka direct option deti hain
-        const query = encodeURIComponent(title);
-        
-        // Yeh server 100% movies ko dhoond kar download ka option dega
-        const finalUrl = `https://vidsrc.me/embed/movie?title=${query}`;
-        
-        window.open(finalUrl, '_blank');
-        document.getElementById('status-msg').innerText = "> Download Link Opened in New Tab!";
+        if (window.downloadUrl) {
+            document.getElementById('status-msg').innerText = "Redirecting to secure server...";
+            setTimeout(() => {
+                window.location.href = window.downloadUrl;
+            }, 1000);
+        } else {
+            alert("Download link not ready. Please try again.");
+        }
     }
-    load();
+
+    loadMovieDetails();
 </script>
 
 </body>
