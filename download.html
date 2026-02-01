@@ -1,90 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AllMoviesHD Hindi | IDM Direct Download</title>
-    <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #000; color: white; text-align: center; margin: 0; padding: 20px; }
-        .box { background: #111; border: 2px solid #e91e63; border-radius: 20px; padding: 30px; max-width: 450px; margin: auto; box-shadow: 0 0 30px rgba(233,30,99,0.3); }
-        img { width: 100%; border-radius: 12px; margin-bottom: 20px; border: 1px solid #333; }
-        .btn { display: block; background: #4caf50; color: white; padding: 18px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 18px; margin: 15px 0; border: none; width: 100%; cursor: pointer; transition: 0.3s; }
-        .btn:hover { background: #388e3c; transform: translateY(-3px); }
-        .mgr { display: none; margin-top: 20px; }
-        .bar { width: 100%; background: #222; height: 12px; border-radius: 6px; overflow: hidden; margin: 15px 0; border: 1px solid #444; }
-        .fill { width: 0%; background: #e91e63; height: 100%; transition: 0.1s; }
-        #log { color: #8bc34a; font-family: monospace; font-size: 12px; }
-    </style>
-</head>
-<body>
-
-<div class="box">
-    <img id="poster" src="" alt="Movie Poster">
-    <h2 id="title">Loading Movie...</h2>
-    
-    <div id="start-section">
-        <button class="btn" onclick="catchIDM()">📥 START DOWNLOAD (IDM SUPPORT)</button>
-        <p style="font-size: 12px; color: #888;">Supports: IDM, ADM, 1DM & Browser Downloader</p>
-    </div>
-
-    <div id="mgr" class="mgr">
-        <h3 id="step">Connecting to High-Speed Node...</h3>
-        <div class="bar"><div class="fill" id="fill"></div></div>
-        <p id="log">> Initializing Direct Stream...</p>
-        <a id="final-btn" class="btn" style="display:none; background:#ff9800;">🚀 DOWNLOAD NOT STARTED? CLICK HERE</a>
-    </div>
-</div>
-
-<script>
+// download.html ke script mein ye wala connection check lagayein
+async function loadData() {
     const params = new URLSearchParams(window.location.search);
     const mId = params.get('id');
-
-    async function loadData() {
+    
+    try {
         const res = await fetch('news.json');
         const data = await res.json();
-        const movie = data.news_items.find(m => m.id == mId);
+        // ID ko match karne ka naya aur pakka tarikha
+        const movie = data.news_items.find(m => String(m.id) === String(mId));
+        
         if(movie) {
             document.getElementById('title').innerText = movie.title;
             document.getElementById('poster').src = movie.img;
+        } else {
+            document.getElementById('title').innerText = "Movie Data Syncing... Please Wait";
         }
+    } catch(e) {
+        console.log("Json Error");
     }
-
-    function catchIDM() {
-        document.getElementById('start-section').style.display = 'none';
-        document.getElementById('mgr').style.display = 'block';
-        let fill = document.getElementById('fill');
-        let log = document.getElementById('log');
-        let step = document.getElementById('step');
-        let w = 0;
-
-        let interval = setInterval(() => {
-            w += 2;
-            fill.style.width = w + "%";
-            
-            if(w == 30) { step.innerText = "Bypassing Limits..."; log.innerText = "> Protocol: HTTPS/Direct"; }
-            if(w == 60) { step.innerText = "Fetching Media Token..."; log.innerText = "> Token: 9X-AUTO-" + Math.floor(Math.random()*9999); }
-            if(w == 90) { step.innerText = "Handing over to IDM..."; log.innerText = "> Handshake: SUCCESSFUL"; }
-
-            if(w >= 100) {
-                clearInterval(interval);
-                const name = document.getElementById('title').innerText;
-                
-                // YE HAI REAL TRICK: Google Drive Direct Link Engine
-                // Ye user ko kahin nahi bhejega, seedha IDM ka box khol dega
-                const finalLink = "https://www.google.com/search?q=intitle:index.of+mp4+" + encodeURIComponent(name) + "&btnI=1";
-                
-                let btn = document.getElementById('final-btn');
-                btn.href = finalLink;
-                btn.style.display = 'block';
-
-                // Force Trigger for IDM
-                window.location.assign(finalLink);
-                
-                step.innerText = "Download Sent to Manager!";
-            }
-        }, 100);
-    }
-    loadData();
-</script>
-
-</body>
-</html>
+}
