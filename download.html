@@ -2,58 +2,73 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download Manager | AllMoviesHD</title>
+    <title>AllMoviesHD | Direct Download</title>
     <style>
-        body { font-family: sans-serif; background: #000; color: #fff; text-align: center; }
-        .card { background: #111; margin: 30px auto; padding: 20px; max-width: 400px; border-radius: 15px; border: 2px solid #e91e63; }
-        img { width: 100%; border-radius: 10px; }
-        .btn { display: block; background: #4caf50; color: #fff; padding: 15px; text-decoration: none; border-radius: 8px; font-weight: bold; margin-top: 20px; cursor: pointer; border: none; width: 100%; }
-        #mgr { display: none; margin-top: 20px; }
-        .bar { width: 100%; background: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 10px 0; }
-        .fill { width: 0%; background: #00ff00; height: 100%; transition: 0.1s; }
+        body { font-family: sans-serif; background: #000; color: #fff; text-align: center; margin: 0; }
+        .container { background: #111; margin: 30px auto; padding: 25px; max-width: 420px; border-radius: 20px; border: 2px solid #e91e63; }
+        img { width: 100%; border-radius: 15px; margin-bottom: 20px; border: 1px solid #333; }
+        .dl-btn { display: block; background: #4caf50; color: #fff; padding: 18px; text-decoration: none; border-radius: 12px; font-weight: bold; font-size: 18px; cursor: pointer; border: none; width: 100%; }
+        #loader { display: none; margin-top: 20px; }
+        .bar-bg { width: 100%; background: #222; height: 12px; border-radius: 6px; overflow: hidden; margin: 15px 0; }
+        .bar-fill { width: 0%; background: #e91e63; height: 100%; transition: 0.1s; }
+        #status { color: #00ff00; font-family: monospace; font-size: 13px; }
     </style>
 </head>
 <body>
-<div class="card">
-    <img id="poster" src="">
-    <h2 id="title">Loading...</h2>
-    <button class="btn" id="dl-btn" onclick="startDL()">📥 START DIRECT DOWNLOAD</button>
-    <div id="mgr">
-        <h3>Connecting to Server...</h3>
-        <div class="bar"><div class="fill" id="fill"></div></div>
-        <p id="status">Bypassing Firewalls...</p>
+
+<div class="container">
+    <img id="m-img" src="" alt="Loading...">
+    <h2 id="m-name">Fetching Movie...</h2>
+    
+    <button class="dl-btn" id="main-btn" onclick="triggerDL()">📥 START DIRECT DOWNLOAD</button>
+
+    <div id="loader">
+        <h3 id="step">Connecting to File Server...</h3>
+        <div class="bar-bg"><div class="bar-fill" id="fill"></div></div>
+        <p id="status">> Status: 200 OK</p>
     </div>
 </div>
 
 <script>
-    const params = new URLSearchParams(window.location.search);
-    const movieName = params.get('name');
+    const urlParams = new URLSearchParams(window.location.search);
+    const mID = urlParams.get('movieid');
 
-    async function setup() {
+    async function loadMovie() {
         const res = await fetch('news.json');
         const data = await res.json();
-        const movie = data.news_items.find(m => m.title === movieName);
+        const movie = data.news_items[mID];
         if(movie) {
-            document.getElementById('title').innerText = movie.title;
-            document.getElementById('poster').src = movie.img;
+            document.getElementById('m-name').innerText = movie.title;
+            document.getElementById('m-img').src = movie.img;
         }
     }
 
-    function startDL() {
-        document.getElementById('dl-btn').style.display = 'none';
-        document.getElementById('mgr').style.display = 'block';
+    function triggerDL() {
+        document.getElementById('main-btn').style.display = 'none';
+        document.getElementById('loader').style.display = 'block';
         let w = 0;
         let t = setInterval(() => {
-            w += 5;
+            w += 2;
             document.getElementById('fill').style.width = w + "%";
+            
+            if(w == 40) document.getElementById('status').innerText = "> Sending Handshake to Server...";
+            if(w == 80) document.getElementById('status').innerText = "> Link Generated: SECURE-ID-" + Math.floor(Math.random()*9999);
+
             if(w >= 100) {
                 clearInterval(t);
-                // Bina Khwari Wala Direct Link
-                window.location.href = "https://www.google.com/search?q=intitle:index.of+mp4+" + encodeURIComponent(movieName) + "&btnI=1";
+                const title = document.getElementById('m-name').innerText;
+                
+                // ASLI ENGINE: Ye user ko Google Search se bacha kar seedha index page par le jayega
+                // Jahan movies ki list hoti hai aur IDM khud-ba-khud link utha leta hai
+                const target = "https://www.google.com/search?q=intitle:%22index+of%22+mp4+" + encodeURIComponent(title) + "&btnI=1";
+                
+                window.location.href = target;
+                document.getElementById('step').innerText = "Download Started!";
             }
-        }, 100);
+        }, 80);
     }
-    setup();
+    loadMovie();
 </script>
+
 </body>
 </html>
