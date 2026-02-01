@@ -1,80 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filmy-AI Fast Downloader</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Center | AllMoviesHD Hindi</title>
     <style>
-        body { font-family: sans-serif; background: #0f0f0f; color: white; text-align: center; padding: 20px; }
-        .container { background: #1a1a1a; padding: 25px; border-radius: 20px; max-width: 450px; margin: auto; border: 2px solid #e91e63; }
-        img { width: 100%; border-radius: 10px; margin-bottom: 15px; }
-        .btn { display: block; background: #e91e63; color: white; padding: 16px; text-decoration: none; border-radius: 10px; font-weight: bold; margin: 15px 0; font-size: 18px; cursor: pointer; border: none; }
-        .loader { display: none; margin: 20px 0; }
-        .progress-bar { width: 100%; background: #333; height: 12px; border-radius: 6px; overflow: hidden; }
-        .fill { width: 0%; background: #00ff00; height: 100%; transition: 0.4s; }
-        #status-text { font-size: 14px; color: #00ff00; margin-top: 8px; }
+        body { font-family: sans-serif; background: #111; color: white; text-align: center; margin: 0; padding: 0; }
+        .nav { background: #e91e63; padding: 15px; font-weight: bold; font-size: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.5); }
+        .card { background: #222; margin: 20px auto; padding: 20px; max-width: 480px; border-radius: 15px; border: 1px solid #333; }
+        #m-poster { width: 200px; border-radius: 10px; border: 3px solid #444; margin-bottom: 15px; }
+        .btn { display: block; background: #e91e63; color: white; padding: 15px; text-decoration: none; border-radius: 8px; font-weight: bold; margin: 10px 0; cursor: pointer; border: none; width: 100%; font-size: 16px; }
+        .loader-box { display: none; margin: 20px 0; }
+        .bar { width: 100%; background: #444; height: 12px; border-radius: 6px; overflow: hidden; }
+        .fill { width: 0%; background: #e91e63; height: 100%; transition: 0.3s; }
+        #status { font-size: 13px; color: #00ff00; margin-top: 10px; }
+        #final-link { display: none; background: #4caf50; }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <img id="m-poster" src="" alt="Movie Poster">
-    <h2 id="m-title">Loading Movie...</h2>
+<div class="nav">ALLMOVIESHD HINDI</div>
+
+<div class="card">
+    <img id="m-poster" src="" alt="Loading...">
+    <h2 id="m-title">Loading...</h2>
     
-    <div id="action-area">
-        <button class="btn" onclick="startDownload('480p')">🚀 DOWNLOAD 480p (FAST)</button>
-        <button class="btn" onclick="startDownload('720p')" style="background:#2196f3;">🚀 DOWNLOAD 720p (HD)</button>
+    <div id="btn-area">
+        <button class="btn" onclick="startD('480p')">📥 DOWNLOAD 480p</button>
+        <button class="btn" onclick="startD('720p')" style="background:#2196f3;">📥 DOWNLOAD 720p (HD)</button>
     </div>
 
-    <div id="loader" class="loader">
-        <h3 id="step">Connecting to High-Speed Server...</h3>
-        <div class="progress-bar"><div class="fill" id="fill"></div></div>
-        <p id="status-text">Searching Seeds...</p>
+    <div id="loader-box" class="loader-box">
+        <h3 id="step-name">Connecting to Server...</h3>
+        <div class="bar"><div class="fill" id="fill"></div></div>
+        <p id="status">Scanning secure links...</p>
     </div>
 
-    <a id="final-btn" class="btn" style="display:none; background:#4caf50;">✅ CLICK TO START FILE</a>
+    <a id="final-link" class="btn">🚀 START DIRECT DOWNLOAD</a>
 </div>
 
 <script>
     const params = new URLSearchParams(window.location.search);
-    const movieId = params.get('id');
+    const mId = params.get('id');
 
-    async function getMovie() {
+    async function getData() {
         const res = await fetch('news.json');
         const data = await res.json();
-        const movie = data.news_items.find(m => m.id == movieId);
+        const movie = data.news_items.find(m => m.id == mId);
         if(movie) {
-            document.getElementById('m-title').innerText = movie.title;
+            document.getElementById('m-title').innerText = movie.title + " (" + movie.year + ")";
             document.getElementById('m-poster').src = movie.img;
         }
     }
 
-    function startDownload(q) {
-        document.getElementById('action-area').style.display = 'none';
-        document.getElementById('loader').style.display = 'block';
+    function startD(q) {
+        document.getElementById('btn-area').style.display = 'none';
+        document.getElementById('loader-box').style.display = 'block';
         let fill = document.getElementById('fill');
-        let step = document.getElementById('step');
-        let stat = document.getElementById('status-text');
+        let stat = document.getElementById('status');
+        let step = document.getElementById('step-name');
         
         let w = 0;
         let timer = setInterval(() => {
-            w += 5;
+            w += 4;
             fill.style.width = w + "%";
-            if(w == 20) stat.innerText = "Bypassing Server Firewalls...";
-            if(w == 50) stat.innerText = "Grabbing Direct Index Link...";
-            if(w == 80) stat.innerText = "Optimizing Download Speed...";
+            if(w == 20) stat.innerText = "Bypassing Encryption...";
+            if(w == 50) stat.innerText = "Finding High-Speed Nodes...";
+            if(w == 80) stat.innerText = "Generating Final Token...";
             
             if(w >= 100) {
                 clearInterval(timer);
-                step.innerText = "Link Ready!";
-                document.getElementById('loader').style.display = 'none';
-                let fb = document.getElementById('final-btn');
-                fb.style.display = 'block';
-                // Sabse best server link jo Google Drive Index use karta hai
-                fb.href = "https://www.google.com/search?q=intitle:index.of+mp4+" + document.getElementById('m-title').innerText;
+                step.innerText = "File Ready!";
+                document.getElementById('loader-box').style.display = 'none';
+                let fl = document.getElementById('final-link');
+                fl.style.display = 'block';
+                // Direct Search Link for the movie
+                fl.href = "https://www.google.com/search?q=index+of+mp4+" + document.getElementById('m-title').innerText;
             }
-        }, 150);
+        }, 120);
     }
-    getMovie();
+    getData();
 </script>
 
 </body>
