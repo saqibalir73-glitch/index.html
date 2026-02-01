@@ -1,30 +1,30 @@
 {
   "news_items": [
     {
-      "id": "direct_01",
-      "title": "DOWNLOAD: Captain America 1 (2011)",
-      "year": "Full HD - Google Drive",
+      "id": "ca_01",
+      "title": "Captain America 1 (2011)",
+      "year": "Full HD",
       "img": "https://image.tmdb.org/t/p/w500/vSN19SjO4WqzmS7mSfsasrlth9n.jpg",
       "link": "https://gplinks.co/vJaaJ"
     },
     {
-      "id": "direct_02",
-      "title": "DOWNLOAD: Captain America 2 (2014)",
-      "year": "Full HD - Google Drive",
+      "id": "ca_02",
+      "title": "Captain America 2 (2014)",
+      "year": "Full HD",
       "img": "https://image.tmdb.org/t/p/w500/tV3Sfs0oLpZ0XvI6YpT8j09o9pY.jpg",
       "link": "https://gplinks.co/uYZQdbs"
     },
     {
-      "id": "direct_03",
-      "title": "DOWNLOAD: Captain America 3 (2016)",
-      "year": "Full HD - Google Drive",
+      "id": "ca_03",
+      "title": "Captain America 3 (2016)",
+      "year": "Full HD",
       "img": "https://image.tmdb.org/t/p/w500/rAGS6KogRzYyYSk3X7SjlsC9N6O.jpg",
       "link": "https://gplinks.co/qPTUXv0"
     },
     {
-      "id": "direct_04",
-      "title": "DOWNLOAD: Captain America 4 (2025)",
-      "year": "Full HD - Google Drive",
+      "id": "ca_04",
+      "title": "Captain America 4 (2025)",
+      "year": "Full HD",
       "img": "https://image.tmdb.org/t/p/w500/8FHOTUpNik5ZPEay2N2EY5lrxkv.jpg",
       "link": "https://gplinks.co/Fsaea"
     }
