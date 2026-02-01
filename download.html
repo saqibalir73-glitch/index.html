@@ -1,21 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direct Download | AllMoviesHD</title>
+    <style>
+        body { font-family: sans-serif; background: #0b0b0b; color: white; text-align: center; margin: 0; }
+        .card { background: #161616; margin: 50px auto; padding: 30px; max-width: 400px; border-radius: 15px; border: 2px solid #e91e63; }
+        .btn { display: block; background: #4caf50; color: white; padding: 20px; text-decoration: none; border-radius: 10px; font-weight: bold; margin-top: 20px; cursor: pointer; border: none; width: 100%; font-size: 18px; }
+        #loader { display: none; margin-top: 20px; }
+        .progress { width: 100%; background: #333; height: 10px; border-radius: 5px; margin: 15px 0; }
+        .fill { width: 0%; background: #e91e63; height: 100%; transition: 0.2s; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2 id="m-title">Ready to Download</h2>
+    <p id="m-info" style="color: #888;">Size: 479 MB | Quality: 480p</p>
+    
+    <button class="btn" id="dl-btn" onclick="startOfficialDownload()">📥 START FAST DOWNLOAD</button>
+
+    <div id="loader">
+        <h3 id="status">Connecting to Storage Server...</h3>
+        <div class="progress"><div class="fill" id="bar"></div></div>
+        <p style="font-size: 12px; color: #4caf50;">> Bypass Successful</p>
+    </div>
+</div>
+
 <script>
-    function startDirectDownload() {
-        // Animation code wahi rahega...
-        
-        if(pct >= 100) {
-            const movieName = document.getElementById('m-title').innerText;
-            
-            // YE HAI ASLI MAGIC: Cloudflare Worker Gateway
-            // Ye wahi technology hai jo aapne screenshot mein dekhi
-            const workerUrl = "https://fiaz024147.workers.dev/download?file=" + encodeURIComponent(movieName);
-            
-            // Niche wala logic browser ko majboor karega file download karne par
-            let link = document.createElement('a');
-            link.href = workerUrl;
-            link.setAttribute('download', movieName + ".mp4");
-            document.body.appendChild(link);
-            link.click();
-            link.remove();
-        }
+    function startOfficialDownload() {
+        document.getElementById('dl-btn').style.display = 'none';
+        document.getElementById('loader').style.display = 'block';
+        let bar = document.getElementById('bar');
+        let status = document.getElementById('status');
+        let p = 0;
+
+        let timer = setInterval(() => {
+            p += 5;
+            bar.style.width = p + "%";
+            if(p == 40) status.innerText = "Fetching File Token...";
+            if(p == 80) status.innerText = "Starting Direct Stream...";
+
+            if(p >= 100) {
+                clearInterval(timer);
+                status.innerText = "Download Started!";
+                
+                // ASLI DOWNLOAD TRIGGER (Bina Khwari Wala)
+                // Hum user ko aise link par bhejenge jo direct file deta hai
+                // Note: Aapko news.json mein 'link' ka option dalna hoga
+                window.location.href = "https://dl.allmovieshd.workers.dev/getfile"; 
+            }
+        }, 100);
     }
 </script>
+</body>
+</html>
