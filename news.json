@@ -1,6 +1,5 @@
 {
-  "status": "success",
-  "movies": [
+  "news_items": [
     {
       "id": "1",
       "title": "Wicked",
