@@ -1,44 +1,30 @@
 {
   "news_items": [
     {
-      "id": "1",
-      "title": "Wicked",
-      "year": "2024",
-      "img": "https://image.tmdb.org/t/p/w500/x9pYvjyU6YvH9Ln99Cem898m999.jpg",
-      "link": "https://gplinks.co/vJaaJ"
-    },
-    {
-      "id": "2",
-      "title": "Avatar: The Way of Water",
-      "year": "2022",
-      "img": "https://image.tmdb.org/t/p/w500/t6zC3XjZxsUKe6arW36A487A9as.jpg",
-      "link": "https://gplinks.co/uYZQdbs"
-    },
-    {
-      "id": "ca_01",
-      "title": "Captain America: The First Avenger",
-      "year": "2011",
+      "id": "direct_01",
+      "title": "DOWNLOAD: Captain America 1 (2011)",
+      "year": "Full HD - Google Drive",
       "img": "https://image.tmdb.org/t/p/w500/vSN19SjO4WqzmS7mSfsasrlth9n.jpg",
       "link": "https://gplinks.co/vJaaJ"
     },
     {
-      "id": "ca_02",
-      "title": "Captain America: The Winter Soldier",
-      "year": "2014",
+      "id": "direct_02",
+      "title": "DOWNLOAD: Captain America 2 (2014)",
+      "year": "Full HD - Google Drive",
       "img": "https://image.tmdb.org/t/p/w500/tV3Sfs0oLpZ0XvI6YpT8j09o9pY.jpg",
       "link": "https://gplinks.co/uYZQdbs"
     },
     {
-      "id": "ca_03",
-      "title": "Captain America: Civil War",
-      "year": "2016",
+      "id": "direct_03",
+      "title": "DOWNLOAD: Captain America 3 (2016)",
+      "year": "Full HD - Google Drive",
       "img": "https://image.tmdb.org/t/p/w500/rAGS6KogRzYyYSk3X7SjlsC9N6O.jpg",
       "link": "https://gplinks.co/qPTUXv0"
     },
     {
-      "id": "ca_04",
-      "title": "Captain America: Brave New World",
-      "year": "2025",
+      "id": "direct_04",
+      "title": "DOWNLOAD: Captain America 4 (2025)",
+      "year": "Full HD - Google Drive",
       "img": "https://image.tmdb.org/t/p/w500/8FHOTUpNik5ZPEay2N2EY5lrxkv.jpg",
       "link": "https://gplinks.co/Fsaea"
     }
