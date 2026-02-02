@@ -1,124 +1,33 @@
 {
-    "news_items": [
-        {
-            "id": "1168190",
-            "title": "The Wrecking Crew",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
-        },
-        {
-            "id": "1234731",
-            "title": "Anaconda",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
-        },
-        {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
-            "id": "840464",
-            "title": "Greenland 2: Migration",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1mF4othta76CEXcL1YFInYudQ7K.jpg"
-        },
-        {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
-        },
-        {
-            "id": "1306368",
-            "title": "The Rip",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
-        },
-        {
-            "id": "1116201",
-            "title": "Iron Lung",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
-        },
-        {
-            "id": "1167307",
-            "title": "David",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg"
-        },
-        {
-            "id": "1290821",
-            "title": "Shelter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
-        },
-        {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
-        },
-        {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
-        },
-        {
-            "id": "1291608",
-            "title": "Dhurandhar",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
-        },
-        {
-            "id": "1575337",
-            "title": "Cosmic Princess Kaguya!",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg"
-        },
-        {
-            "id": "1236153",
-            "title": "Mercy",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg"
-        },
-        {
-            "id": "1206008",
-            "title": "Ella McCay",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg"
-        },
-        {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
-        },
-        {
-            "id": "680493",
-            "title": "Return to Silent Hill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
-        },
-        {
-            "id": "1233413",
-            "title": "Sinners",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg"
-        },
-        {
-            "id": "801937",
-            "title": "Silent Night, Deadly Night",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg"
-        }
-    ]
+  "featured": {
+    "title": "Captain America: New World Order",
+    "img": "https://image.tmdb.org/t/p/original/8FHOTUpNik5ZPEay2N2EY5lrxkv.jpg",
+    "link": "https://gplinks.co/Fsaea"
+  },
+  "news_items": [
+    {
+      "id": "folder_ca",
+      "title": "📁 Captain America Collection",
+      "year": "Complete Series",
+      "img": "https://image.tmdb.org/t/p/w500/vSN19SjO4WqzmS7mSfsasrlth9n.jpg",
+      "link": "collection.html",
+      "type": "folder"
+    },
+    {
+      "id": "m1",
+      "title": "Anaconda",
+      "year": "Google Drive | HD",
+      "img": "https://image.tmdb.org/t/p/w500/sh7799mCkyzOTRtmHX00uES9liF.jpg",
+      "link": "https://gplinks.co/vJaaJ",
+      "type": "movie"
+    },
+    {
+      "id": "m2",
+      "title": "The Wrecking Crew",
+      "year": "Google Drive | HD",
+      "img": "https://image.tmdb.org/t/p/w500/vSN19SjO4WqzmS7mSfsasrlth9n.jpg",
+      "link": "https://gplinks.co/uYZQdbs",
+      "type": "movie"
+    }
+  ]
 }
