@@ -1,10 +1,22 @@
 {
     "news_items": [
         {
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+        },
+        {
             "id": "1168190",
             "title": "The Wrecking Crew",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
+        },
+        {
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
             "id": "1084242",
@@ -17,18 +29,6 @@
             "title": "Anaconda",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
-        },
-        {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
-        },
-        {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
             "id": "840464",
@@ -49,10 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
         },
         {
-            "id": "1575337",
-            "title": "Cosmic Princess Kaguya!",
+            "id": "1198984",
+            "title": "We Bury the Dead",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg"
         },
         {
             "id": "1317288",
@@ -67,40 +67,22 @@
             "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
         },
         {
-            "id": "1206008",
-            "title": "Ella McCay",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg"
-        },
-        {
-            "id": "1291608",
-            "title": "Dhurandhar",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
-        },
-        {
-            "id": "1167307",
-            "title": "David",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg"
-        },
-        {
-            "id": "1413097",
-            "title": "Melania",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg"
-        },
-        {
-            "id": "701387",
-            "title": "Bugonia",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
-        },
-        {
             "id": "1290821",
             "title": "Shelter",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
+        },
+        {
+            "id": "1370814",
+            "title": "The Plague",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg"
+        },
+        {
+            "id": "1180417",
+            "title": "The Dutchman",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg"
         },
         {
             "id": "1220564",
@@ -109,16 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
+            "id": "1316092",
+            "title": "\u201cWuthering Heights\u201d",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "1291608",
+            "title": "Dhurandhar",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
+        },
+        {
+            "id": "701387",
+            "title": "Bugonia",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+        },
+        {
+            "id": "1413097",
+            "title": "Melania",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg"
         }
     ]
 }
