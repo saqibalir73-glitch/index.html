@@ -1,6 +1,12 @@
 {
     "news_items": [
         {
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+        },
+        {
             "id": "1168190",
             "title": "The Wrecking Crew",
             "year": "2026",
@@ -17,12 +23,6 @@
             "title": "Anaconda",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
-        },
-        {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "858024",
@@ -43,34 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/1mF4othta76CEXcL1YFInYudQ7K.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-        },
-        {
             "id": "1116201",
             "title": "Iron Lung",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
-        },
-        {
-            "id": "1306368",
-            "title": "The Rip",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
-        },
-        {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "1054867",
-            "title": "One Battle After Another",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
         },
         {
             "id": "1290821",
@@ -79,22 +55,16 @@
             "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
         },
         {
-            "id": "1291608",
-            "title": "Dhurandhar",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
+            "id": "1306368",
+            "title": "The Rip",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
         },
         {
-            "id": "1167307",
-            "title": "David",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg"
-        },
-        {
-            "id": "1220564",
-            "title": "The Secret Agent",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
+            "id": "1198984",
+            "title": "We Bury the Dead",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/9zPaF7UdMbs9VPpTczKgCIZOUit.jpg"
         },
         {
             "id": "83533",
@@ -103,10 +73,28 @@
             "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
         },
         {
-            "id": "801937",
-            "title": "Silent Night, Deadly Night",
+            "id": "1466115",
+            "title": "Even If This Love Disappears Tonight",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg"
+        },
+        {
+            "id": "1291608",
+            "title": "Dhurandhar",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
+        },
+        {
+            "id": "1220564",
+            "title": "The Secret Agent",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
+        },
+        {
+            "id": "1317288",
+            "title": "Marty Supreme",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
             "id": "1236153",
@@ -115,10 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg"
         },
         {
-            "id": "680493",
-            "title": "Return to Silent Hill",
+            "id": "1316092",
+            "title": "\u201cWuthering Heights\u201d",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
+            "id": "1370814",
+            "title": "The Plague",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg"
+        },
+        {
+            "id": "1180417",
+            "title": "The Dutchman",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg"
         }
     ]
 }
