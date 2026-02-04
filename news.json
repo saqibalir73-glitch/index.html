@@ -13,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
+            "id": "1234731",
+            "title": "Anaconda",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
         },
         {
             "id": "1084242",
@@ -25,10 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1234731",
-            "title": "Anaconda",
+            "id": "858024",
+            "title": "Hamnet",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
             "id": "840464",
@@ -49,10 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
         },
         {
-            "id": "1198984",
-            "title": "We Bury the Dead",
+            "id": "1306368",
+            "title": "The Rip",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
         },
         {
             "id": "1317288",
@@ -61,28 +61,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
-            "id": "1306368",
-            "title": "The Rip",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
-        },
-        {
-            "id": "1290821",
-            "title": "Shelter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
-        },
-        {
-            "id": "1370814",
-            "title": "The Plague",
+            "id": "1291608",
+            "title": "Dhurandhar",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
         },
         {
-            "id": "1180417",
-            "title": "The Dutchman",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg"
+            "id": "1167307",
+            "title": "David",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg"
         },
         {
             "id": "1220564",
@@ -91,10 +79,16 @@
             "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
         },
         {
-            "id": "1316092",
-            "title": "\u201cWuthering Heights\u201d",
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
+        },
+        {
+            "id": "1413097",
+            "title": "Melania",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg"
         },
         {
             "id": "1159559",
@@ -103,22 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "1291608",
-            "title": "Dhurandhar",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
-        },
-        {
             "id": "701387",
             "title": "Bugonia",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
         },
         {
-            "id": "1413097",
-            "title": "Melania",
+            "id": "1315303",
+            "title": "Primate",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg"
+        },
+        {
+            "id": "1206008",
+            "title": "Ella McCay",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg"
+        },
+        {
+            "id": "1290821",
+            "title": "Shelter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
         }
     ]
 }
