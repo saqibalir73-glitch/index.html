@@ -1,22 +1,22 @@
 {
     "news_items": [
         {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
-        },
-        {
             "id": "1168190",
             "title": "The Wrecking Crew",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
         },
         {
-            "id": "1234731",
-            "title": "Anaconda",
+            "id": "1368166",
+            "title": "The Housemaid",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+        },
+        {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "858024",
@@ -25,10 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
+            "id": "1234731",
+            "title": "Anaconda",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
         },
         {
             "id": "840464",
@@ -40,19 +40,7 @@
             "id": "1198994",
             "title": "Send Help",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
-        },
-        {
-            "id": "1198984",
-            "title": "We Bury the Dead",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vWOALCjS3cANciJKkG0qV8k1izW.jpg"
-        },
-        {
-            "id": "1433842",
-            "title": "Relationship Goals",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/kL4MgAIZIYX3sCeG34N0XfVhCtt.jpg"
         },
         {
             "id": "1116201",
@@ -61,28 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
         },
         {
-            "id": "1466115",
-            "title": "Even If This Love Disappears Tonight",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg"
-        },
-        {
-            "id": "1370814",
-            "title": "The Plague",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg"
-        },
-        {
-            "id": "1306368",
-            "title": "The Rip",
+            "id": "1236153",
+            "title": "Mercy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
-        },
-        {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg"
         },
         {
             "id": "1290821",
@@ -91,10 +61,22 @@
             "img": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg"
         },
         {
-            "id": "1167307",
-            "title": "David",
+            "id": "1291608",
+            "title": "Dhurandhar",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
+        },
+        {
+            "id": "1433842",
+            "title": "Relationship Goals",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg"
+        },
+        {
+            "id": "1306368",
+            "title": "The Rip",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg"
         },
         {
             "id": "1220564",
@@ -103,10 +85,28 @@
             "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
         },
         {
-            "id": "1291608",
-            "title": "Dhurandhar",
+            "id": "1317288",
+            "title": "Marty Supreme",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        },
+        {
+            "id": "1466115",
+            "title": "Even If This Love Disappears Tonight",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg"
+        },
+        {
+            "id": "1198984",
+            "title": "We Bury the Dead",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/vWOALCjS3cANciJKkG0qV8k1izW.jpg"
+        },
+        {
+            "id": "1315303",
+            "title": "Primate",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg"
         },
         {
             "id": "83533",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
         },
         {
-            "id": "1236153",
-            "title": "Mercy",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg"
+            "id": "801937",
+            "title": "Silent Night, Deadly Night",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg"
         }
     ]
 }
