@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1315303",
-            "title": "Primate",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg"
-        },
-        {
             "id": "1368166",
             "title": "The Housemaid",
             "year": "2025",
@@ -25,22 +19,34 @@
             "img": "https://image.tmdb.org/t/p/w500/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
         },
         {
+            "id": "1315303",
+            "title": "Primate",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg"
+        },
+        {
             "id": "1084242",
             "title": "Zootopia 2",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1168190",
-            "title": "The Wrecking Crew",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
-        },
-        {
             "id": "1316092",
             "title": "\u201cWuthering Heights\u201d",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
+            "id": "1234731",
+            "title": "Anaconda",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
         },
         {
             "id": "680493",
@@ -55,10 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg"
         },
         {
-            "id": "1198994",
-            "title": "Send Help",
+            "id": "1168190",
+            "title": "The Wrecking Crew",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
         },
         {
             "id": "1433842",
@@ -67,40 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg"
         },
         {
-            "id": "1297842",
-            "title": "GOAT",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nP8Lkdh3VH0c9xyPNjzabOi0HFX.jpg"
-        },
-        {
-            "id": "1234731",
-            "title": "Anaconda",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
-        },
-        {
-            "id": "1198984",
-            "title": "We Bury the Dead",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg"
-        },
-        {
-            "id": "840464",
-            "title": "Greenland 2: Migration",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
-        },
-        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "1171145",
-            "title": "Crime 101",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fDj8ZATOTmiFy7BF43L3XLIOrf0.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/9K8MoWTLlyVj3AVPylSowMBUn70.jpg"
         },
         {
             "id": "1242898",
@@ -109,16 +85,40 @@
             "img": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
         },
         {
-            "id": "1116201",
-            "title": "Iron Lung",
+            "id": "1297842",
+            "title": "GOAT",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "1290821",
-            "title": "Shelter",
+            "id": "1198984",
+            "title": "We Bury the Dead",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zA4kTLsGnJN0tfMjKrinKgYIuki.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg"
+        },
+        {
+            "id": "1171145",
+            "title": "Crime 101",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fDj8ZATOTmiFy7BF43L3XLIOrf0.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+        },
+        {
+            "id": "840464",
+            "title": "Greenland 2: Migration",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
+        },
+        {
+            "id": "1466115",
+            "title": "Even If This Love Disappears Tonight",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg"
         }
     ]
 }
