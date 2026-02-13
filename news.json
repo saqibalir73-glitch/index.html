@@ -25,22 +25,28 @@
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
-            "id": "1316092",
-            "title": "\u201cWuthering Heights\u201d",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
-        },
-        {
             "id": "1242898",
             "title": "Predator: Badlands",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
         },
         {
+            "id": "1316092",
+            "title": "\u201cWuthering Heights\u201d",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
             "id": "1084242",
             "title": "Zootopia 2",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
+            "id": "1171145",
+            "title": "Crime 101",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
             "id": "1297842",
@@ -61,34 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg"
         },
         {
-            "id": "1171145",
-            "title": "Crime 101",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
-        },
-        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
-        },
-        {
-            "id": "1168190",
-            "title": "The Wrecking Crew",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
-        },
-        {
-            "id": "1340110",
-            "title": "Redux Redux",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg"
         },
         {
             "id": "1426964",
@@ -97,10 +79,16 @@
             "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/tzCsmggqZc7fOmkAXZXXvsdxOsq.jpg"
+            "id": "1168190",
+            "title": "The Wrecking Crew",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
         },
         {
             "id": "1140498",
@@ -109,16 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg"
         },
         {
-            "id": "1198984",
-            "title": "We Bury the Dead",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg"
+            "id": "701387",
+            "title": "Bugonia",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
         },
         {
             "id": "1234731",
             "title": "Anaconda",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
+        },
+        {
+            "id": "840464",
+            "title": "Greenland 2: Migration",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
+        },
+        {
+            "id": "1198984",
+            "title": "We Bury the Dead",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg"
         }
     ]
 }
