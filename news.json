@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1272837",
-            "title": "28 Years Later: The Bone Temple",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
-        },
-        {
             "id": "1236153",
             "title": "Mercy",
             "year": "2026",
@@ -19,10 +13,22 @@
             "img": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg"
         },
         {
+            "id": "1272837",
+            "title": "28 Years Later: The Bone Temple",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
+        },
+        {
             "id": "1317288",
             "title": "Marty Supreme",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        },
+        {
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "1316092",
@@ -37,28 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
-        },
-        {
-            "id": "1171145",
-            "title": "Crime 101",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
-        },
-        {
             "id": "1317672",
             "title": "Love Me Love Me",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg"
         },
         {
-            "id": "1242898",
-            "title": "Predator: Badlands",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
+            "id": "1426964",
+            "title": "State of Fear",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
         },
         {
             "id": "1297842",
@@ -67,16 +61,22 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "1243460",
-            "title": "Joe's College Road Trip",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg"
+            "id": "1242898",
+            "title": "Predator: Badlands",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
         },
         {
             "id": "1084242",
             "title": "Zootopia 2",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
+            "id": "1171145",
+            "title": "Crime 101",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
             "id": "680493",
@@ -97,10 +97,16 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "1426964",
-            "title": "State of Fear",
+            "id": "1243460",
+            "title": "Joe's College Road Trip",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
         },
         {
             "id": "1140498",
@@ -113,12 +119,6 @@
             "title": "Avatar: Fire and Ash",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
-        },
-        {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
         }
     ]
 }
