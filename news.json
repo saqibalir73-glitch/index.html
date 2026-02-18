@@ -31,28 +31,16 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1426964",
-            "title": "State of Fear",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
-        },
-        {
-            "id": "1317672",
-            "title": "Love Me Love Me",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
-        },
-        {
             "id": "1171145",
             "title": "Crime 101",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "id": "1317672",
+            "title": "Love Me Love Me",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
         },
         {
             "id": "1368166",
@@ -67,28 +55,22 @@
             "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
         },
         {
+            "id": "1140498",
+            "title": "Is This Thing On?",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/lhzy5nVBkHFT1jAuX3JNms4YpuZ.jpg"
+        },
+        {
             "id": "1084242",
             "title": "Zootopia 2",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1297842",
-            "title": "GOAT",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
-        },
-        {
-            "id": "1243460",
-            "title": "Joe's College Road Trip",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg"
-        },
-        {
-            "id": "425274",
-            "title": "Now You See Me: Now You Don't",
+            "id": "858024",
+            "title": "Hamnet",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
             "id": "1159559",
@@ -97,28 +79,46 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "680493",
-            "title": "Return to Silent Hill",
+            "id": "1297842",
+            "title": "GOAT",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
-        },
-        {
-            "id": "1140498",
-            "title": "Is This Thing On?",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg"
-        },
-        {
-            "id": "701387",
-            "title": "Bugonia",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+        },
+        {
+            "id": "425274",
+            "title": "Now You See Me: Now You Don't",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+        },
+        {
+            "id": "1243460",
+            "title": "Joe's College Road Trip",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg"
+        },
+        {
+            "id": "639988",
+            "title": "No Other Choice",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg"
+        },
+        {
+            "id": "1426964",
+            "title": "State of Fear",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg"
         }
     ]
 }
