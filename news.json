@@ -19,28 +19,22 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-        },
-        {
-            "id": "1315303",
-            "title": "Primate",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"
-        },
-        {
             "id": "1297842",
             "title": "GOAT",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
+            "id": "1317288",
+            "title": "Marty Supreme",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        },
+        {
+            "id": "1317672",
+            "title": "Love Me Love Me",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
         },
         {
             "id": "1368166",
@@ -49,10 +43,22 @@
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
-            "id": "1317672",
-            "title": "Love Me Love Me",
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
+            "id": "1315303",
+            "title": "Primate",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"
+        },
+        {
+            "id": "1159559",
+            "title": "Scream 7",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
             "id": "1242898",
@@ -67,28 +73,16 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1243460",
-            "title": "Joe's College Road Trip",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg"
-        },
-        {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
             "id": "1171145",
             "title": "Crime 101",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
-            "id": "1426964",
-            "title": "State of Fear",
+            "id": "1261188",
+            "title": "The Swedish Connection",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg"
         },
         {
             "id": "425274",
@@ -97,16 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
         },
         {
-            "id": "680493",
-            "title": "Return to Silent Hill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
+            "id": "1208348",
+            "title": "Rental Family",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/nRrwqApUDFL8gLGyJFIdDkmoule.jpg"
         },
         {
-            "id": "1140498",
-            "title": "Is This Thing On?",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg"
+            "id": "1243460",
+            "title": "Joe's College Road Trip",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg"
         },
         {
             "id": "83533",
@@ -115,10 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
-            "id": "1600028",
-            "title": "A Father's Miracle",
+            "id": "1140498",
+            "title": "Is This Thing On?",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/heC13pt4SV7y3HF5lWNzf0u729j.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg"
+        },
+        {
+            "id": "680493",
+            "title": "Return to Silent Hill",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
         }
     ]
 }
