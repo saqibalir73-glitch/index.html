@@ -13,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
+            "id": "1242898",
+            "title": "Predator: Badlands",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
         },
         {
             "id": "1316092",
@@ -25,16 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1297842",
-            "title": "GOAT",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
-        },
-        {
-            "id": "858024",
-            "title": "Hamnet",
+            "id": "1317288",
+            "title": "Marty Supreme",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
             "id": "1315303",
@@ -43,40 +37,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"
         },
         {
-            "id": "1368166",
-            "title": "The Housemaid",
+            "id": "858024",
+            "title": "Hamnet",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg"
-        },
-        {
-            "id": "1242898",
-            "title": "Predator: Badlands",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
-        },
-        {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
-            "id": "1317672",
-            "title": "Love Me Love Me",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
-        },
-        {
-            "id": "1171145",
-            "title": "Crime 101",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
             "id": "1159559",
@@ -85,10 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "1243460",
-            "title": "Joe's College Road Trip",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/c7uyBUFFcPTSVOXF63A1hpJbQzS.jpg"
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg"
         },
         {
             "id": "425274",
@@ -97,16 +61,34 @@
             "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+            "id": "1317672",
+            "title": "Love Me Love Me",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
         },
         {
-            "id": "680493",
-            "title": "Return to Silent Hill",
+            "id": "1297842",
+            "title": "GOAT",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+        },
+        {
+            "id": "1171145",
+            "title": "Crime 101",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
+        },
+        {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
+            "id": "1243460",
+            "title": "Joe's College Road Trip",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/c7uyBUFFcPTSVOXF63A1hpJbQzS.jpg"
         },
         {
             "id": "1208348",
@@ -119,6 +101,24 @@
             "title": "Is This Thing On?",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg"
+        },
+        {
+            "id": "1426964",
+            "title": "State of Fear",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
+        },
+        {
+            "id": "680493",
+            "title": "Return to Silent Hill",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
         }
     ]
 }
