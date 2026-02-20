@@ -13,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
-            "id": "1242898",
-            "title": "Predator: Badlands",
+            "id": "1317288",
+            "title": "Marty Supreme",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
             "id": "1316092",
@@ -25,16 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
+            "id": "1368166",
+            "title": "The Housemaid",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-        },
-        {
-            "id": "1315303",
-            "title": "Primate",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg"
         },
         {
             "id": "858024",
@@ -43,28 +37,34 @@
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
+            "id": "1315303",
+            "title": "Primate",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"
         },
         {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg"
+            "id": "1242937",
+            "title": "The Dreadful",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/8fFnF6VfFojVXYeNjBOyUjuvm70.jpg"
         },
         {
-            "id": "425274",
-            "title": "Now You See Me: Now You Don't",
+            "id": "1242898",
+            "title": "Predator: Badlands",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
         },
         {
             "id": "1317672",
             "title": "Love Me Love Me",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
+        },
+        {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "1297842",
@@ -79,10 +79,16 @@
             "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+            "id": "1261188",
+            "title": "The Swedish Connection",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg"
+        },
+        {
+            "id": "1159559",
+            "title": "Scream 7",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
             "id": "1243460",
@@ -91,22 +97,16 @@
             "img": "https://image.tmdb.org/t/p/w500/c7uyBUFFcPTSVOXF63A1hpJbQzS.jpg"
         },
         {
-            "id": "1208348",
-            "title": "Rental Family",
+            "id": "425274",
+            "title": "Now You See Me: Now You Don't",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/nRrwqApUDFL8gLGyJFIdDkmoule.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
         },
         {
-            "id": "1140498",
-            "title": "Is This Thing On?",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg"
-        },
-        {
-            "id": "1426964",
-            "title": "State of Fear",
+            "id": "1088434",
+            "title": "Hellfire",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg"
         },
         {
             "id": "680493",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg"
         }
     ]
 }
