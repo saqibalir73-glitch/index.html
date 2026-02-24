@@ -31,10 +31,10 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "1316092",
-            "title": "\"Wuthering Heights\"",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "1159559",
@@ -43,16 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
             "id": "1428862",
             "title": "Firebreak",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg"
-        },
-        {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "1084242",
@@ -67,16 +67,16 @@
             "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
-            "id": "1242898",
-            "title": "Predator: Badlands",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
-        },
-        {
             "id": "1242937",
             "title": "The Dreadful",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg"
+        },
+        {
+            "id": "1242898",
+            "title": "Predator: Badlands",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
         },
         {
             "id": "1315303",
@@ -91,6 +91,18 @@
             "img": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg"
         },
         {
+            "id": "650524",
+            "title": "Back to the Past",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/h3OUaPfCaFmzwB2eMHik50RsXlP.jpg"
+        },
+        {
+            "id": "425274",
+            "title": "Now You See Me: Now You Don't",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+        },
+        {
             "id": "1268609",
             "title": "Pavane",
             "year": "2026",
@@ -103,22 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg"
         },
         {
-            "id": "425274",
-            "title": "Now You See Me: Now You Don't",
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
-        },
-        {
-            "id": "1088434",
-            "title": "Hellfire",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg"
-        },
-        {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         }
     ]
 }
