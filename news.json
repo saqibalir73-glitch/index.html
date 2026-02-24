@@ -1,40 +1,40 @@
 {
     "news_items": [
         {
-            "id": "1272837",
-            "title": "28 Years Later: The Bone Temple",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
-        },
-        {
             "id": "1236153",
             "title": "Mercy",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
-        },
-        {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-        },
-        {
-            "id": "1297842",
-            "title": "GOAT",
+            "id": "1272837",
+            "title": "28 Years Later: The Bone Temple",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
+        },
+        {
+            "id": "1290821",
+            "title": "Shelter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
             "id": "1368166",
             "title": "The Housemaid",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+        },
+        {
+            "id": "1428862",
+            "title": "Firebreak",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg"
+        },
+        {
+            "id": "1317288",
+            "title": "Marty Supreme",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
             "id": "1159559",
@@ -49,10 +49,22 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1428862",
-            "title": "Firebreak",
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
+            "id": "1315303",
+            "title": "Primate",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
             "id": "1084242",
@@ -61,10 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1171145",
-            "title": "Crime 101",
+            "id": "1297842",
+            "title": "GOAT",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
             "id": "1242937",
@@ -79,10 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
         },
         {
-            "id": "1315303",
-            "title": "Primate",
+            "id": "1171145",
+            "title": "Crime 101",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
+        },
+        {
+            "id": "1088434",
+            "title": "Hellfire",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg"
         },
         {
             "id": "1327688",
@@ -91,34 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg"
         },
         {
-            "id": "650524",
-            "title": "Back to the Past",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/h3OUaPfCaFmzwB2eMHik50RsXlP.jpg"
-        },
-        {
-            "id": "425274",
-            "title": "Now You See Me: Now You Don't",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
-        },
-        {
-            "id": "1268609",
-            "title": "Pavane",
+            "id": "1261188",
+            "title": "The Swedish Connection",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg"
         },
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
+            "id": "1124566",
+            "title": "Sentimental Value",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
         }
     ]
 }
