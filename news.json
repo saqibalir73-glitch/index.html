@@ -1,22 +1,28 @@
 {
     "news_items": [
         {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
             "id": "799882",
             "title": "The Bluff",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg"
         },
         {
+            "id": "1159559",
+            "title": "Scream 7",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
             "id": "1290821",
             "title": "Shelter",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
+        },
+        {
+            "id": "1272837",
+            "title": "28 Years Later: The Bone Temple",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
             "id": "1236153",
@@ -31,28 +37,16 @@
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
-            "id": "1272837",
-            "title": "28 Years Later: The Bone Temple",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
-        },
-        {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
-        },
-        {
             "id": "680493",
             "title": "Return to Silent Hill",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg"
         },
         {
-            "id": "1032892",
-            "title": "In the Blink of an Eye",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
         },
         {
             "id": "1084242",
@@ -67,10 +61,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
-            "id": "1327688",
-            "title": "One Mile: Chapter One",
+            "id": "1032892",
+            "title": "In the Blink of an Eye",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
+        },
+        {
+            "id": "1428862",
+            "title": "Firebreak",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg"
         },
         {
             "id": "1368166",
@@ -85,16 +85,22 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1428862",
-            "title": "Firebreak",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg"
-        },
-        {
             "id": "1084244",
             "title": "Toy Story 5",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg"
+        },
+        {
+            "id": "1327688",
+            "title": "One Mile: Chapter One",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg"
+        },
+        {
+            "id": "1297842",
+            "title": "GOAT",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
             "id": "1242898",
@@ -109,16 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg"
         },
         {
-            "id": "1327690",
-            "title": "One Mile: Chapter Two",
+            "id": "687163",
+            "title": "Project Hail Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
         }
     ]
 }
