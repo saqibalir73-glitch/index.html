@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "799882",
-            "title": "The Bluff",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg"
-        },
-        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "799882",
+            "title": "The Bluff",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg"
         },
         {
             "id": "1290821",
@@ -31,12 +31,6 @@
             "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
         },
         {
-            "id": "1032892",
-            "title": "In the Blink of an Eye",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
-        },
-        {
             "id": "858024",
             "title": "Hamnet",
             "year": "2025",
@@ -49,16 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
         },
         {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
-        },
-        {
             "id": "680493",
             "title": "Return to Silent Hill",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg"
+        },
+        {
+            "id": "1032892",
+            "title": "In the Blink of an Eye",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
         },
         {
             "id": "1084242",
@@ -73,16 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
-            "id": "1316092",
-            "title": "\"Wuthering Heights\"",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
-        },
-        {
-            "id": "1242898",
-            "title": "Predator: Badlands",
+            "id": "1368166",
+            "title": "The Housemaid",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "1428862",
@@ -91,10 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg"
         },
         {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
             "id": "1327688",
             "title": "One Mile: Chapter One",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg"
+        },
+        {
+            "id": "1242898",
+            "title": "Predator: Badlands",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
         },
         {
             "id": "1084244",
@@ -103,10 +103,10 @@
             "img": "https://image.tmdb.org/t/p/w500/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
+            "id": "804370",
+            "title": "Arco",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg"
         },
         {
             "id": "1297842",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "1327690",
-            "title": "One Mile: Chapter Two",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg"
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         }
     ]
 }
