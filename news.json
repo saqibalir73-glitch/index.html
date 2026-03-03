@@ -19,28 +19,10 @@
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
-            "id": "1236153",
-            "title": "Mercy",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
-        },
-        {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
-        },
-        {
-            "id": "1032892",
-            "title": "In the Blink of an Eye",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
         },
         {
             "id": "1272837",
@@ -49,16 +31,40 @@
             "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "1159831",
+            "title": "The Bride!",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
         },
         {
-            "id": "1234731",
-            "title": "Anaconda",
+            "id": "1032892",
+            "title": "In the Blink of an Eye",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
+        },
+        {
+            "id": "858024",
+            "title": "Hamnet",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
+            "id": "1236153",
+            "title": "Mercy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
+        },
+        {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "680493",
@@ -73,52 +79,46 @@
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
-            "id": "1054867",
-            "title": "One Battle After Another",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
-        },
-        {
-            "id": "1159831",
-            "title": "The Bride!",
+            "id": "687163",
+            "title": "Project Hail Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
         },
         {
-            "id": "1368166",
-            "title": "The Housemaid",
+            "id": "1084242",
+            "title": "Zootopia 2",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1316092",
-            "title": "\"Wuthering Heights\"",
+            "id": "1128377",
+            "title": "In Cold Light",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
-        },
-        {
-            "id": "804370",
-            "title": "Arco",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg"
-        },
-        {
-            "id": "1214931",
-            "title": "Nuremberg",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg"
-        },
-        {
-            "id": "1428862",
-            "title": "Firebreak",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg"
         },
         {
             "id": "1242898",
             "title": "Predator: Badlands",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
+        },
+        {
+            "id": "1297842",
+            "title": "GOAT",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/q4RdYkvIcSPlG6VhWgVtLWzh38B.jpg"
+        },
+        {
+            "id": "804370",
+            "title": "Arco",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg"
         }
     ]
 }
