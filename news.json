@@ -13,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "1290821",
+            "title": "Shelter",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
             "id": "1159831",
@@ -25,22 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
         },
         {
-            "id": "1290821",
-            "title": "Shelter",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
-        },
-        {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
-        },
-        {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
         },
         {
             "id": "1032892",
@@ -49,22 +37,16 @@
             "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
         },
         {
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
             "id": "1272837",
             "title": "28 Years Later: The Bone Temple",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
-        },
-        {
-            "id": "1236153",
-            "title": "Mercy",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
-        },
-        {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "1084242",
@@ -73,22 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1629382",
-            "title": "Street Flow 3",
+            "id": "1236153",
+            "title": "Mercy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg"
-        },
-        {
-            "id": "687163",
-            "title": "Project Hail Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
-        },
-        {
-            "id": "1316092",
-            "title": "\"Wuthering Heights\"",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
         },
         {
             "id": "1193501",
@@ -97,22 +67,52 @@
             "img": "https://image.tmdb.org/t/p/w500/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg"
         },
         {
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+        },
+        {
+            "id": "1317288",
+            "title": "Marty Supreme",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        },
+        {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
             "id": "680493",
             "title": "Return to Silent Hill",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
         },
         {
-            "id": "1054867",
-            "title": "One Battle After Another",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
+            "id": "1297842",
+            "title": "GOAT",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
         },
         {
             "id": "1422562",
             "title": "The Moment",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg"
+        },
+        {
+            "id": "1214931",
+            "title": "Nuremberg",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg"
         },
         {
             "id": "1273221",
