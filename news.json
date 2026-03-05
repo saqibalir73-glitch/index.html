@@ -1,10 +1,10 @@
 {
     "news_items": [
         {
-            "id": "1159831",
-            "title": "The Bride!",
+            "id": "1159559",
+            "title": "Scream 7",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
             "id": "799882",
@@ -13,22 +13,22 @@
             "img": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg"
         },
         {
+            "id": "1159831",
+            "title": "The Bride!",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+        },
+        {
             "id": "1327819",
             "title": "Hoppers",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "858024",
-            "title": "Hamnet",
+            "id": "1317288",
+            "title": "Marty Supreme",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
             "id": "1290821",
@@ -37,10 +37,10 @@
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
+            "id": "858024",
+            "title": "Hamnet",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
             "id": "1032892",
@@ -55,10 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "1236153",
+            "title": "Mercy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
         },
         {
             "id": "1368166",
@@ -67,22 +67,22 @@
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
-            "id": "1193501",
-            "title": "Whistle",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg"
-        },
-        {
             "id": "1084242",
             "title": "Zootopia 2",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1236153",
-            "title": "Mercy",
+            "id": "1193501",
+            "title": "Whistle",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
         },
         {
             "id": "1316092",
@@ -91,28 +91,28 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1629382",
-            "title": "Street Flow 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg"
-        },
-        {
-            "id": "1054867",
-            "title": "One Battle After Another",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
-        },
-        {
             "id": "680493",
             "title": "Return to Silent Hill",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
         },
         {
+            "id": "1629382",
+            "title": "Street Flow 3",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg"
+        },
+        {
             "id": "1273221",
             "title": "Scary Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/opJeybZ5EL4zObkgFPFkke0KnIq.jpg"
+        },
+        {
+            "id": "1233413",
+            "title": "Sinners",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg"
         },
         {
             "id": "1422562",
