@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "799882",
-            "title": "The Bluff",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg"
-        },
-        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "799882",
+            "title": "The Bluff",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg"
         },
         {
             "id": "1327819",
@@ -31,12 +31,6 @@
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
-        },
-        {
             "id": "1317288",
             "title": "Marty Supreme",
             "year": "2025",
@@ -49,16 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
         },
         {
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
             "id": "1084242",
             "title": "Zootopia 2",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
-            "id": "1272837",
-            "title": "28 Years Later: The Bone Temple",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
             "id": "1193501",
@@ -67,10 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg"
         },
         {
-            "id": "1236153",
-            "title": "Mercy",
+            "id": "1272837",
+            "title": "28 Years Later: The Bone Temple",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
             "id": "1368166",
@@ -79,22 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
-            "id": "1316092",
-            "title": "\"Wuthering Heights\"",
+            "id": "1236153",
+            "title": "Mercy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
-        },
-        {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/opJeybZ5EL4zObkgFPFkke0KnIq.jpg"
-        },
-        {
-            "id": "680493",
-            "title": "Return to Silent Hill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
         },
         {
             "id": "687163",
@@ -107,6 +89,24 @@
             "title": "GOAT",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+        },
+        {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+        },
+        {
+            "id": "680493",
+            "title": "Return to Silent Hill",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/opJeybZ5EL4zObkgFPFkke0KnIq.jpg"
         },
         {
             "id": "1233413",
