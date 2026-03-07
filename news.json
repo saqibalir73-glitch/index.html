@@ -7,6 +7,12 @@
             "img": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg"
         },
         {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+        },
+        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
@@ -19,22 +25,22 @@
             "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "696393",
+            "title": "Cold Storage",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
-        },
-        {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cspe06anYq41h44nE0dLSGkTucC.jpg"
         },
         {
             "id": "799882",
             "title": "The Bluff",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
+        },
+        {
+            "id": "1272837",
+            "title": "28 Years Later: The Bone Temple",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
             "id": "1032892",
@@ -61,22 +67,22 @@
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
+            "id": "1193501",
+            "title": "Whistle",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
+        },
+        {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
             "id": "1368166",
             "title": "The Housemaid",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
-        },
-        {
-            "id": "1193501",
-            "title": "Whistle",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg"
-        },
-        {
-            "id": "696393",
-            "title": "Cold Storage",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pfqkETJ2A3zXZJuNcufZbAJNnKA.jpg"
         },
         {
             "id": "1236153",
@@ -85,10 +91,10 @@
             "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
         },
         {
-            "id": "1272837",
-            "title": "28 Years Later: The Bone Temple",
+            "id": "1010755",
+            "title": "The Strangers: Chapter 3",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg"
         },
         {
             "id": "687163",
@@ -103,22 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
+            "id": "1389149",
+            "title": "Accused",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/opJeybZ5EL4zObkgFPFkke0KnIq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg"
         },
         {
             "id": "1422562",
             "title": "The Moment",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg"
-        },
-        {
-            "id": "425274",
-            "title": "Now You See Me: Now You Don't",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
         }
     ]
 }
