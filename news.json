@@ -7,16 +7,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg"
         },
         {
-            "id": "1193501",
-            "title": "Whistle",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
-        },
-        {
-            "id": "1272837",
-            "title": "28 Years Later: The Bone Temple",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1159831",
@@ -31,10 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "696393",
+            "title": "Cold Storage",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cspe06anYq41h44nE0dLSGkTucC.jpg"
         },
         {
             "id": "799882",
@@ -43,10 +37,22 @@
             "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
         },
         {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
             "id": "858024",
             "title": "Hamnet",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
+            "id": "1193501",
+            "title": "Whistle",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
         },
         {
             "id": "1317288",
@@ -61,22 +67,16 @@
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
+            "id": "1236153",
+            "title": "Mercy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
+        },
+        {
             "id": "1032892",
             "title": "In the Blink of an Eye",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
-        },
-        {
-            "id": "1316092",
-            "title": "\"Wuthering Heights\"",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
-        },
-        {
-            "id": "696393",
-            "title": "Cold Storage",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/cspe06anYq41h44nE0dLSGkTucC.jpg"
         },
         {
             "id": "1368166",
@@ -85,16 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
-            "id": "1236153",
-            "title": "Mercy",
+            "id": "1272837",
+            "title": "28 Years Later: The Bone Temple",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
             "id": "687163",
@@ -103,22 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/vOhW7Lbt4kZAqe0vJhVC4Ced9x2.jpg"
         },
         {
-            "id": "1171145",
-            "title": "Crime 101",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
-        },
-        {
-            "id": "1419406",
-            "title": "The Shadow's Edge",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg"
-        },
-        {
             "id": "1629382",
             "title": "Street Flow 3",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/opJeybZ5EL4zObkgFPFkke0KnIq.jpg"
+        },
+        {
+            "id": "1242898",
+            "title": "Predator: Badlands",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg"
+        },
+        {
+            "id": "680493",
+            "title": "Return to Silent Hill",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
         }
     ]
 }
