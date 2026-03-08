@@ -31,16 +31,16 @@
             "img": "https://image.tmdb.org/t/p/w500/cspe06anYq41h44nE0dLSGkTucC.jpg"
         },
         {
-            "id": "799882",
-            "title": "The Bluff",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
-        },
-        {
             "id": "1317288",
             "title": "Marty Supreme",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        },
+        {
+            "id": "799882",
+            "title": "The Bluff",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
         },
         {
             "id": "858024",
@@ -49,22 +49,16 @@
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
-            "id": "1193501",
-            "title": "Whistle",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
-        },
-        {
             "id": "1290821",
             "title": "Shelter",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
-            "id": "1032892",
-            "title": "In the Blink of an Eye",
+            "id": "1193501",
+            "title": "Whistle",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
         },
         {
             "id": "1368166",
@@ -79,6 +73,18 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
+            "id": "1032892",
+            "title": "In the Blink of an Eye",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
+        },
+        {
+            "id": "1010755",
+            "title": "The Strangers: Chapter 3",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg"
+        },
+        {
             "id": "1236153",
             "title": "Mercy",
             "year": "2026",
@@ -91,34 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
         },
         {
-            "id": "1010755",
-            "title": "The Strangers: Chapter 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg"
-        },
-        {
             "id": "1316092",
             "title": "\"Wuthering Heights\"",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
         },
         {
-            "id": "1629382",
-            "title": "Street Flow 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg"
-        },
-        {
-            "id": "680493",
-            "title": "Return to Silent Hill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
             "id": "1226863",
             "title": "The Super Mario Galaxy Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yfGXTVSeyRTt9TnQV4pAyoSAv69.jpg"
+        },
+        {
+            "id": "680493",
+            "title": "Return to Silent Hill",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
         }
     ]
 }
