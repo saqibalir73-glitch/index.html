@@ -7,6 +7,12 @@
             "img": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg"
         },
         {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
             "id": "1327819",
             "title": "Hoppers",
             "year": "2026",
@@ -19,34 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/v9f1dKAaiJ1jVmYqYbwatLXMGE.jpg"
         },
         {
-            "id": "696393",
-            "title": "Cold Storage",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg"
-        },
-        {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
             "id": "1317288",
             "title": "Marty Supreme",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "id": "696393",
+            "title": "Cold Storage",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg"
         },
         {
             "id": "1226863",
@@ -61,22 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/cCx1m530ph5FmtabVVUpUchEmhe.jpg"
         },
         {
-            "id": "1193501",
-            "title": "Whistle",
+            "id": "1159559",
+            "title": "Scream 7",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
-        },
-        {
-            "id": "1290821",
-            "title": "Shelter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
-        },
-        {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
             "id": "1119449",
@@ -85,22 +61,22 @@
             "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
         },
         {
-            "id": "799882",
-            "title": "The Bluff",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
         },
         {
-            "id": "1010755",
-            "title": "The Strangers: Chapter 3",
+            "id": "1290821",
+            "title": "Shelter",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
-            "id": "1272837",
-            "title": "28 Years Later: The Bone Temple",
+            "id": "1193501",
+            "title": "Whistle",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
         },
         {
             "id": "1054867",
@@ -115,10 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+        },
+        {
+            "id": "1401281",
+            "title": "The Testament of Ann Lee",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg"
+        },
+        {
+            "id": "1233413",
+            "title": "Sinners",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg"
+        },
+        {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+        },
+        {
+            "id": "1633264",
+            "title": "Louis Theroux: Inside the Manosphere",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg"
         }
     ]
 }
