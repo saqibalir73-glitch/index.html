@@ -13,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "696393",
-            "title": "Cold Storage",
+            "id": "1119449",
+            "title": "Good Luck, Have Fun, Don't Die",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
         },
         {
             "id": "1084242",
@@ -25,28 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1159831",
-            "title": "The Bride!",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
-        },
-        {
             "id": "1317288",
             "title": "Marty Supreme",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
+            "id": "696393",
+            "title": "Cold Storage",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "1119449",
-            "title": "Good Luck, Have Fun, Don't Die",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg"
         },
         {
             "id": "687163",
@@ -55,10 +43,22 @@
             "img": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg"
         },
         {
+            "id": "1159559",
+            "title": "Scream 7",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
             "id": "858024",
             "title": "Hamnet",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
+            "id": "1159831",
+            "title": "The Bride!",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
         },
         {
             "id": "1171145",
@@ -67,34 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
             "id": "1290821",
             "title": "Shelter",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
-        },
-        {
-            "id": "1010755",
-            "title": "The Strangers: Chapter 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg"
-        },
-        {
-            "id": "1367642",
-            "title": "Reminders of Him",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg"
-        },
-        {
-            "id": "799882",
-            "title": "The Bluff",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
         },
         {
             "id": "1401281",
@@ -103,10 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg"
         },
         {
-            "id": "1193501",
-            "title": "Whistle",
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
         },
         {
             "id": "1368166",
@@ -115,10 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
-            "id": "1062722",
-            "title": "Frankenstein",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
+            "id": "1010755",
+            "title": "The Strangers: Chapter 3",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg"
+        },
+        {
+            "id": "1193501",
+            "title": "Whistle",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg"
+        },
+        {
+            "id": "799882",
+            "title": "The Bluff",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
+        },
+        {
+            "id": "507244",
+            "title": "Afterburn",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg"
         }
     ]
 }
