@@ -13,6 +13,12 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
+            "id": "1119449",
+            "title": "Good Luck, Have Fun, Don't Die",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
+        },
+        {
             "id": "1327819",
             "title": "Hoppers",
             "year": "2026",
@@ -23,12 +29,6 @@
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg"
-        },
-        {
-            "id": "1119449",
-            "title": "Good Luck, Have Fun, Don't Die",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
         },
         {
             "id": "858024",
@@ -49,18 +49,6 @@
             "img": "https://image.tmdb.org/t/p/w500/heMdO64ys1hR896YE2jvTv8JlBX.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "696393",
-            "title": "Cold Storage",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3HA2iiq982e01EKXJvPFyfMADVM.jpg"
-        },
-        {
             "id": "1316092",
             "title": "\"Wuthering Heights\"",
             "year": "2026",
@@ -73,34 +61,34 @@
             "img": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
+            "id": "1159559",
+            "title": "Scream 7",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "1367642",
-            "title": "Reminders of Him",
+            "id": "696393",
+            "title": "Cold Storage",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
-        },
-        {
-            "id": "1159831",
-            "title": "The Bride!",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
-        },
-        {
-            "id": "1290821",
-            "title": "Shelter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3HA2iiq982e01EKXJvPFyfMADVM.jpg"
         },
         {
             "id": "1233413",
             "title": "Sinners",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
+        },
+        {
+            "id": "1010755",
+            "title": "The Strangers: Chapter 3",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg"
+        },
+        {
+            "id": "1220564",
+            "title": "The Secret Agent",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
         },
         {
             "id": "1401281",
@@ -115,10 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
-            "id": "799882",
-            "title": "The Bluff",
+            "id": "1290821",
+            "title": "Shelter",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
+        },
+        {
+            "id": "1159831",
+            "title": "The Bride!",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+        },
+        {
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         }
     ]
 }
