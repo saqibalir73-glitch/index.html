@@ -7,22 +7,22 @@
             "img": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
-        },
-        {
             "id": "1054867",
             "title": "One Battle After Another",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
+            "id": "858024",
+            "title": "Hamnet",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/cCx1m530ph5FmtabVVUpUchEmhe.jpg"
         },
         {
             "id": "1327819",
@@ -31,40 +31,28 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-        },
-        {
-            "id": "687163",
-            "title": "Project Hail Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-        },
-        {
-            "id": "1119449",
-            "title": "Good Luck, Have Fun, Don't Die",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
-        },
-        {
             "id": "1233413",
             "title": "Sinners",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1171145",
-            "title": "Crime 101",
+            "id": "1317288",
+            "title": "Marty Supreme",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        },
+        {
+            "id": "1119449",
+            "title": "Good Luck, Have Fun, Don't Die",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/heMdO64ys1hR896YE2jvTv8JlBX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
         },
         {
             "id": "1316092",
@@ -79,28 +67,34 @@
             "img": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
         },
         {
-            "id": "1062722",
-            "title": "Frankenstein",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-        },
-        {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
-            "id": "1291335",
-            "title": "Solo Mio",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg"
+            "id": "1062722",
+            "title": "Frankenstein",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
         },
         {
-            "id": "1220564",
-            "title": "The Secret Agent",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/jadCjQLZpX9yxlk4xPtyx4He2Ll.jpg"
+            "id": "1171145",
+            "title": "Crime 101",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/heMdO64ys1hR896YE2jvTv8JlBX.jpg"
+        },
+        {
+            "id": "1159559",
+            "title": "Scream 7",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "1290821",
+            "title": "Shelter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
             "id": "696393",
@@ -109,16 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/3HA2iiq982e01EKXJvPFyfMADVM.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+            "id": "1220564",
+            "title": "The Secret Agent",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/jadCjQLZpX9yxlk4xPtyx4He2Ll.jpg"
         },
         {
             "id": "1159831",
             "title": "The Bride!",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+        },
+        {
+            "id": "911430",
+            "title": "F1",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
         }
     ]
 }
