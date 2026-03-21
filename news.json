@@ -1,28 +1,22 @@
 {
     "news_items": [
         {
-            "id": "875828",
-            "title": "Peaky Blinders: The Immortal Man",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg"
-        },
-        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
+            "id": "875828",
+            "title": "Peaky Blinders: The Immortal Man",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg"
+        },
+        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "1314786",
-            "title": "Agent Zeta",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg"
         },
         {
             "id": "1327819",
@@ -37,34 +31,22 @@
             "img": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-        },
-        {
             "id": "1054867",
             "title": "One Battle After Another",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
         },
         {
-            "id": "840464",
-            "title": "Greenland 2: Migration",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "id": "1314786",
+            "title": "Agent Zeta",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg"
         },
         {
             "id": "1233413",
@@ -73,16 +55,22 @@
             "img": "https://image.tmdb.org/t/p/w500/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
         },
         {
+            "id": "1317288",
+            "title": "Marty Supreme",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        },
+        {
+            "id": "858024",
+            "title": "Hamnet",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+        },
+        {
             "id": "1266127",
             "title": "Ready or Not: Here I Come",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
-        },
-        {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "1316092",
@@ -97,10 +85,22 @@
             "img": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
         },
         {
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ucQ0QBXXQPSxeUmWfh4YQenIuB9.jpg"
+        },
+        {
+            "id": "1368166",
+            "title": "The Housemaid",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "1171145",
@@ -109,10 +109,10 @@
             "img": "https://image.tmdb.org/t/p/w500/heMdO64ys1hR896YE2jvTv8JlBX.jpg"
         },
         {
-            "id": "1368166",
-            "title": "The Housemaid",
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
             "id": "1290821",
