@@ -1,22 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
-        },
-        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1297842",
-            "title": "GOAT",
+            "id": "1198994",
+            "title": "Send Help",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
             "id": "875828",
@@ -25,10 +19,16 @@
             "img": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg"
         },
         {
-            "id": "467905",
-            "title": "How to Make a Killing",
+            "id": "1159559",
+            "title": "Scream 7",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "1297842",
+            "title": "GOAT",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
             "id": "1314786",
@@ -37,22 +37,10 @@
             "img": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
             "id": "1327819",
             "title": "Hoppers",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
-        },
-        {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "1266127",
@@ -61,10 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
         },
         {
-            "id": "840464",
-            "title": "Greenland 2: Migration",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "1265609",
@@ -73,16 +61,22 @@
             "img": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+            "id": "467905",
+            "title": "How to Make a Killing",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg"
         },
         {
-            "id": "1292695",
-            "title": "They Will Kill You",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vyatCfOSe33r8SL1biaXPcSs9tT.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
+            "id": "840464",
+            "title": "Greenland 2: Migration",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
         },
         {
             "id": "969681",
@@ -91,10 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/ucQ0QBXXQPSxeUmWfh4YQenIuB9.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+            "id": "1292695",
+            "title": "They Will Kill You",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
         },
         {
             "id": "1582770",
@@ -103,22 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/m4TCUYg3g9w9v4wQV0AEeLTWo3O.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
+            "id": "1317288",
+            "title": "Marty Supreme",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
         },
         {
-            "id": "858024",
-            "title": "Hamnet",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+            "id": "999136",
+            "title": "Do Not Enter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/8V2jpc1K8icNr0EScpqARyitXlc.jpg"
         },
         {
-            "id": "1054867",
-            "title": "One Battle After Another",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
+            "id": "1272837",
+            "title": "28 Years Later: The Bone Temple",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
+        },
+        {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
         }
     ]
 }
