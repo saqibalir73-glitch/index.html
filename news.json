@@ -19,6 +19,12 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
+            "id": "1115544",
+            "title": "Mike & Nick & Nick & Alice",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg"
+        },
+        {
             "id": "1084187",
             "title": "Pretty Lethal",
             "year": "2026",
@@ -35,12 +41,6 @@
             "title": "Peaky Blinders: The Immortal Man",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg"
-        },
-        {
-            "id": "1115544",
-            "title": "Mike & Nick & Nick & Alice",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg"
         },
         {
             "id": "1159559",
@@ -73,12 +73,6 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-        },
-        {
             "id": "1266127",
             "title": "Ready or Not: Here I Come",
             "year": "2026",
@@ -91,10 +85,22 @@
             "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
         },
         {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
             "id": "1265609",
             "title": "War Machine",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg"
+        },
+        {
+            "id": "999136",
+            "title": "Do Not Enter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg"
         },
         {
             "id": "1290821",
@@ -103,22 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
-            "id": "999136",
-            "title": "Do Not Enter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8V2jpc1K8icNr0EScpqARyitXlc.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
-        },
-        {
             "id": "1582770",
             "title": "Dhurandhar: The Revenge",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg"
+        },
+        {
+            "id": "1523145",
+            "title": "Your Heart Will Be Broken",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg"
         }
     ]
 }
