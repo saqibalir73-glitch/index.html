@@ -19,24 +19,6 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
-        },
-        {
-            "id": "1316092",
-            "title": "\"Wuthering Heights\"",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg"
-        },
-        {
-            "id": "1115544",
-            "title": "Mike & Nick & Nick & Alice",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg"
-        },
-        {
             "id": "1084187",
             "title": "Pretty Lethal",
             "year": "2026",
@@ -49,10 +31,22 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
+            "id": "1115544",
+            "title": "Mike & Nick & Nick & Alice",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg"
+        },
+        {
             "id": "1226863",
             "title": "The Super Mario Galaxy Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
             "id": "467905",
@@ -79,10 +73,22 @@
             "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
         },
         {
-            "id": "840464",
-            "title": "Greenland 2: Migration",
+            "id": "1266127",
+            "title": "Ready or Not: Here I Come",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
+        },
+        {
+            "id": "1582770",
+            "title": "Dhurandhar: The Revenge",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg"
+        },
+        {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg"
         },
         {
             "id": "1084242",
@@ -91,10 +97,10 @@
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
-            "id": "1266127",
-            "title": "Ready or Not: Here I Come",
+            "id": "840464",
+            "title": "Greenland 2: Migration",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
         },
         {
             "id": "1265609",
@@ -107,12 +113,6 @@
             "title": "Agent Zeta",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg"
-        },
-        {
-            "id": "1523145",
-            "title": "Your Heart Will Be Broken",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg"
         },
         {
             "id": "1290821",
