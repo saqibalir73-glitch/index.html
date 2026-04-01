@@ -1,6 +1,12 @@
 {
     "news_items": [
         {
+            "id": "1171145",
+            "title": "Crime 101",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg"
+        },
+        {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
@@ -19,10 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1171145",
-            "title": "Crime 101",
+            "id": "1159559",
+            "title": "Scream 7",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
             "id": "1297842",
@@ -31,10 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "1198994",
-            "title": "Send Help",
+            "id": "1268127",
+            "title": "Humint",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg"
         },
         {
             "id": "1115544",
@@ -55,12 +67,6 @@
             "img": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
             "id": "1316092",
             "title": "\"Wuthering Heights\"",
             "year": "2026",
@@ -79,10 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg"
         },
         {
-            "id": "1268127",
-            "title": "Humint",
+            "id": "1266127",
+            "title": "Ready or Not: Here I Come",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
         },
         {
             "id": "467905",
@@ -97,10 +103,10 @@
             "img": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg"
         },
         {
-            "id": "1266127",
-            "title": "Ready or Not: Here I Come",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "1292695",
@@ -109,16 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
         },
         {
-            "id": "840464",
-            "title": "Greenland 2: Migration",
+            "id": "1487320",
+            "title": "The Last Giant",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
-        },
-        {
-            "id": "1630433",
-            "title": "The Red Line",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lARMzlnHtusEnY8LrTmNID92CJo.jpg"
         }
     ]
 }
