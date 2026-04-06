@@ -25,16 +25,28 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
+            "id": "1159831",
+            "title": "The Bride!",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
         },
         {
             "id": "1325734",
             "title": "The Drama",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+        },
+        {
+            "id": "1159559",
+            "title": "Scream 7",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "1493859",
+            "title": "Pizza Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg"
         },
         {
             "id": "1316092",
@@ -49,12 +61,6 @@
             "img": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg"
         },
         {
-            "id": "1493859",
-            "title": "Pizza Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg"
-        },
-        {
             "id": "1327819",
             "title": "Hoppers",
             "year": "2026",
@@ -67,12 +73,6 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "1159831",
-            "title": "The Bride!",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
-        },
-        {
             "id": "1523145",
             "title": "Your Heart Will Be Broken",
             "year": "2026",
@@ -83,6 +83,12 @@
             "title": "Send Help",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+        },
+        {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "1266127",
@@ -107,12 +113,6 @@
             "title": "Feel My Voice",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg"
-        },
-        {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "1084187",
