@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1290417",
-            "title": "Thrash",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg"
-        },
-        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
@@ -19,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1049471",
-            "title": "Outcome",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8BNDEyjzZigtLBfgXgNgZBXWM35.jpg"
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
             "id": "1159831",
@@ -31,10 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+            "id": "1290417",
+            "title": "Thrash",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg"
+        },
+        {
+            "id": "1049471",
+            "title": "Outcome",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/8BNDEyjzZigtLBfgXgNgZBXWM35.jpg"
         },
         {
             "id": "1325734",
@@ -61,12 +61,6 @@
             "img": "https://image.tmdb.org/t/p/w500/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg"
         },
         {
-            "id": "1641319",
-            "title": "Sniper: No Nation",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg"
-        },
-        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
@@ -79,10 +73,16 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+            "id": "1641319",
+            "title": "Sniper: No Nation",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg"
+        },
+        {
+            "id": "1268127",
+            "title": "Humint",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg"
         },
         {
             "id": "1316092",
@@ -91,16 +91,22 @@
             "img": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
         },
         {
-            "id": "1266127",
-            "title": "Ready or Not: Here I Come",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
-        },
-        {
             "id": "1297842",
             "title": "GOAT",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+        },
+        {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg"
+        },
+        {
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
         },
         {
             "id": "1198994",
@@ -109,16 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
-            "id": "1236153",
-            "title": "Mercy",
+            "id": "1266127",
+            "title": "Ready or Not: Here I Come",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg"
-        },
-        {
-            "id": "1268127",
-            "title": "Humint",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
         }
     ]
 }
