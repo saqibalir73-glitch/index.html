@@ -19,12 +19,6 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1159831",
-            "title": "The Bride!",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
-        },
-        {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
@@ -37,6 +31,12 @@
             "img": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg"
         },
         {
+            "id": "1159831",
+            "title": "The Bride!",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+        },
+        {
             "id": "1325734",
             "title": "The Drama",
             "year": "2026",
@@ -47,6 +47,12 @@
             "title": "Crime 101",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg"
+        },
+        {
+            "id": "1266127",
+            "title": "Ready or Not: Here I Come",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
         },
         {
             "id": "936075",
@@ -67,28 +73,16 @@
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
-        },
-        {
-            "id": "1297842",
-            "title": "GOAT",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
-        },
-        {
-            "id": "1266127",
-            "title": "Ready or Not: Here I Come",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
-        },
-        {
             "id": "1641319",
             "title": "Sniper: No Nation",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1236153",
@@ -107,6 +101,12 @@
             "title": "Zootopia 2",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
+            "id": "1297842",
+            "title": "GOAT",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
             "id": "1314481",
