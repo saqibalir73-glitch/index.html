@@ -25,28 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg"
-        },
-        {
-            "id": "1159831",
-            "title": "The Bride!",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
-        },
-        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
         },
         {
-            "id": "1325734",
-            "title": "The Drama",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg"
         },
         {
             "id": "1266127",
@@ -55,22 +43,46 @@
             "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
         },
         {
+            "id": "1325734",
+            "title": "The Drama",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+        },
+        {
+            "id": "1159831",
+            "title": "The Bride!",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+        },
+        {
+            "id": "1304313",
+            "title": "Lee Cronin's The Mummy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg"
+        },
+        {
+            "id": "1367642",
+            "title": "Reminders of Him",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
+        },
+        {
             "id": "1171145",
             "title": "Crime 101",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg"
         },
         {
-            "id": "1641319",
-            "title": "Sniper: No Nation",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg"
-        },
-        {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+        },
+        {
+            "id": "1641319",
+            "title": "Sniper: No Nation",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg"
         },
         {
             "id": "1327819",
@@ -85,28 +97,10 @@
             "img": "https://image.tmdb.org/t/p/w500/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg"
         },
         {
-            "id": "1367642",
-            "title": "Reminders of Him",
+            "id": "1300968",
+            "title": "The Hunger Games: Sunrise on the Reaping",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
-        },
-        {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg"
-        },
-        {
-            "id": "1493859",
-            "title": "Pizza Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg"
-        },
-        {
-            "id": "1297842",
-            "title": "GOAT",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1jkFSHDizXbk7yXFZy8rzyHDsdT.jpg"
         },
         {
             "id": "1198994",
@@ -115,10 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
-            "id": "1268127",
-            "title": "Humint",
+            "id": "1084242",
+            "title": "Zootopia 2",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+        },
+        {
+            "id": "1493859",
+            "title": "Pizza Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg"
         }
     ]
 }
