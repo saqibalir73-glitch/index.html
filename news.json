@@ -1,16 +1,22 @@
 {
     "news_items": [
         {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+        },
+        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "936075",
-            "title": "Michael",
+            "id": "1400940",
+            "title": "Clayface",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
         },
         {
             "id": "1304313",
@@ -25,16 +31,22 @@
             "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
         },
         {
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
             "id": "1084577",
             "title": "Balls Up",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg"
         },
         {
             "id": "1613798",
@@ -49,10 +61,16 @@
             "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
+            "id": "1325734",
+            "title": "The Drama",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+        },
+        {
+            "id": "1367642",
+            "title": "Reminders of Him",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
         },
         {
             "id": "1266127",
@@ -61,16 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
         },
         {
-            "id": "1325734",
-            "title": "The Drama",
+            "id": "1659087",
+            "title": "180",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg"
         },
         {
-            "id": "1243741",
-            "title": "Ballistic",
+            "id": "840464",
+            "title": "Greenland 2: Migration",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
+        },
+        {
+            "id": "1480387",
+            "title": "undertone",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg"
         },
         {
             "id": "1511057",
@@ -85,40 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg"
         },
         {
-            "id": "1480387",
-            "title": "undertone",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg"
-        },
-        {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg"
-        },
-        {
             "id": "1198994",
             "title": "Send Help",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
-            "id": "1367642",
-            "title": "Reminders of Him",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
-        },
-        {
-            "id": "1400940",
-            "title": "Clayface",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/y8chUhe1H104AxPHr5IuD7Cfppu.jpg"
-        },
-        {
-            "id": "1659087",
-            "title": "180",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         }
     ]
 }
