@@ -1,22 +1,22 @@
 {
     "news_items": [
         {
-            "id": "936075",
-            "title": "Michael",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
-        },
-        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "980431",
-            "title": "Avatar Aang: The Last Airbender",
+            "id": "936075",
+            "title": "Michael",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+        },
+        {
+            "id": "1304313",
+            "title": "Lee Cronin's The Mummy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg"
         },
         {
             "id": "1226863",
@@ -25,10 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
+            "id": "980431",
+            "title": "Avatar Aang: The Last Airbender",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
         },
         {
             "id": "1084577",
@@ -73,16 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg"
         },
         {
-            "id": "1400940",
-            "title": "Clayface",
+            "id": "1367642",
+            "title": "Reminders of Him",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
-        },
-        {
-            "id": "1290417",
-            "title": "Thrash",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
         },
         {
             "id": "1480387",
@@ -91,34 +85,40 @@
             "img": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg"
         },
         {
-            "id": "1367642",
-            "title": "Reminders of Him",
+            "id": "1383731",
+            "title": "Protector",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/aROe6QU12FTDhF6Lw9YHZqeCZUq.jpg"
         },
         {
-            "id": "1198994",
-            "title": "Send Help",
+            "id": "1290417",
+            "title": "Thrash",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
-        },
-        {
-            "id": "680493",
-            "title": "Return to Silent Hill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg"
-        },
-        {
-            "id": "1159559",
-            "title": "Scream 7",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg"
         },
         {
             "id": "1659087",
             "title": "180",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg"
+        },
+        {
+            "id": "1400940",
+            "title": "Clayface",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
+        },
+        {
+            "id": "840464",
+            "title": "Greenland 2: Migration",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
+        },
+        {
+            "id": "1242332",
+            "title": "Normal",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg"
         }
     ]
 }
