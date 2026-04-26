@@ -10,7 +10,7 @@
             "id": "936075",
             "title": "Michael",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rsJscoA5nIo2r1aJq7ES0T5oJSS.jpg"
         },
         {
             "id": "687163",
@@ -43,22 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
         },
         {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+        },
+        {
             "id": "840464",
             "title": "Greenland 2: Migration",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
-        },
-        {
-            "id": "1383731",
-            "title": "Protector",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg"
-        },
-        {
-            "id": "1511057",
-            "title": "Roommates",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg"
         },
         {
             "id": "1325734",
@@ -67,16 +61,16 @@
             "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
             "id": "1613798",
             "title": "Vengeance",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg"
+        },
+        {
+            "id": "1383731",
+            "title": "Protector",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg"
         },
         {
             "id": "1084577",
@@ -85,16 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg"
         },
         {
-            "id": "1659087",
-            "title": "180",
+            "id": "1511057",
+            "title": "Roommates",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg"
-        },
-        {
-            "id": "1266127",
-            "title": "Ready or Not 2: Here I Come",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg"
         },
         {
             "id": "1327819",
@@ -109,10 +97,22 @@
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
-            "id": "1198994",
-            "title": "Send Help",
+            "id": "1266127",
+            "title": "Ready or Not 2: Here I Come",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
+        },
+        {
+            "id": "1316092",
+            "title": "\"Wuthering Heights\"",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
+        },
+        {
+            "id": "1659087",
+            "title": "180",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg"
         },
         {
             "id": "1368166",
