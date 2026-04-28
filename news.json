@@ -25,10 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "687163",
@@ -37,10 +37,16 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
         },
         {
             "id": "1304313",
@@ -49,10 +55,16 @@
             "img": "https://image.tmdb.org/t/p/w500/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
+            "id": "931285",
+            "title": "Mortal Kombat II",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+        },
+        {
+            "id": "1368166",
+            "title": "The Housemaid",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
         },
         {
             "id": "980431",
@@ -67,10 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
         },
         {
-            "id": "931285",
-            "title": "Mortal Kombat II",
+            "id": "1297842",
+            "title": "GOAT",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
             "id": "1325734",
@@ -79,10 +91,10 @@
             "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
         },
         {
-            "id": "1368166",
-            "title": "The Housemaid",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+            "id": "1450527",
+            "title": "Forbidden Fruits",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/t3hvrrrqvRoURz4y1A1aCys6WD9.jpg"
         },
         {
             "id": "1383731",
@@ -91,28 +103,16 @@
             "img": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg"
         },
         {
-            "id": "1297842",
-            "title": "GOAT",
+            "id": "1430077",
+            "title": "Hokum",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gC4FtEthYvx6XV2JHCQibf4P3FT.jpg"
         },
         {
             "id": "1266127",
             "title": "Ready or Not 2: Here I Come",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
-        },
-        {
-            "id": "1450527",
-            "title": "Forbidden Fruits",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/t3hvrrrqvRoURz4y1A1aCys6WD9.jpg"
-        },
-        {
-            "id": "1511057",
-            "title": "Roommates",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg"
         },
         {
             "id": "1613798",
