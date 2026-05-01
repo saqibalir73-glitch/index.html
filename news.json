@@ -7,6 +7,12 @@
             "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg"
+        },
+        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
@@ -19,10 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
+            "id": "1007757",
+            "title": "Swapped",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
         },
         {
             "id": "1327819",
@@ -37,12 +43,6 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1007757",
-            "title": "Swapped",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
-        },
-        {
             "id": "1226863",
             "title": "The Super Mario Galaxy Movie",
             "year": "2026",
@@ -55,16 +55,34 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
+            "id": "1430077",
+            "title": "Hokum",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+        },
+        {
             "id": "1325734",
             "title": "The Drama",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
         },
         {
+            "id": "980431",
+            "title": "Avatar Aang: The Last Airbender",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
+        },
+        {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+        },
+        {
+            "id": "1290821",
+            "title": "Shelter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
             "id": "1297842",
@@ -79,34 +97,16 @@
             "img": "https://image.tmdb.org/t/p/w500/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg"
         },
         {
-            "id": "980431",
-            "title": "Avatar Aang: The Last Airbender",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
-        },
-        {
             "id": "840464",
             "title": "Greenland 2: Migration",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg"
         },
         {
-            "id": "1430077",
-            "title": "Hokum",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gC4FtEthYvx6XV2JHCQibf4P3FT.jpg"
-        },
-        {
             "id": "1368166",
             "title": "The Housemaid",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
-        },
-        {
-            "id": "1290821",
-            "title": "Shelter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
             "id": "1316092",
