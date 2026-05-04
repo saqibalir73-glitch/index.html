@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1318447",
-            "title": "Apex",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-        },
-        {
             "id": "1314481",
             "title": "The Devil Wears Prada 2",
             "year": "2026",
@@ -17,6 +11,12 @@
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+        },
+        {
+            "id": "1318447",
+            "title": "Apex",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
             "id": "1292695",
@@ -43,16 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
             "id": "931285",
             "title": "Mortal Kombat II",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+        },
+        {
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "1430077",
@@ -61,16 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
         },
         {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
+            "id": "1266127",
+            "title": "Ready or Not 2: Here I Come",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg"
-        },
-        {
-            "id": "1462229",
-            "title": "Pegasus 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/hypEABFazVTU4zTZYcVFmaPYdIH.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
         },
         {
             "id": "1301421",
@@ -79,10 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg"
         },
         {
-            "id": "1290821",
-            "title": "Shelter",
+            "id": "1462229",
+            "title": "Pegasus 3",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hypEABFazVTU4zTZYcVFmaPYdIH.jpg"
         },
         {
             "id": "83533",
@@ -91,16 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
         },
         {
-            "id": "1266127",
-            "title": "Ready or Not 2: Here I Come",
+            "id": "1297842",
+            "title": "GOAT",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
-        },
-        {
-            "id": "1450527",
-            "title": "Forbidden Fruits",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
         },
         {
             "id": "1325734",
@@ -109,10 +97,22 @@
             "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
         },
         {
-            "id": "1198994",
-            "title": "Send Help",
+            "id": "1228710",
+            "title": "Star Wars: The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/qSWiY6KAvkapXJWeyNrmDGYWQwr.jpg"
+        },
+        {
+            "id": "1290821",
+            "title": "Shelter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
+        },
+        {
+            "id": "1450527",
+            "title": "Forbidden Fruits",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg"
         },
         {
             "id": "1316092",
