@@ -1,10 +1,10 @@
 {
     "news_items": [
         {
-            "id": "1007757",
-            "title": "Swapped",
+            "id": "936075",
+            "title": "Michael",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
         },
         {
             "id": "1314481",
@@ -13,10 +13,16 @@
             "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
-            "id": "936075",
-            "title": "Michael",
+            "id": "1007757",
+            "title": "Swapped",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1226863",
@@ -29,12 +35,6 @@
             "title": "Mortal Kombat II",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
-        },
-        {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1325734",
@@ -67,16 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
         },
         {
-            "id": "1301421",
-            "title": "The Sheep Detectives",
+            "id": "1630423",
+            "title": "My Dearest Assassin",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg"
-        },
-        {
-            "id": "1430077",
-            "title": "Hokum",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
         },
         {
             "id": "1198994",
@@ -85,28 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
-            "id": "1630423",
-            "title": "My Dearest Assassin",
+            "id": "1301421",
+            "title": "The Sheep Detectives",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
-        },
-        {
-            "id": "696393",
-            "title": "Cold Storage",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3HA2iiq982e01EKXJvPFyfMADVM.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
-            "id": "1651233",
-            "title": "Son-in-Law",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg"
         },
         {
             "id": "1368337",
@@ -115,10 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
         },
         {
-            "id": "1462229",
-            "title": "Pegasus 3",
+            "id": "1430077",
+            "title": "Hokum",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/hypEABFazVTU4zTZYcVFmaPYdIH.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
+        },
+        {
+            "id": "1228710",
+            "title": "Star Wars: The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg"
+        },
+        {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
         }
     ]
 }
