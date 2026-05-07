@@ -1,34 +1,28 @@
 {
     "news_items": [
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-        },
-        {
             "id": "1007757",
             "title": "Swapped",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
         },
         {
-            "id": "931285",
-            "title": "Mortal Kombat II",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
-        },
-        {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+        },
+        {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1325734",
@@ -43,22 +37,28 @@
             "img": "https://image.tmdb.org/t/p/w500/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1318447",
-            "title": "Apex",
+            "id": "931285",
+            "title": "Mortal Kombat II",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+        },
+        {
+            "id": "1318447",
+            "title": "Apex",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
             "id": "1292695",
@@ -73,28 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
-        },
-        {
             "id": "1301421",
             "title": "The Sheep Detectives",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
-            "id": "1290821",
-            "title": "Shelter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
         },
         {
             "id": "1462229",
@@ -103,10 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/hypEABFazVTU4zTZYcVFmaPYdIH.jpg"
         },
         {
-            "id": "1450527",
-            "title": "Forbidden Fruits",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg"
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
         },
         {
             "id": "1228710",
@@ -115,10 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg"
         },
         {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
+        },
+        {
             "id": "1297842",
             "title": "GOAT",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+        },
+        {
+            "id": "1110034",
+            "title": "Kraken",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         }
     ]
 }
