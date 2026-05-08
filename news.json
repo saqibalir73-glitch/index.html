@@ -1,22 +1,10 @@
 {
     "news_items": [
         {
-            "id": "931285",
-            "title": "Mortal Kombat II",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
-        },
-        {
             "id": "1007757",
             "title": "Swapped",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
-        },
-        {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "1314481",
@@ -25,10 +13,28 @@
             "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
+            "id": "931285",
+            "title": "Mortal Kombat II",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+        },
+        {
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1325734",
@@ -41,12 +47,6 @@
             "title": "Ready or Not 2: Here I Come",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg"
-        },
-        {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1318447",
@@ -67,28 +67,22 @@
             "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
         },
         {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
-        },
-        {
             "id": "1630423",
             "title": "My Dearest Assassin",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
         },
         {
-            "id": "1430077",
-            "title": "Hokum",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
-        },
-        {
             "id": "1301421",
             "title": "The Sheep Detectives",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg"
+        },
+        {
+            "id": "1430077",
+            "title": "Hokum",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
         },
         {
             "id": "1368337",
@@ -103,22 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
         },
         {
-            "id": "1315772",
-            "title": "Minions & Monsters",
+            "id": "1198994",
+            "title": "Send Help",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
-            "id": "1110034",
-            "title": "Kraken",
+            "id": "1462229",
+            "title": "Pegasus 3",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hypEABFazVTU4zTZYcVFmaPYdIH.jpg"
         },
         {
-            "id": "1290821",
-            "title": "Shelter",
+            "id": "1228710",
+            "title": "Star Wars: The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg"
+        },
+        {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
         }
     ]
 }
