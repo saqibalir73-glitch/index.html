@@ -19,16 +19,28 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-        },
-        {
             "id": "1325734",
             "title": "The Drama",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+        },
+        {
+            "id": "1330021",
+            "title": "Remarkably Bright Creatures",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+        },
+        {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
             "id": "1266127",
@@ -43,10 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
+            "id": "1318447",
+            "title": "Apex",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
             "id": "687163",
@@ -55,28 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1330021",
-            "title": "Remarkably Bright Creatures",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
-        },
-        {
-            "id": "1318447",
-            "title": "Apex",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-        },
-        {
             "id": "1292695",
             "title": "They Will Kill You",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
-        },
-        {
-            "id": "1430077",
-            "title": "Hokum",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
         },
         {
             "id": "1630423",
@@ -97,28 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
-        },
-        {
-            "id": "1297842",
-            "title": "GOAT",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
-        },
-        {
             "id": "1317448",
             "title": "No Place to Be Single",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg"
         },
         {
+            "id": "696393",
+            "title": "Cold Storage",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3HA2iiq982e01EKXJvPFyfMADVM.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
+        },
+        {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+        },
+        {
+            "id": "1430077",
+            "title": "Hokum",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
         }
     ]
 }
