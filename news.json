@@ -13,22 +13,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
+            "id": "1007757",
+            "title": "Swapped",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
+        },
+        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
-        },
-        {
-            "id": "1325734",
-            "title": "The Drama",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
-        },
-        {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
             "id": "1330021",
@@ -37,10 +31,16 @@
             "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
         },
         {
-            "id": "1007757",
-            "title": "Swapped",
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        },
+        {
+            "id": "1325734",
+            "title": "The Drama",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
         },
         {
             "id": "1226863",
@@ -61,6 +61,24 @@
             "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
         },
         {
+            "id": "855435",
+            "title": "Faces of Death",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg"
+        },
+        {
+            "id": "1439930",
+            "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/wjcPbV53ovhlogVFYdmkTDBooqg.jpg"
+        },
+        {
+            "id": "1301421",
+            "title": "The Sheep Detectives",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
+        },
+        {
             "id": "1630423",
             "title": "My Dearest Assassin",
             "year": "2026",
@@ -73,22 +91,10 @@
             "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
-            "id": "855435",
-            "title": "Faces of Death",
+            "id": "1368337",
+            "title": "The Odyssey",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg"
-        },
-        {
-            "id": "1301421",
-            "title": "The Sheep Detectives",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
-        },
-        {
-            "id": "1439930",
-            "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wjcPbV53ovhlogVFYdmkTDBooqg.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
         },
         {
             "id": "1292415",
@@ -97,28 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg"
         },
         {
+            "id": "1339713",
+            "title": "Obsession",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
+        },
+        {
             "id": "1198994",
             "title": "Send Help",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
+            "id": "1400357",
+            "title": "The Christophers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
-            "id": "1292695",
-            "title": "They Will Kill You",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg"
         }
     ]
 }
