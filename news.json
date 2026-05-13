@@ -25,6 +25,12 @@
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
         },
         {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        },
+        {
             "id": "1330021",
             "title": "Remarkably Bright Creatures",
             "year": "2026",
@@ -49,52 +55,16 @@
             "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
-        },
-        {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-        },
-        {
             "id": "1266127",
             "title": "Ready or Not 2: Here I Come",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
         },
         {
-            "id": "1318447",
-            "title": "Apex",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-        },
-        {
-            "id": "855435",
-            "title": "Faces of Death",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg"
-        },
-        {
-            "id": "1430077",
-            "title": "Hokum",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
-        },
-        {
-            "id": "1630423",
-            "title": "My Dearest Assassin",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
-        },
-        {
-            "id": "1292415",
-            "title": "Beast",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1301421",
@@ -103,16 +73,46 @@
             "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
         },
         {
+            "id": "1318447",
+            "title": "Apex",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
+        },
+        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
         },
         {
+            "id": "1630423",
+            "title": "My Dearest Assassin",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+        },
+        {
             "id": "1455079",
             "title": "You, Me & Tuscany",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg"
+        },
+        {
+            "id": "1317448",
+            "title": "No Place to Be Single",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/httlhu80GnOx3bCAXi4sYdbDny0.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg"
         },
         {
             "id": "83533",
