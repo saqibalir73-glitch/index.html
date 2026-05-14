@@ -19,12 +19,6 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
-            "id": "1007757",
-            "title": "Swapped",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
-        },
-        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
@@ -37,10 +31,22 @@
             "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
         },
         {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        },
+        {
             "id": "1226863",
             "title": "The Super Mario Galaxy Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
+            "id": "1007757",
+            "title": "Swapped",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
         },
         {
             "id": "1327819",
@@ -49,22 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-        },
-        {
             "id": "1325734",
             "title": "The Drama",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
-        },
-        {
-            "id": "1318447",
-            "title": "Apex",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gqpXIE9fQNqMgEza73nOZy3aVMR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg"
         },
         {
             "id": "1266127",
@@ -85,16 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+            "id": "1582770",
+            "title": "Dhurandhar: The Revenge",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/z1dGYCdc8imuQ6LFkd9moc0zaBe.jpg"
         },
         {
-            "id": "1292415",
-            "title": "Beast",
+            "id": "1318447",
+            "title": "Apex",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gqpXIE9fQNqMgEza73nOZy3aVMR.jpg"
+        },
+        {
+            "id": "855435",
+            "title": "Faces of Death",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg"
         },
         {
             "id": "1630423",
@@ -103,22 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
         },
         {
-            "id": "1317288",
-            "title": "Marty Supreme",
+            "id": "1122573",
+            "title": "In the Grey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kDAB1LqDroHuzq6tbskKVJGMR1y.jpg"
+        },
+        {
+            "id": "1228710",
+            "title": "Star Wars: The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/n5lgbGxEM35MvcRqJG3aqHKm3Gq.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
             "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-        },
-        {
-            "id": "1317448",
-            "title": "No Place to Be Single",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/httlhu80GnOx3bCAXi4sYdbDny0.jpg"
-        },
-        {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
         }
     ]
 }
