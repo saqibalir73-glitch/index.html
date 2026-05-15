@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1439930",
-            "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gOggsBCSypNXq0yApYeXe7nnopT.jpg"
-        },
-        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+        },
+        {
+            "id": "1439930",
+            "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
         },
         {
             "id": "931285",
@@ -31,16 +31,16 @@
             "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
         },
         {
+            "id": "1339713",
+            "title": "Obsession",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
+        },
+        {
             "id": "1314481",
             "title": "The Devil Wears Prada 2",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-        },
-        {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "1007757",
@@ -49,16 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
         },
         {
-            "id": "1339713",
-            "title": "Obsession",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
-        },
-        {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "1325734",
@@ -67,16 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg"
         },
         {
-            "id": "1582770",
-            "title": "Dhurandhar: The Revenge",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg"
-        },
-        {
-            "id": "1266127",
-            "title": "Ready or Not 2: Here I Come",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1301421",
@@ -91,16 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
-            "id": "855435",
-            "title": "Faces of Death",
+            "id": "1266127",
+            "title": "Ready or Not 2: Here I Come",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
         },
         {
             "id": "1122573",
@@ -109,16 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/83YeicHJqiyGGH1QRbeQdtqegvW.jpg"
         },
         {
-            "id": "1292415",
-            "title": "Beast",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg"
-        },
-        {
             "id": "1198994",
             "title": "Send Help",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+        },
+        {
+            "id": "1630423",
+            "title": "My Dearest Assassin",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
+        },
+        {
+            "id": "1582770",
+            "title": "Dhurandhar: The Revenge",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+        },
+        {
+            "id": "1228710",
+            "title": "Star Wars: The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/n5lgbGxEM35MvcRqJG3aqHKm3Gq.jpg"
         }
     ]
 }
