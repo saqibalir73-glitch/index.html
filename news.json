@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-        },
-        {
             "id": "1439930",
             "title": "The Punisher: One Last Kill",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gOggsBCSypNXq0yApYeXe7nnopT.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "931285",
@@ -19,64 +19,10 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
-            "id": "1330021",
-            "title": "Remarkably Bright Creatures",
+            "id": "936075",
+            "title": "Michael",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
-        },
-        {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
-        },
-        {
-            "id": "1007757",
-            "title": "Swapped",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/te3zACrsYkS2x3mkjG6htLqhMo4.jpg"
-        },
-        {
-            "id": "1266127",
-            "title": "Ready or Not: Here I Come",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
-        },
-        {
-            "id": "1318447",
-            "title": "Apex",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-        },
-        {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
-        },
-        {
-            "id": "1292695",
-            "title": "They Will Kill You",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
-            "id": "1297842",
-            "title": "GOAT",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg"
         },
         {
             "id": "1339713",
@@ -85,16 +31,70 @@
             "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
         },
         {
-            "id": "936075",
-            "title": "Michael",
+            "id": "1330021",
+            "title": "Remarkably Bright Creatures",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
         },
         {
-            "id": "1084242",
-            "title": "Zootopia 2",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+            "id": "1651233",
+            "title": "Son-in-Law",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg"
+        },
+        {
+            "id": "1292415",
+            "title": "Beast",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg"
+        },
+        {
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
+            "id": "1301421",
+            "title": "The Sheep Detectives",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
+        },
+        {
+            "id": "1630423",
+            "title": "My Dearest Assassin",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
+        },
+        {
+            "id": "1007757",
+            "title": "Swapped",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/te3zACrsYkS2x3mkjG6htLqhMo4.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+        },
+        {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        },
+        {
+            "id": "1239198",
+            "title": "My Dearest Se\u00f1orita",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg"
+        },
+        {
+            "id": "1266127",
+            "title": "Ready or Not: Here I Come",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
         },
         {
             "id": "1325734",
@@ -103,22 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg"
         },
         {
-            "id": "980431",
-            "title": "Avatar Aang: The Last Airbender",
+            "id": "1318447",
+            "title": "Apex",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
-            "id": "1613798",
-            "title": "Vengeance",
+            "id": "1455079",
+            "title": "You, Me & Tuscany",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg"
         },
         {
-            "id": "1651233",
-            "title": "Son-in-Law",
+            "id": "1601797",
+            "title": "\u00bfQuieres ser mi novia?",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg"
         }
     ]
 }
