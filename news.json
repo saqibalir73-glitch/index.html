@@ -2,7 +2,7 @@
     "news_items": [
         {
             "id": "1439930",
-            "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+            "title": "The Punisher: One Last Kill",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gOggsBCSypNXq0yApYeXe7nnopT.jpg"
         },
@@ -13,22 +13,16 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+        },
+        {
             "id": "931285",
             "title": "Mortal Kombat II",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
-        },
-        {
-            "id": "936075",
-            "title": "Michael",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tMy2gc02azAGCskTzbfWPXZsK9w.jpg"
-        },
-        {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
         },
         {
             "id": "1330021",
@@ -43,16 +37,22 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/40I66L7QKguTFDPvcLcdiTbAD7I.jpg"
         },
         {
             "id": "1007757",
             "title": "Swapped",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
+        },
+        {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
             "id": "1325734",
@@ -67,46 +67,16 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "1318447",
-            "title": "Apex",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-        },
-        {
             "id": "1266127",
-            "title": "Ready or Not 2: Here I Come",
+            "title": "Ready or Not: Here I Come",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
         },
         {
-            "id": "1301421",
-            "title": "The Sheep Detectives",
+            "id": "1318447",
+            "title": "Apex",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
-        },
-        {
-            "id": "1122573",
-            "title": "In the Grey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
-        },
-        {
-            "id": "1630423",
-            "title": "My Dearest Assassin",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
-        },
-        {
-            "id": "1228710",
-            "title": "Star Wars: The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
-        },
-        {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
         },
         {
             "id": "855435",
@@ -115,10 +85,40 @@
             "img": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg"
         },
         {
-            "id": "1582770",
-            "title": "Dhurandhar: The Revenge",
+            "id": "1301421",
+            "title": "The Sheep Detectives",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
+        },
+        {
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+        },
+        {
+            "id": "1455079",
+            "title": "You, Me & Tuscany",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg"
+        },
+        {
+            "id": "1292415",
+            "title": "Beast",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg"
+        },
+        {
+            "id": "1630423",
+            "title": "My Dearest Assassin",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
+        },
+        {
+            "id": "1684226",
+            "title": "Bride of the Year",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg"
         }
     ]
 }
