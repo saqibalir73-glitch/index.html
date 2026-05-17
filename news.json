@@ -13,12 +13,6 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "931285",
-            "title": "Mortal Kombat II",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
-        },
-        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
@@ -29,6 +23,12 @@
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg"
+        },
+        {
+            "id": "931285",
+            "title": "Mortal Kombat II",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
             "id": "1226863",
@@ -67,12 +67,6 @@
             "img": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg"
         },
         {
-            "id": "1266127",
-            "title": "Ready or Not: Here I Come",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
-        },
-        {
             "id": "1318447",
             "title": "Apex",
             "year": "2026",
@@ -85,10 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg"
         },
         {
-            "id": "1140521",
-            "title": "The Magic Faraway Tree",
+            "id": "1266127",
+            "title": "Ready or Not: Here I Come",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
         },
         {
             "id": "1301421",
@@ -97,10 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+            "id": "1198994",
+            "title": "Send Help",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+        },
+        {
+            "id": "1140521",
+            "title": "The Magic Faraway Tree",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg"
         },
         {
             "id": "1122573",
@@ -109,16 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
         },
         {
+            "id": "1582770",
+            "title": "Dhurandhar: The Revenge",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg"
+        },
+        {
             "id": "1292415",
             "title": "Beast",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg"
-        },
-        {
-            "id": "1198994",
-            "title": "Send Help",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
         }
     ]
 }
