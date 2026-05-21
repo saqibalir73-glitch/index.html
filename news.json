@@ -1,6 +1,12 @@
 {
     "news_items": [
         {
+            "id": "1380291",
+            "title": "Tom Clancy's Jack Ryan: Ghost War",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
+        },
+        {
             "id": "1304313",
             "title": "Lee Cronin's The Mummy",
             "year": "2026",
@@ -17,12 +23,6 @@
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-        },
-        {
-            "id": "1380291",
-            "title": "Tom Clancy's Jack Ryan: Ghost War",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
         },
         {
             "id": "1339713",
@@ -43,10 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
-            "id": "1242332",
-            "title": "Normal",
+            "id": "1228710",
+            "title": "Star Wars: The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
         },
         {
             "id": "936075",
@@ -55,10 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg"
         },
         {
-            "id": "1228710",
-            "title": "Star Wars: The Mandalorian and Grogu",
+            "id": "1242332",
+            "title": "Normal",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg"
         },
         {
             "id": "1102883",
@@ -67,16 +67,16 @@
             "img": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
             "id": "1314481",
             "title": "The Devil Wears Prada 2",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
         },
         {
             "id": "1007757",
@@ -91,28 +91,28 @@
             "img": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg"
         },
         {
-            "id": "1327819",
-            "title": "Hoppers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
-        },
-        {
             "id": "1368314",
             "title": "Passenger",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
         },
         {
-            "id": "1318447",
-            "title": "Apex",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-        },
-        {
             "id": "1330021",
             "title": "Remarkably Bright Creatures",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
+        },
+        {
+            "id": "1122573",
+            "title": "In the Grey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1083381",
