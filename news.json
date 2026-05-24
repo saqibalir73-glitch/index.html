@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg"
-        },
-        {
             "id": "1380291",
             "title": "Tom Clancy's Jack Ryan: Ghost War",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
+        },
+        {
+            "id": "1304313",
+            "title": "Lee Cronin's The Mummy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg"
         },
         {
             "id": "1339713",
@@ -37,6 +37,12 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
+            "id": "1228710",
+            "title": "Star Wars: The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+        },
+        {
             "id": "1242332",
             "title": "Normal",
             "year": "2026",
@@ -49,22 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
         },
         {
-            "id": "1228710",
-            "title": "Star Wars: The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
-        },
-        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
-        },
-        {
-            "id": "1102883",
-            "title": "Mother Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg"
         },
         {
             "id": "1368881",
@@ -73,16 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
         },
         {
-            "id": "1318447",
-            "title": "Apex",
+            "id": "1102883",
+            "title": "Mother Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg"
-        },
-        {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg"
         },
         {
             "id": "83533",
@@ -103,12 +91,6 @@
             "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
         },
         {
-            "id": "1140521",
-            "title": "The Magic Faraway Tree",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg"
-        },
-        {
             "id": "1083381",
             "title": "Backrooms",
             "year": "2026",
@@ -119,6 +101,24 @@
             "title": "Hoppers",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+        },
+        {
+            "id": "1325734",
+            "title": "The Drama",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg"
+        },
+        {
+            "id": "454639",
+            "title": "Masters of the Universe",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg"
+        },
+        {
+            "id": "1301421",
+            "title": "The Sheep Detectives",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/9IL11HEZSwQOr2wVlF9gFQ1V8Ul.jpg"
         }
     ]
 }
