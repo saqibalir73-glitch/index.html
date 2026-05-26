@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
-        },
-        {
             "id": "1380291",
             "title": "Tom Clancy's Jack Ryan: Ghost War",
             "year": "2026",
@@ -19,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
         },
         {
             "id": "1226863",
@@ -31,10 +25,28 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+        },
+        {
             "id": "931285",
             "title": "Mortal Kombat II",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/io7wVbm9VKaanIcuAymCDy9dmjU.jpg"
+        },
+        {
+            "id": "1390300",
+            "title": "Over Your Dead Body",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg"
+        },
+        {
+            "id": "1368881",
+            "title": "Ladies First",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
         },
         {
             "id": "1228710",
@@ -49,16 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg"
         },
         {
-            "id": "1368881",
-            "title": "Ladies First",
+            "id": "936075",
+            "title": "Michael",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
-        },
-        {
-            "id": "1439930",
-            "title": "The Punisher: One Last Kill",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
         },
         {
             "id": "1083381",
@@ -67,10 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg"
         },
         {
-            "id": "936075",
-            "title": "Michael",
+            "id": "1439930",
+            "title": "The Punisher: One Last Kill",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
         },
         {
             "id": "1102883",
@@ -79,22 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-        },
-        {
             "id": "83533",
             "title": "Avatar: Fire and Ash",
             "year": "2025",
             "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
-        },
-        {
-            "id": "1325734",
-            "title": "The Drama",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/89Dw1ujPlIPRLddhzNuJM4F401D.jpg"
         },
         {
             "id": "1368314",
@@ -103,10 +97,10 @@
             "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
             "id": "454639",
@@ -119,6 +113,12 @@
             "title": "Colony",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
         }
     ]
 }
