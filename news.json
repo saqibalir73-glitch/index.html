@@ -13,16 +13,22 @@
             "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
         },
         {
+            "id": "1304313",
+            "title": "Lee Cronin's The Mummy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg"
+        },
+        {
+            "id": "931285",
+            "title": "Mortal Kombat II",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+        },
+        {
             "id": "1083381",
             "title": "Backrooms",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg"
-        },
-        {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
         },
         {
             "id": "1226863",
@@ -37,16 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg"
-        },
-        {
-            "id": "931285",
-            "title": "Mortal Kombat II",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
         },
         {
             "id": "1368881",
@@ -55,22 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
         },
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg"
-        },
-        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
-        },
-        {
-            "id": "1390300",
-            "title": "Over Your Dead Body",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg"
         },
         {
             "id": "1242332",
@@ -79,22 +67,34 @@
             "img": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg"
         },
         {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+        },
+        {
             "id": "1439930",
             "title": "The Punisher: One Last Kill",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
         },
         {
-            "id": "539745",
-            "title": "Animal Farm",
+            "id": "454639",
+            "title": "Masters of the Universe",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg"
         },
         {
-            "id": "1242265",
-            "title": "Fuze",
+            "id": "1375646",
+            "title": "Colony",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg"
         },
         {
             "id": "1273221",
@@ -103,16 +103,16 @@
             "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
         },
         {
+            "id": "1390300",
+            "title": "Over Your Dead Body",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg"
+        },
+        {
             "id": "1275779",
             "title": "Disclosure Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/aMt9tWMgtsRBfCh0b46MzbRn3ya.jpg"
-        },
-        {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
         },
         {
             "id": "1102883",
