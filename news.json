@@ -13,34 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
         },
         {
-            "id": "1380291",
-            "title": "Tom Clancy's Jack Ryan: Ghost War",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
-        },
-        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-        },
-        {
-            "id": "1368881",
-            "title": "Ladies First",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg"
-        },
-        {
-            "id": "931285",
-            "title": "Mortal Kombat II",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
             "id": "1226863",
@@ -49,28 +25,34 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1390300",
-            "title": "Over Your Dead Body",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg"
-        },
-        {
             "id": "1228710",
             "title": "The Mandalorian and Grogu",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
         },
         {
+            "id": "1390300",
+            "title": "Over Your Dead Body",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg"
+        },
+        {
+            "id": "931285",
+            "title": "Mortal Kombat II",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+        },
+        {
+            "id": "1380291",
+            "title": "Tom Clancy's Jack Ryan: Ghost War",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
+        },
+        {
             "id": "1304313",
             "title": "Lee Cronin's The Mummy",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg"
-        },
-        {
-            "id": "936075",
-            "title": "Michael",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
         },
         {
             "id": "1116201",
@@ -85,16 +67,40 @@
             "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
         },
         {
+            "id": "1242265",
+            "title": "Fuze",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg"
+        },
+        {
+            "id": "1368881",
+            "title": "Ladies First",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg"
+        },
+        {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+        },
+        {
             "id": "1275779",
             "title": "Disclosure Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
         },
         {
-            "id": "1242265",
-            "title": "Fuze",
+            "id": "539745",
+            "title": "Animal Farm",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg"
         },
         {
             "id": "454639",
@@ -103,16 +109,10 @@
             "img": "https://image.tmdb.org/t/p/w500/y4xNd1eWv1ea5qoPO6JmLvzHZf0.jpg"
         },
         {
-            "id": "1439930",
-            "title": "The Punisher: One Last Kill",
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
-        },
-        {
-            "id": "539745",
-            "title": "Animal Farm",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
         },
         {
             "id": "1325734",
