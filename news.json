@@ -13,28 +13,22 @@
             "img": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
         },
         {
-            "id": "1430077",
-            "title": "Hokum",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ol0KYKBXNpfupxAUmJi4kQKkzKp.jpg"
-        },
-        {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
-        },
-        {
             "id": "1122573",
             "title": "In the Grey",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
         },
         {
-            "id": "1116201",
-            "title": "Iron Lung",
+            "id": "1430077",
+            "title": "Hokum",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg"
         },
         {
             "id": "1084244",
@@ -49,6 +43,18 @@
             "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
         },
         {
+            "id": "1116201",
+            "title": "Iron Lung",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+        },
+        {
+            "id": "1275779",
+            "title": "Disclosure Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
+        },
+        {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
@@ -59,18 +65,6 @@
             "title": "The Mandalorian and Grogu",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
-        },
-        {
-            "id": "1275779",
-            "title": "Disclosure Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
-        },
-        {
-            "id": "1390300",
-            "title": "Over Your Dead Body",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg"
         },
         {
             "id": "1226863",
@@ -97,16 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
-            "id": "83533",
-            "title": "Avatar: Fire and Ash",
-            "year": "2025",
-            "img": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg"
+            "id": "1390300",
+            "title": "Over Your Dead Body",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg"
         },
         {
-            "id": "1325734",
-            "title": "The Drama",
+            "id": "1327819",
+            "title": "Hoppers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/89Dw1ujPlIPRLddhzNuJM4F401D.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
             "id": "1304313",
@@ -115,10 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
         },
         {
-            "id": "1662414",
-            "title": "Propeller One-Way Night Coach",
+            "id": "1380316",
+            "title": "Is God Is",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/joal4OSVC4T1yFb3kph91tkNNFf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg"
+        },
+        {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
         }
     ]
 }
