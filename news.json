@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1083381",
-            "title": "Backrooms",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-        },
-        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
+        },
+        {
+            "id": "1083381",
+            "title": "Backrooms",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
             "id": "1273221",
@@ -25,22 +25,22 @@
             "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
         },
         {
-            "id": "1122573",
-            "title": "In the Grey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
-        },
-        {
             "id": "454639",
             "title": "Masters of the Universe",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
         },
         {
+            "id": "1122573",
+            "title": "In the Grey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
+        },
+        {
             "id": "1358005",
             "title": "Office Romance",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/f7CbyRbdqzriEfkXAq7kIwphL8O.jpg"
         },
         {
             "id": "1327819",
@@ -55,6 +55,12 @@
             "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
         },
         {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+        },
+        {
             "id": "1275779",
             "title": "Disclosure Day",
             "year": "2026",
@@ -67,10 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "1274706",
+            "title": "The Marked Woman",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
         },
         {
             "id": "936075",
@@ -79,10 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "931285",
@@ -91,16 +97,10 @@
             "img": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
-            "id": "1274706",
-            "title": "The Marked Woman",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
         },
         {
             "id": "1380316",
@@ -109,16 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg"
         },
         {
-            "id": "1242265",
-            "title": "Fuze",
+            "id": "1530510",
+            "title": "Mexico 86",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg"
         },
         {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
+            "id": "1368337",
+            "title": "The Odyssey",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/77d9DQN93yw900o80o5utkfDf0U.jpg"
         }
     ]
 }
