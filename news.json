@@ -7,10 +7,10 @@
             "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
-            "id": "1275779",
-            "title": "Disclosure Day",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "931285",
@@ -19,10 +19,10 @@
             "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
         },
         {
-            "id": "1339713",
-            "title": "Obsession",
+            "id": "1275779",
+            "title": "Disclosure Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
         },
         {
             "id": "1083381",
@@ -43,12 +43,6 @@
             "img": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
         },
         {
-            "id": "1390300",
-            "title": "Over Your Dead Body",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/b0mJReRxiPv8NwnFDayp3VVJKc2.jpg"
-        },
-        {
             "id": "454639",
             "title": "Masters of the Universe",
             "year": "2026",
@@ -61,16 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
         },
         {
-            "id": "1122573",
-            "title": "In the Grey",
+            "id": "1390300",
+            "title": "Over Your Dead Body",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
-        },
-        {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9C9PAnrZcB8x7YHNlBs4PUv0Z7K.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/b0mJReRxiPv8NwnFDayp3VVJKc2.jpg"
         },
         {
             "id": "687163",
@@ -79,22 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
+            "id": "1122573",
+            "title": "In the Grey",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
-        },
-        {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
-            "id": "1280738",
-            "title": "The Furious",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
         },
         {
             "id": "1430077",
@@ -109,16 +85,40 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "1288341",
-            "title": "Seven Snipers",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+        },
+        {
+            "id": "1560681",
+            "title": "Colors of Evil: Black",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg"
         },
         {
             "id": "1274706",
             "title": "The Marked Woman",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
+        },
+        {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zp1nJcLxWDhDEQu5iZi4TAnRaSc.jpg"
+        },
+        {
+            "id": "83533",
+            "title": "Avatar: Fire and Ash",
+            "year": "2025",
+            "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+        },
+        {
+            "id": "1288341",
+            "title": "Seven Snipers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg"
         }
     ]
 }
