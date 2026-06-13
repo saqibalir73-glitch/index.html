@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "936075",
-            "title": "Michael",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
-        },
-        {
             "id": "1275779",
             "title": "Disclosure Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
+        },
+        {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
             "id": "1339713",
@@ -43,16 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
         },
         {
-            "id": "1358005",
-            "title": "Office Romance",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
-        },
-        {
             "id": "454639",
             "title": "Masters of the Universe",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+        },
+        {
+            "id": "1358005",
+            "title": "Office Romance",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
         },
         {
             "id": "1390300",
@@ -71,12 +71,6 @@
             "title": "The Super Mario Galaxy Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
-            "id": "1288341",
-            "title": "Seven Snipers",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg"
         },
         {
             "id": "1122573",
@@ -113,6 +107,12 @@
             "title": "The Marked Woman",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
+        },
+        {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg"
         },
         {
             "id": "1700944",
