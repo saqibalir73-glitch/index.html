@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "936075",
-            "title": "Michael",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
-        },
-        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
             "id": "1275779",
@@ -61,6 +61,12 @@
             "img": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg"
         },
         {
+            "id": "1122573",
+            "title": "In the Grey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
+        },
+        {
             "id": "1226863",
             "title": "The Super Mario Galaxy Movie",
             "year": "2026",
@@ -73,10 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1122573",
-            "title": "In the Grey",
+            "id": "1280738",
+            "title": "The Furious",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         },
         {
             "id": "1560681",
@@ -91,34 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg"
         },
         {
-            "id": "1430077",
-            "title": "Hokum",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
-        },
-        {
             "id": "1327819",
             "title": "Hoppers",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "1280738",
-            "title": "The Furious",
+            "id": "1430077",
+            "title": "Hokum",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+        },
+        {
+            "id": "1274706",
+            "title": "The Marked Woman",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
         },
         {
             "id": "1159559",
             "title": "Scream 7",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
-        },
-        {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9C9PAnrZcB8x7YHNlBs4PUv0Z7K.jpg"
         }
     ]
 }
