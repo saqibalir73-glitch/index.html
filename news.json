@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-        },
-        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
@@ -19,16 +13,22 @@
             "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
         },
         {
-            "id": "1083381",
-            "title": "Backrooms",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "931285",
             "title": "Mortal Kombat II",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
+        },
+        {
+            "id": "1083381",
+            "title": "Backrooms",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
             "id": "1273221",
@@ -43,16 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
         },
         {
-            "id": "454639",
-            "title": "Masters of the Universe",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
-        },
-        {
             "id": "1358005",
             "title": "Office Romance",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
+        },
+        {
+            "id": "454639",
+            "title": "Masters of the Universe",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
         },
         {
             "id": "1390300",
@@ -61,10 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg"
         },
         {
-            "id": "1122573",
-            "title": "In the Grey",
+            "id": "687163",
+            "title": "Project Hail Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "1226863",
@@ -73,16 +73,16 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "1288341",
+            "title": "Seven Snipers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg"
         },
         {
-            "id": "1280738",
-            "title": "The Furious",
+            "id": "1122573",
+            "title": "In the Grey",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
         },
         {
             "id": "1560681",
@@ -91,16 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg"
         },
         {
-            "id": "1700944",
-            "title": "Love, Ngo",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg"
-        },
-        {
             "id": "1327819",
             "title": "Hoppers",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+        },
+        {
+            "id": "1280738",
+            "title": "The Furious",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         },
         {
             "id": "1430077",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
         },
         {
-            "id": "1159559",
-            "title": "Scream 7",
+            "id": "1700944",
+            "title": "Love, Ngo",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg"
         }
     ]
 }
