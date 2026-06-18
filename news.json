@@ -1,16 +1,10 @@
 {
     "news_items": [
         {
-            "id": "1275779",
-            "title": "Disclosure Day",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
-        },
-        {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
         },
         {
             "id": "1339713",
@@ -19,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
+            "id": "1275779",
+            "title": "Disclosure Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
         },
         {
             "id": "1083381",
@@ -37,6 +31,12 @@
             "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
+        },
+        {
             "id": "1477317",
             "title": "Your Fault: London",
             "year": "2026",
@@ -49,22 +49,16 @@
             "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
         },
         {
-            "id": "1318413",
-            "title": "Pressure",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
-        },
-        {
             "id": "1273221",
             "title": "Scary Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg"
         },
         {
-            "id": "454639",
-            "title": "Masters of the Universe",
+            "id": "1318413",
+            "title": "Pressure",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
         },
         {
             "id": "1280738",
@@ -73,16 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "1560681",
+            "title": "Colors of Evil: Black",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-        },
-        {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pe5cCoX5iIb5IWKPsbPkCwjLFHt.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg"
         },
         {
             "id": "1390300",
@@ -91,10 +79,16 @@
             "img": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg"
         },
         {
-            "id": "1127384",
-            "title": "Deep Water",
+            "id": "454639",
+            "title": "Masters of the Universe",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "1226863",
@@ -103,10 +97,16 @@
             "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
-            "id": "1560681",
-            "title": "Colors of Evil: Black",
+            "id": "1127384",
+            "title": "Deep Water",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ySc7DcmVWzdAOwCrIo3RdRdepLN.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pe5cCoX5iIb5IWKPsbPkCwjLFHt.jpg"
         },
         {
             "id": "1327819",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
         },
         {
-            "id": "1108427",
-            "title": "Moana",
+            "id": "1305781",
+            "title": "Blades of the Guardians",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg"
         }
     ]
 }
