@@ -25,22 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
         },
         {
-            "id": "1318413",
-            "title": "Pressure",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
-        },
-        {
             "id": "936075",
             "title": "Michael",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
-            "id": "1280738",
-            "title": "The Furious",
+            "id": "1318413",
+            "title": "Pressure",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
         },
         {
             "id": "1477317",
@@ -55,12 +49,6 @@
             "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
-        },
-        {
             "id": "931285",
             "title": "Mortal Kombat II",
             "year": "2026",
@@ -73,10 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg"
         },
         {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
+            "id": "614945",
+            "title": "Voicemails for Isabelle",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg"
         },
         {
             "id": "1127384",
@@ -85,40 +73,52 @@
             "img": "https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg"
         },
         {
-            "id": "1305781",
-            "title": "Blades of the Guardians",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg"
-        },
-        {
-            "id": "1480387",
-            "title": "undertone",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg"
-        },
-        {
             "id": "1273221",
             "title": "Scary Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg"
         },
         {
-            "id": "1315772",
-            "title": "Minions & Monsters",
+            "id": "1226863",
+            "title": "The Super Mario Galaxy Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
-        },
-        {
-            "id": "614945",
-            "title": "Voicemails for Isabelle",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
         },
         {
             "id": "687163",
             "title": "Project Hail Mary",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+        },
+        {
+            "id": "454639",
+            "title": "Masters of the Universe",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+        },
+        {
+            "id": "1280738",
+            "title": "The Furious",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+        },
+        {
+            "id": "1327819",
+            "title": "Hoppers",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+        },
+        {
+            "id": "1430077",
+            "title": "Hokum",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg"
         }
     ]
 }
