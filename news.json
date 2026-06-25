@@ -1,10 +1,10 @@
 {
     "news_items": [
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
+            "id": "1301421",
+            "title": "The Sheep Detectives",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
         },
         {
             "id": "1339713",
@@ -13,10 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1301421",
-            "title": "The Sheep Detectives",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg"
         },
         {
             "id": "1083381",
@@ -25,52 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1340206",
-            "title": "Tuner",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
-        },
-        {
-            "id": "614945",
-            "title": "Voicemails for Isabelle",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg"
-        },
-        {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
-        },
-        {
-            "id": "1275779",
-            "title": "Disclosure Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
-        },
-        {
-            "id": "936075",
-            "title": "Michael",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
-        },
-        {
             "id": "1315772",
             "title": "Minions & Monsters",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
-        },
-        {
-            "id": "1451344",
-            "title": "Husbands in Action",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg"
-        },
-        {
-            "id": "454639",
-            "title": "Masters of the Universe",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
         },
         {
             "id": "1081003",
@@ -79,22 +37,16 @@
             "img": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
         },
         {
-            "id": "1318413",
-            "title": "Pressure",
+            "id": "1340206",
+            "title": "Tuner",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
-        },
-        {
-            "id": "1477317",
-            "title": "Your Fault: London",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
         },
         {
             "id": "1413976",
@@ -103,10 +55,52 @@
             "img": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg"
         },
         {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
+            "id": "454639",
+            "title": "Masters of the Universe",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg"
+        },
+        {
+            "id": "1275779",
+            "title": "Disclosure Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg"
+        },
+        {
+            "id": "614945",
+            "title": "Voicemails for Isabelle",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg"
+        },
+        {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
+        },
+        {
+            "id": "1451344",
+            "title": "Husbands in Action",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg"
+        },
+        {
+            "id": "1318413",
+            "title": "Pressure",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg"
         },
         {
             "id": "687163",
@@ -115,10 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1284016",
-            "title": "Power Ballad",
+            "id": "980431",
+            "title": "Avatar Aang: The Last Airbender",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
+        },
+        {
+            "id": "1477317",
+            "title": "Your Fault: London",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg"
         }
     ]
 }
