@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
-        },
-        {
             "id": "1301421",
             "title": "The Sheep Detectives",
             "year": "2026",
@@ -17,6 +11,12 @@
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg"
         },
         {
             "id": "1083381",
@@ -49,16 +49,16 @@
             "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg"
-        },
-        {
             "id": "1340206",
             "title": "Tuner",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg"
         },
         {
             "id": "1275779",
@@ -79,28 +79,16 @@
             "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
         },
         {
-            "id": "614945",
-            "title": "Voicemails for Isabelle",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg"
-        },
-        {
             "id": "931285",
             "title": "Mortal Kombat II",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
         },
         {
-            "id": "1451344",
-            "title": "Husbands in Action",
+            "id": "614945",
+            "title": "Voicemails for Isabelle",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg"
-        },
-        {
-            "id": "1284016",
-            "title": "Power Ballad",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg"
         },
         {
             "id": "83533",
@@ -109,16 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
         },
         {
-            "id": "1318413",
-            "title": "Pressure",
+            "id": "1397385",
+            "title": "Little Brother",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg"
         },
         {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
+            "id": "1368337",
+            "title": "The Odyssey",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg"
+        },
+        {
+            "id": "1451344",
+            "title": "Husbands in Action",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         }
     ]
 }
