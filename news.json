@@ -13,6 +13,12 @@
             "img": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg"
         },
         {
+            "id": "1315772",
+            "title": "Minions & Monsters",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+        },
+        {
             "id": "1314481",
             "title": "The Devil Wears Prada 2",
             "year": "2026",
@@ -31,28 +37,16 @@
             "img": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
         },
         {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
-        },
-        {
-            "id": "1315772",
-            "title": "Minions & Monsters",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
-        },
-        {
             "id": "1301421",
             "title": "The Sheep Detectives",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg"
         },
         {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
         },
         {
             "id": "1083381",
@@ -67,16 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
+            "id": "687163",
+            "title": "Project Hail Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
-            "id": "936075",
-            "title": "Michael",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "1108427",
@@ -85,10 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
+            "id": "1368337",
+            "title": "The Odyssey",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
             "id": "1397385",
@@ -97,10 +85,10 @@
             "img": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "936075",
+            "title": "Michael",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
             "id": "1226863",
@@ -113,6 +101,18 @@
             "title": "Masters of the Universe",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+        },
+        {
+            "id": "1122573",
+            "title": "In the Grey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg"
+        },
+        {
+            "id": "1340206",
+            "title": "Tuner",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
         },
         {
             "id": "1212763",
