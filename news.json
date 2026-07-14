@@ -1,28 +1,28 @@
 {
     "news_items": [
         {
-            "id": "1083381",
-            "title": "Backrooms",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-        },
-        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1108427",
-            "title": "Moana",
+            "id": "1083381",
+            "title": "Backrooms",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
             "id": "1280738",
             "title": "The Furious",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+        },
+        {
+            "id": "1108427",
+            "title": "Moana",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
             "id": "1368337",
@@ -55,16 +55,22 @@
             "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
         },
         {
+            "id": "1202033",
+            "title": "Enola Holmes 3",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg"
+        },
+        {
             "id": "1315772",
             "title": "Minions & Monsters",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg"
         },
         {
-            "id": "1440050",
-            "title": "The Breadwinner",
+            "id": "1273221",
+            "title": "Scary Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg"
         },
         {
             "id": "687163",
@@ -73,10 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
+            "id": "1710008",
+            "title": "Nothing to Lose",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg"
         },
         {
             "id": "936075",
@@ -85,22 +91,10 @@
             "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
-            "id": "1202033",
-            "title": "Enola Holmes 3",
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg"
-        },
-        {
-            "id": "1710008",
-            "title": "Nothing to Lose",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg"
-        },
-        {
-            "id": "950028",
-            "title": "The Invite",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
         },
         {
             "id": "1301421",
@@ -109,16 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg"
         },
         {
-            "id": "1248832",
-            "title": "Digger",
+            "id": "950028",
+            "title": "The Invite",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
         },
         {
             "id": "1484913",
             "title": "Ikka",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg"
+        },
+        {
+            "id": "1304313",
+            "title": "Lee Cronin's The Mummy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
         }
     ]
 }
