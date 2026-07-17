@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1083381",
-            "title": "Backrooms",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-        },
-        {
             "id": "1368337",
             "title": "The Odyssey",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+        },
+        {
+            "id": "1083381",
+            "title": "Backrooms",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
             "id": "1339713",
@@ -49,12 +49,6 @@
             "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
-            "id": "1368314",
-            "title": "Passenger",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
-        },
-        {
             "id": "1315772",
             "title": "Minions & Monsters",
             "year": "2026",
@@ -67,22 +61,22 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
+            "id": "1440050",
+            "title": "The Breadwinner",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
+        },
+        {
             "id": "1058424",
             "title": "Hope",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
         },
         {
-            "id": "950028",
-            "title": "The Invite",
+            "id": "1368314",
+            "title": "Passenger",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
-        },
-        {
-            "id": "1440050",
-            "title": "The Breadwinner",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
         },
         {
             "id": "936075",
@@ -91,22 +85,16 @@
             "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
-            "id": "1484913",
-            "title": "Ikka",
+            "id": "1242332",
+            "title": "Normal",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/38n0tIc9c1cn5C3IMhjnIFJtwfz.jpg"
         },
         {
-            "id": "1301421",
-            "title": "The Sheep Detectives",
+            "id": "950028",
+            "title": "The Invite",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg"
-        },
-        {
-            "id": "1318621",
-            "title": "Descendants: Wicked Wonderland",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
         },
         {
             "id": "1202033",
@@ -115,10 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg"
         },
         {
-            "id": "1226863",
-            "title": "The Super Mario Galaxy Movie",
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
+        },
+        {
+            "id": "1484913",
+            "title": "Ikka",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg"
+        },
+        {
+            "id": "1318621",
+            "title": "Descendants: Wicked Wonderland",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg"
         }
     ]
 }
