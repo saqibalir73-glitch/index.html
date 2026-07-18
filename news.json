@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
             "id": "1083381",
             "title": "Backrooms",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
             "id": "1339713",
@@ -19,16 +19,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1318621",
-            "title": "Descendants: Wicked Wonderland",
+            "id": "1108427",
+            "title": "Moana",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg"
-        },
-        {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
             "id": "1280738",
@@ -37,16 +31,22 @@
             "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         },
         {
-            "id": "1108427",
-            "title": "Moana",
+            "id": "1212763",
+            "title": "Evil Dead Burn",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
         },
         {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
+        },
+        {
+            "id": "1318621",
+            "title": "Descendants: Wicked Wonderland",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg"
         },
         {
             "id": "1084244",
@@ -73,16 +73,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1468683",
-            "title": "Heartstopper Forever",
+            "id": "1058424",
+            "title": "Hope",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
-        },
-        {
-            "id": "1301421",
-            "title": "The Sheep Detectives",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
         },
         {
             "id": "936075",
@@ -91,34 +85,40 @@
             "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         },
         {
-            "id": "1368314",
-            "title": "Passenger",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
-        },
-        {
-            "id": "1656220",
-            "title": "23 000 Lives",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg"
-        },
-        {
             "id": "1242332",
             "title": "Normal",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg"
         },
         {
-            "id": "950028",
-            "title": "The Invite",
+            "id": "1368314",
+            "title": "Passenger",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
         },
         {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
+            "id": "1468683",
+            "title": "Heartstopper Forever",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
+        },
+        {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg"
+        },
+        {
+            "id": "1616674",
+            "title": "Me Before Me",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/oFMbldhgyFsaMK3tiycccFyKksQ.jpg"
         }
     ]
 }
