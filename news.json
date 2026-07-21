@@ -1,6 +1,12 @@
 {
     "news_items": [
         {
+            "id": "1275779",
+            "title": "Disclosure Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fb4jlgX1q4sdv33t3dYlop5EGiT.jpg"
+        },
+        {
             "id": "1368337",
             "title": "The Odyssey",
             "year": "2026",
@@ -19,16 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1275779",
-            "title": "Disclosure Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg"
-        },
-        {
             "id": "1273221",
             "title": "Scary Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
         },
         {
             "id": "969681",
@@ -37,10 +37,10 @@
             "img": "https://image.tmdb.org/t/p/w500/kjNlN0gFNHRLUAfOs3AeNynUFKQ.jpg"
         },
         {
-            "id": "1318621",
-            "title": "Descendants: Wicked Wonderland",
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/v8YL38gaYWGEq7w50y1mfiaskmZ.jpg"
         },
         {
             "id": "1108427",
@@ -49,46 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
+            "id": "1318621",
+            "title": "Descendants: Wicked Wonderland",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
-        },
-        {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg"
-        },
-        {
-            "id": "454639",
-            "title": "Masters of the Universe",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
-        },
-        {
-            "id": "1280738",
-            "title": "The Furious",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
-        },
-        {
-            "id": "1468683",
-            "title": "Heartstopper Forever",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
-            "id": "1440050",
-            "title": "The Breadwinner",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
         },
         {
             "id": "1003596",
@@ -97,16 +61,28 @@
             "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
         },
         {
-            "id": "1081003",
-            "title": "Supergirl",
+            "id": "1284465",
+            "title": "The Death of Robin Hood",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
         },
         {
-            "id": "1656220",
-            "title": "23 000 Lives",
+            "id": "1280738",
+            "title": "The Furious",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
+            "id": "1468683",
+            "title": "Heartstopper Forever",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
         },
         {
             "id": "687163",
@@ -115,10 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1058424",
-            "title": "Hope",
+            "id": "1212763",
+            "title": "Evil Dead Burn",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+        },
+        {
+            "id": "1315772",
+            "title": "Minions & Monsters",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+        },
+        {
+            "id": "931285",
+            "title": "Mortal Kombat II",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
+        },
+        {
+            "id": "1440050",
+            "title": "The Breadwinner",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
+        },
+        {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
         }
     ]
 }
