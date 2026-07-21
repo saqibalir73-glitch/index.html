@@ -1,6 +1,12 @@
 {
     "news_items": [
         {
+            "id": "1275779",
+            "title": "Disclosure Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg"
+        },
+        {
             "id": "1368337",
             "title": "The Odyssey",
             "year": "2026",
@@ -13,28 +19,16 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-        },
-        {
             "id": "1273221",
             "title": "Scary Movie",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg"
         },
         {
-            "id": "1275779",
-            "title": "Disclosure Day",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg"
-        },
-        {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/x19dchU8e38vQfW4epzOsQNLuZ2.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "1228710",
@@ -43,16 +37,34 @@
             "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
         },
         {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kjNlN0gFNHRLUAfOs3AeNynUFKQ.jpg"
+        },
+        {
             "id": "1318621",
             "title": "Descendants: Wicked Wonderland",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
         },
         {
+            "id": "1284465",
+            "title": "The Death of Robin Hood",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
+        },
+        {
             "id": "1108427",
             "title": "Moana",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+        },
+        {
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
         },
         {
             "id": "1280738",
@@ -67,16 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
         },
         {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
-        },
-        {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
             "id": "1440050",
@@ -85,22 +91,10 @@
             "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
         },
         {
-            "id": "1315772",
-            "title": "Minions & Monsters",
+            "id": "1212763",
+            "title": "Evil Dead Burn",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
-            "id": "1058424",
-            "title": "Hope",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
         },
         {
             "id": "1656220",
@@ -109,16 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
+            "id": "1315772",
+            "title": "Minions & Monsters",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "931285",
+            "title": "Mortal Kombat II",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
+        },
+        {
+            "id": "1058424",
+            "title": "Hope",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
         }
     ]
 }
