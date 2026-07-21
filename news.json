@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1275779",
-            "title": "Disclosure Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg"
-        },
-        {
             "id": "1368337",
             "title": "The Odyssey",
             "year": "2026",
@@ -19,22 +13,22 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg"
-        },
-        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
+            "id": "1275779",
+            "title": "Disclosure Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg"
         },
         {
             "id": "969681",
@@ -49,22 +43,28 @@
             "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
         },
         {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
-        },
-        {
             "id": "1108427",
             "title": "Moana",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
+            "id": "1212763",
+            "title": "Evil Dead Burn",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+        },
+        {
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg"
+        },
+        {
+            "id": "454639",
+            "title": "Masters of the Universe",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
         },
         {
             "id": "1280738",
@@ -91,10 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
+        },
+        {
+            "id": "1081003",
+            "title": "Supergirl",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
         },
         {
             "id": "1656220",
@@ -103,16 +109,10 @@
             "img": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg"
         },
         {
-            "id": "1315772",
-            "title": "Minions & Monsters",
+            "id": "687163",
+            "title": "Project Hail Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
-        },
-        {
-            "id": "931285",
-            "title": "Mortal Kombat II",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "1058424",
