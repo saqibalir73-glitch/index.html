@@ -19,10 +19,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1339713",
-            "title": "Obsession",
+            "id": "454639",
+            "title": "Masters of the Universe",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
         },
         {
             "id": "1273221",
@@ -31,10 +31,10 @@
             "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "969681",
@@ -43,34 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg"
         },
         {
-            "id": "1280738",
-            "title": "The Furious",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
-        },
-        {
             "id": "1228710",
             "title": "The Mandalorian and Grogu",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
-        },
-        {
-            "id": "1318621",
-            "title": "Descendants: Wicked Wonderland",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
-        },
-        {
-            "id": "454639",
-            "title": "Masters of the Universe",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
-        },
-        {
-            "id": "1108427",
-            "title": "Moana",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
             "id": "1003596",
@@ -79,22 +55,22 @@
             "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
         },
         {
-            "id": "1081003",
-            "title": "Supergirl",
+            "id": "1318621",
+            "title": "Descendants: Wicked Wonderland",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
         },
         {
-            "id": "1058424",
-            "title": "Hope",
+            "id": "1108427",
+            "title": "Moana",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
-            "id": "1440050",
-            "title": "The Breadwinner",
+            "id": "1280738",
+            "title": "The Furious",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         },
         {
             "id": "1468683",
@@ -103,22 +79,46 @@
             "img": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
         },
         {
-            "id": "1304313",
-            "title": "Lee Cronin's The Mummy",
+            "id": "687163",
+            "title": "Project Hail Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
-        },
-        {
-            "id": "1202033",
-            "title": "Enola Holmes 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "1084244",
             "title": "Toy Story 5",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
+            "id": "1315772",
+            "title": "Minions & Monsters",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+        },
+        {
+            "id": "1487861",
+            "title": "Elize: Shadows of a Woman",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mptwpuG6wTeLSu3Yhgy3WF9Q41e.jpg"
+        },
+        {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+        },
+        {
+            "id": "1656220",
+            "title": "23 000 Lives",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg"
+        },
+        {
+            "id": "1668364",
+            "title": "Desire",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg"
         }
     ]
 }
