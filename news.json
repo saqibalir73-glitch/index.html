@@ -7,18 +7,6 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "454639",
-            "title": "Masters of the Universe",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
-        },
-        {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
-        },
-        {
             "id": "1275779",
             "title": "Disclosure Day",
             "year": "2026",
@@ -31,16 +19,34 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
+            "id": "1339713",
+            "title": "Obsession",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
+        },
+        {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+        },
+        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg"
         },
         {
-            "id": "1339713",
-            "title": "Obsession",
+            "id": "1280738",
+            "title": "The Furious",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         },
         {
             "id": "1228710",
@@ -55,6 +61,12 @@
             "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
         },
         {
+            "id": "454639",
+            "title": "Masters of the Universe",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
+        },
+        {
             "id": "1108427",
             "title": "Moana",
             "year": "2026",
@@ -67,40 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
         },
         {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
+            "id": "1081003",
+            "title": "Supergirl",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
         },
         {
-            "id": "1280738",
-            "title": "The Furious",
+            "id": "1058424",
+            "title": "Hope",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
+            "id": "1440050",
+            "title": "The Breadwinner",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
-        },
-        {
-            "id": "1315772",
-            "title": "Minions & Monsters",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
-        },
-        {
-            "id": "1487861",
-            "title": "Elize: Shadows of a Woman",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/c2pDnZibWJhsLVXS4nfnVtkfYsD.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg"
         },
         {
             "id": "1468683",
@@ -109,16 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "1304313",
+            "title": "Lee Cronin's The Mummy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
         },
         {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
+            "id": "1202033",
+            "title": "Enola Holmes 3",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         }
     ]
 }
