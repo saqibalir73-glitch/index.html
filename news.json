@@ -25,22 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "454639",
-            "title": "Masters of the Universe",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
-        },
-        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-        },
-        {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
         },
         {
             "id": "969681",
@@ -49,22 +37,22 @@
             "img": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg"
         },
         {
+            "id": "454639",
+            "title": "Masters of the Universe",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
+        },
+        {
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
+        },
+        {
             "id": "1318621",
             "title": "Descendants: Wicked Wonderland",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
-            "id": "1108427",
-            "title": "Moana",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2B2XvBZFSOrGt7nptyNoBSFPhfb.jpg"
         },
         {
             "id": "1003596",
@@ -73,34 +61,16 @@
             "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
         },
         {
-            "id": "1468683",
-            "title": "Heartstopper Forever",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uKlc5Vrn9k7lnTx2XRcjOm1cgjz.jpg"
-        },
-        {
             "id": "1284465",
             "title": "The Death of Robin Hood",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
         },
         {
-            "id": "1280738",
-            "title": "The Furious",
+            "id": "1108427",
+            "title": "Moana",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
-        },
-        {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
-        },
-        {
-            "id": "687163",
-            "title": "Project Hail Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
         },
         {
             "id": "1315772",
@@ -109,16 +79,46 @@
             "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
         },
         {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
             "id": "1630409",
             "title": "The Debt Collector",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg"
         },
         {
+            "id": "1468683",
+            "title": "Heartstopper Forever",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uKlc5Vrn9k7lnTx2XRcjOm1cgjz.jpg"
+        },
+        {
+            "id": "1280738",
+            "title": "The Furious",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+        },
+        {
+            "id": "1368314",
+            "title": "Passenger",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg"
+        },
+        {
             "id": "1314481",
             "title": "The Devil Wears Prada 2",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
+        },
+        {
+            "id": "1656220",
+            "title": "23 000 Lives",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg"
         }
     ]
 }
