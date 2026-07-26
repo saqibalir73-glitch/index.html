@@ -13,22 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
-        },
-        {
             "id": "454639",
             "title": "Masters of the Universe",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
-        },
-        {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
         },
         {
             "id": "1339713",
@@ -37,10 +25,22 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
+            "id": "1273221",
+            "title": "Scary Movie",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
+        },
+        {
             "id": "1083381",
             "title": "Backrooms",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+        },
+        {
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
         },
         {
             "id": "969681",
@@ -55,12 +55,6 @@
             "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
         },
         {
-            "id": "1318621",
-            "title": "Descendants: Wicked Wonderland",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg"
-        },
-        {
             "id": "980431",
             "title": "Avatar Aang: The Last Airbender",
             "year": "2026",
@@ -71,12 +65,6 @@
             "title": "The Dink",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg"
-        },
-        {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
         },
         {
             "id": "1084244",
@@ -91,6 +79,18 @@
             "img": "https://image.tmdb.org/t/p/w500/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg"
         },
         {
+            "id": "1375646",
+            "title": "Colony",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
+        },
+        {
+            "id": "1284465",
+            "title": "The Death of Robin Hood",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
+        },
+        {
             "id": "1108427",
             "title": "Moana",
             "year": "2026",
@@ -103,22 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1468683",
-            "title": "Heartstopper Forever",
+            "id": "1659155",
+            "title": "The Truthers",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ch28kJu4pG2x07sN22valXvV3JY.jpg"
-        },
-        {
-            "id": "1375646",
-            "title": "Colony",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg"
         },
         {
             "id": "931285",
             "title": "Mortal Kombat II",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
+        },
+        {
+            "id": "949838",
+            "title": "72 HOURS",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg"
         }
     ]
 }
