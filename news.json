@@ -19,6 +19,12 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
+            "id": "1481343",
+            "title": "The Devil's Mouth",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg"
+        },
+        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
@@ -35,12 +41,6 @@
             "title": "Avatar Aang: The Last Airbender",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
-        },
-        {
-            "id": "1481343",
-            "title": "The Devil's Mouth",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg"
         },
         {
             "id": "1083381",
@@ -61,22 +61,16 @@
             "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
-        },
-        {
             "id": "949838",
             "title": "72 HOURS",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg"
         },
         {
-            "id": "1375646",
-            "title": "Colony",
+            "id": "1273221",
+            "title": "Scary Movie",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
         },
         {
             "id": "1361774",
@@ -85,10 +79,10 @@
             "img": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
+            "id": "1375646",
+            "title": "Colony",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
         },
         {
             "id": "1314481",
@@ -97,10 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg"
         },
         {
-            "id": "1564614",
-            "title": "Leviticus",
+            "id": "1307118",
+            "title": "Soulm8te",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "1311031",
@@ -109,10 +109,10 @@
             "img": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg"
         },
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
+            "id": "1564614",
+            "title": "Leviticus",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg"
         },
         {
             "id": "1003596",
