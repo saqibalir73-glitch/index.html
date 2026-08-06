@@ -16,7 +16,7 @@
             "id": "1212763",
             "title": "Evil Dead Burn",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/7JFVcU1uzv9zCfyMzLrsU04t8BU.jpg"
         },
         {
             "id": "1339713",
@@ -37,6 +37,12 @@
             "img": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg"
         },
         {
+            "id": "1307118",
+            "title": "Soulm8te",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg"
+        },
+        {
             "id": "1083381",
             "title": "Backrooms",
             "year": "2026",
@@ -49,16 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
-            "id": "1307118",
-            "title": "Soulm8te",
+            "id": "1564614",
+            "title": "Leviticus",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg"
-        },
-        {
-            "id": "980431",
-            "title": "Avatar Aang: The Last Airbender",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg"
         },
         {
             "id": "454639",
@@ -67,10 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
         },
         {
-            "id": "936075",
-            "title": "Michael",
+            "id": "980431",
+            "title": "Avatar Aang: The Last Airbender",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
         },
         {
             "id": "1084244",
@@ -85,10 +85,22 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
-            "id": "1564614",
-            "title": "Leviticus",
+            "id": "1284465",
+            "title": "The Death of Robin Hood",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg"
+        },
+        {
+            "id": "1108427",
+            "title": "Moana",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+        },
+        {
+            "id": "1314481",
+            "title": "The Devil Wears Prada 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
         },
         {
             "id": "1101383",
@@ -103,22 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
         },
         {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg"
-        },
-        {
-            "id": "1314481",
-            "title": "The Devil Wears Prada 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-        },
-        {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
         }
     ]
 }
