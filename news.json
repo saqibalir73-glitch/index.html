@@ -1,22 +1,10 @@
 {
     "news_items": [
         {
-            "id": "1101383",
-            "title": "The End of Oak Street",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg"
-        },
-        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg"
-        },
-        {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "1368337",
@@ -31,18 +19,6 @@
             "img": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
         },
         {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg"
-        },
-        {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
-        },
-        {
             "id": "1315772",
             "title": "Minions & Monsters",
             "year": "2026",
@@ -55,46 +31,34 @@
             "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
         },
         {
+            "id": "1339713",
+            "title": "Obsession",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "1101383",
+            "title": "The End of Oak Street",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg"
+        },
+        {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+        },
+        {
             "id": "1081003",
             "title": "Supergirl",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg"
         },
         {
-            "id": "1612018",
-            "title": "Jackass: Best and Last",
+            "id": "1275779",
+            "title": "Disclosure Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg"
-        },
-        {
-            "id": "1679730",
-            "title": "THE RIBBON HERO",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg"
-        },
-        {
-            "id": "980431",
-            "title": "Avatar Aang: The Last Airbender",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
-        },
-        {
-            "id": "1307118",
-            "title": "Soulm8te",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg"
-        },
-        {
-            "id": "1263532",
-            "title": "Beast Race",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg"
-        },
-        {
-            "id": "1433367",
-            "title": "One Night Only",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
             "id": "687163",
@@ -109,16 +73,52 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1240889",
-            "title": "Teenage Sex and Death at Camp Miasma",
+            "id": "1308767",
+            "title": "Young Washington",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg"
         },
         {
-            "id": "1273221",
-            "title": "Scary Movie",
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bh2OuKvq19jBHsloUVCfPSZZw81.jpg"
+        },
+        {
+            "id": "1679730",
+            "title": "THE RIBBON HERO",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg"
+        },
+        {
+            "id": "936075",
+            "title": "Michael",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg"
+        },
+        {
+            "id": "1487864",
+            "title": "Nando Between Two Worlds - A Sintonia Film",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg"
+        },
+        {
+            "id": "1284465",
+            "title": "The Death of Robin Hood",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg"
+        },
+        {
+            "id": "1612018",
+            "title": "Jackass: Best and Last",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg"
+        },
+        {
+            "id": "1263532",
+            "title": "Beast Race",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg"
         }
     ]
 }
