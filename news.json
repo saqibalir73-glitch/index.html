@@ -1,6 +1,12 @@
 {
     "news_items": [
         {
+            "id": "1284041",
+            "title": "The Last House",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
+        },
+        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
@@ -13,10 +19,10 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "1284041",
-            "title": "The Last House",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "1315772",
@@ -25,22 +31,22 @@
             "img": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
         },
         {
-            "id": "1101383",
-            "title": "The End of Oak Street",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg"
-        },
-        {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-        },
-        {
             "id": "950028",
             "title": "The Invite",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+        },
+        {
+            "id": "1101383",
+            "title": "The End of Oak Street",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+        },
+        {
+            "id": "1275779",
+            "title": "Disclosure Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
             "id": "1212763",
@@ -67,12 +73,6 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1275779",
-            "title": "Disclosure Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
-        },
-        {
             "id": "1308767",
             "title": "Young Washington",
             "year": "2026",
@@ -91,22 +91,22 @@
             "img": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg"
         },
         {
-            "id": "1493400",
-            "title": "Camp Rock 3",
+            "id": "1477712",
+            "title": "Ice Cream Man",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg"
         },
         {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
+            "id": "1263532",
+            "title": "Beast Race",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bh2OuKvq19jBHsloUVCfPSZZw81.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg"
         },
         {
-            "id": "454639",
-            "title": "Masters of the Universe",
+            "id": "1564614",
+            "title": "Leviticus",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg"
         },
         {
             "id": "1612018",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg"
         },
         {
-            "id": "1263532",
-            "title": "Beast Race",
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bh2OuKvq19jBHsloUVCfPSZZw81.jpg"
         }
     ]
 }
