@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
             "id": "1288445",
             "title": "Mutiny",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
             "id": "969681",
@@ -37,6 +37,12 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
+            "id": "1291595",
+            "title": "Insidious: Out of the Further",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+        },
+        {
             "id": "1003596",
             "title": "Avengers: Doomsday",
             "year": "2026",
@@ -47,12 +53,6 @@
             "title": "The End of Oak Street",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
-        },
-        {
-            "id": "1291595",
-            "title": "Insidious: Out of the Further",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
         },
         {
             "id": "950028",
@@ -73,18 +73,6 @@
             "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
-            "id": "1504358",
-            "title": "Don't Say Good Luck",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
-        },
-        {
-            "id": "1493400",
-            "title": "Camp Rock 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg"
-        },
-        {
             "id": "1083381",
             "title": "Backrooms",
             "year": "2026",
@@ -103,16 +91,28 @@
             "img": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg"
         },
         {
-            "id": "1280738",
-            "title": "The Furious",
+            "id": "1504358",
+            "title": "Don't Say Good Luck",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
+        },
+        {
+            "id": "1493400",
+            "title": "Camp Rock 3",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg"
         },
         {
             "id": "1418582",
             "title": "Here the Whole Time",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg"
+        },
+        {
+            "id": "1232569",
+            "title": "Pinocchio: Unstrung",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/r0hCOPsYHFc7qok51canND9TVoN.jpg"
         },
         {
             "id": "1212763",
