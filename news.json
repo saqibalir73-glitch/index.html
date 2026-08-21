@@ -1,22 +1,22 @@
 {
     "news_items": [
         {
-            "id": "1288445",
-            "title": "Mutiny",
+            "id": "1101383",
+            "title": "The End of Oak Street",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg"
-        },
-        {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
         },
         {
             "id": "1084244",
             "title": "Toy Story 5",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg"
         },
         {
             "id": "1368337",
@@ -37,28 +37,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1101383",
-            "title": "The End of Oak Street",
+            "id": "1288445",
+            "title": "Mutiny",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
-        },
-        {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
-        },
-        {
-            "id": "1291595",
-            "title": "Insidious: Out of the Further",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
-        },
-        {
-            "id": "950028",
-            "title": "The Invite",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg"
         },
         {
             "id": "1284041",
@@ -67,10 +49,34 @@
             "img": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
         },
         {
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
+        },
+        {
+            "id": "1504358",
+            "title": "Don't Say Good Luck",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
+        },
+        {
+            "id": "950028",
+            "title": "The Invite",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+        },
+        {
             "id": "1493400",
             "title": "Camp Rock 3",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg"
+        },
+        {
+            "id": "1291595",
+            "title": "Insidious: Out of the Further",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
         },
         {
             "id": "1275779",
@@ -79,10 +85,16 @@
             "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
-            "id": "1504358",
-            "title": "Don't Say Good Luck",
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
+        },
+        {
+            "id": "1240889",
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg"
         },
         {
             "id": "1083381",
@@ -107,18 +119,6 @@
             "title": "The Furious",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
-        },
-        {
-            "id": "1228710",
-            "title": "The Mandalorian and Grogu",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
-        },
-        {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
         }
     ]
 }
