@@ -1,12 +1,6 @@
 {
     "news_items": [
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
@@ -19,22 +13,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg"
         },
         {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
             "id": "1368337",
             "title": "The Odyssey",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
-            "id": "1315772",
-            "title": "Minions & Monsters",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
-        },
-        {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "1101383",
@@ -43,22 +31,16 @@
             "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
         },
         {
-            "id": "1275779",
-            "title": "Disclosure Day",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
+            "id": "1315772",
+            "title": "Minions & Monsters",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
-        },
-        {
-            "id": "1493400",
-            "title": "Camp Rock 3",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
         },
         {
             "id": "1291595",
@@ -67,10 +49,16 @@
             "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
         },
         {
-            "id": "1418582",
-            "title": "Here the Whole Time",
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
+        },
+        {
+            "id": "1621552",
+            "title": "Facing El Chapo",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
         },
         {
             "id": "950028",
@@ -79,22 +67,16 @@
             "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
         },
         {
-            "id": "1081003",
-            "title": "Supergirl",
+            "id": "1083381",
+            "title": "Backrooms",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
+            "id": "687163",
+            "title": "Project Hail Mary",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
-        },
-        {
-            "id": "1504358",
-            "title": "Don't Say Good Luck",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
             "id": "1284041",
@@ -103,22 +85,40 @@
             "img": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
         },
         {
-            "id": "1676318",
-            "title": "Back to the 90s",
+            "id": "1275779",
+            "title": "Disclosure Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
-            "id": "1083381",
-            "title": "Backrooms",
+            "id": "1504358",
+            "title": "Don't Say Good Luck",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
         },
         {
-            "id": "1748007",
-            "title": "Niu Lai",
+            "id": "1493400",
+            "title": "Camp Rock 3",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/w1sFqMkOMCZJcH6myGCWdO6Y0og.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg"
+        },
+        {
+            "id": "1081003",
+            "title": "Supergirl",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg"
+        },
+        {
+            "id": "1232569",
+            "title": "Pinocchio: Unstrung",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/r0hCOPsYHFc7qok51canND9TVoN.jpg"
+        },
+        {
+            "id": "1280738",
+            "title": "The Furious",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         }
     ]
 }
