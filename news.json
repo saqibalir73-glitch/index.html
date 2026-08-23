@@ -79,6 +79,12 @@
             "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
         },
         {
+            "id": "1621552",
+            "title": "Facing El Chapo",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
+        },
+        {
             "id": "1081003",
             "title": "Supergirl",
             "year": "2026",
@@ -91,22 +97,16 @@
             "img": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
         },
         {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+        },
+        {
             "id": "1284041",
             "title": "The Last House",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
-        },
-        {
-            "id": "1621552",
-            "title": "Facing El Chapo",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
-        },
-        {
-            "id": "1280738",
-            "title": "The Furious",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg"
         },
         {
             "id": "1493400",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg"
         },
         {
-            "id": "1240889",
-            "title": "Teenage Sex and Death at Camp Miasma",
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
         }
     ]
 }
