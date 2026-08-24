@@ -1,22 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
             "id": "1288445",
             "title": "Mutiny",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
             "id": "969681",
@@ -25,10 +19,16 @@
             "img": "https://image.tmdb.org/t/p/w500/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
+            "id": "1339713",
+            "title": "Obsession",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
             "id": "1291595",
@@ -43,16 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
         },
         {
-            "id": "1339713",
-            "title": "Obsession",
+            "id": "1101383",
+            "title": "The End of Oak Street",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-        },
-        {
-            "id": "1621552",
-            "title": "Facing El Chapo",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
         },
         {
             "id": "1083381",
@@ -61,10 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1101383",
-            "title": "The End of Oak Street",
+            "id": "1621552",
+            "title": "Facing El Chapo",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
         },
         {
             "id": "1384216",
@@ -73,22 +67,16 @@
             "img": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg"
         },
         {
-            "id": "1081003",
-            "title": "Supergirl",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg"
-        },
-        {
             "id": "1003596",
             "title": "Avengers: Doomsday",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
         },
         {
-            "id": "1204680",
-            "title": "Coyote vs. Acme",
+            "id": "1212763",
+            "title": "Evil Dead Burn",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
         },
         {
             "id": "950028",
@@ -97,28 +85,40 @@
             "img": "https://image.tmdb.org/t/p/w500/hFLVVF6GSfFkvDlht6iCsCcFjrh.jpg"
         },
         {
-            "id": "687163",
-            "title": "Project Hail Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-        },
-        {
             "id": "1275779",
             "title": "Disclosure Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         },
         {
-            "id": "1232569",
-            "title": "Pinocchio: Unstrung",
+            "id": "1081003",
+            "title": "Supergirl",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+        },
+        {
+            "id": "1204680",
+            "title": "Coyote vs. Acme",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
         },
         {
             "id": "1284041",
             "title": "The Last House",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
+        },
+        {
+            "id": "1232569",
+            "title": "Pinocchio: Unstrung",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg"
         }
     ]
 }
