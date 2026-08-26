@@ -1,28 +1,16 @@
 {
     "news_items": [
         {
+            "id": "1516698",
+            "title": "The Last Sunrise",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg"
+        },
+        {
             "id": "1288445",
             "title": "Mutiny",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg"
-        },
-        {
-            "id": "87513",
-            "title": "Motor City",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg"
-        },
-        {
-            "id": "1101383",
-            "title": "The End of Oak Street",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
             "id": "969681",
@@ -37,10 +25,10 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "1560520",
-            "title": "Batman: Knightfall Part 1: Knightfall",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
             "id": "1339713",
@@ -55,34 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
         },
         {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
-        },
-        {
-            "id": "1315772",
-            "title": "Minions & Monsters",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
-        },
-        {
             "id": "1621552",
             "title": "Facing El Chapo",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
-        },
-        {
-            "id": "1083381",
-            "title": "Backrooms",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-        },
-        {
-            "id": "1232569",
-            "title": "Pinocchio: Unstrung",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg"
         },
         {
             "id": "1212763",
@@ -97,16 +61,46 @@
             "img": "https://image.tmdb.org/t/p/w500/yQBfTOqJdS4SMayBIcaXw2JUnI9.jpg"
         },
         {
-            "id": "980431",
-            "title": "Avatar Aang: The Last Airbender",
+            "id": "1315772",
+            "title": "Minions & Monsters",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
         },
         {
-            "id": "1393326",
-            "title": "Ghost in the Cell",
+            "id": "1101383",
+            "title": "The End of Oak Street",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+        },
+        {
+            "id": "1083381",
+            "title": "Backrooms",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+        },
+        {
+            "id": "1204680",
+            "title": "Coyote vs. Acme",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
+        },
+        {
+            "id": "87513",
+            "title": "Motor City",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg"
+        },
+        {
+            "id": "687163",
+            "title": "Project Hail Mary",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+        },
+        {
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
         },
         {
             "id": "950028",
@@ -115,10 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
         },
         {
-            "id": "1381202",
-            "title": "The Outer Threat",
+            "id": "1232569",
+            "title": "Pinocchio: Unstrung",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg"
+        },
+        {
+            "id": "1275779",
+            "title": "Disclosure Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
         }
     ]
 }
