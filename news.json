@@ -1,22 +1,16 @@
 {
     "news_items": [
         {
+            "id": "860508",
+            "title": "The Whisper Man",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
+        },
+        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-        },
-        {
-            "id": "87513",
-            "title": "Motor City",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg"
-        },
-        {
-            "id": "1288445",
-            "title": "Mutiny",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg"
         },
         {
             "id": "1368337",
@@ -25,16 +19,16 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
+            "id": "1288445",
+            "title": "Mutiny",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg"
         },
         {
-            "id": "1560520",
-            "title": "Batman: Knightfall Part 1: Knightfall",
+            "id": "1516698",
+            "title": "The Last Sunrise",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg"
         },
         {
             "id": "1084244",
@@ -49,46 +43,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1516698",
-            "title": "The Last Sunrise",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg"
-        },
-        {
-            "id": "860508",
-            "title": "The Whisper Man",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
-        },
-        {
             "id": "1384216",
             "title": "The Dog Stars",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg"
-        },
-        {
-            "id": "687163",
-            "title": "Project Hail Mary",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-        },
-        {
-            "id": "1291595",
-            "title": "Insidious: Out of the Further",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
-        },
-        {
-            "id": "1621552",
-            "title": "Facing El Chapo",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
-        },
-        {
-            "id": "1204680",
-            "title": "Coyote vs. Acme",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
         },
         {
             "id": "1083381",
@@ -97,16 +55,40 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
+            "id": "1621552",
+            "title": "Facing El Chapo",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
+        },
+        {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+        },
+        {
+            "id": "87513",
+            "title": "Motor City",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg"
+        },
+        {
+            "id": "1204680",
+            "title": "Coyote vs. Acme",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
+        },
+        {
             "id": "1315772",
             "title": "Minions & Monsters",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
         },
         {
-            "id": "1232569",
-            "title": "Pinocchio: Unstrung",
+            "id": "1291595",
+            "title": "Insidious: Out of the Further",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
         },
         {
             "id": "950028",
@@ -119,6 +101,24 @@
             "title": "The End of Oak Street",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+        },
+        {
+            "id": "1698863",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uEFU8pd2lVWpnHOUqhQE0WdPKEt.jpg"
+        },
+        {
+            "id": "1744462",
+            "title": "Grand Theft Auto VI: An Extended Look",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg"
+        },
+        {
+            "id": "1560520",
+            "title": "Batman: Knightfall Part 1: Knightfall",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg"
         }
     ]
 }
