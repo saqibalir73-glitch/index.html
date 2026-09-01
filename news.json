@@ -67,12 +67,6 @@
             "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
-            "id": "1212763",
-            "title": "Evil Dead Burn",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
-        },
-        {
             "id": "1560520",
             "title": "Batman: Knightfall Part 1: Knightfall",
             "year": "2026",
@@ -85,22 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg"
         },
         {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+        },
+        {
+            "id": "1315772",
+            "title": "Minions & Monsters",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
+        },
+        {
             "id": "1744462",
             "title": "Grand Theft Auto VI: An Extended Look",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg"
-        },
-        {
-            "id": "1291595",
-            "title": "Insidious: Out of the Further",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
-        },
-        {
-            "id": "1480574",
-            "title": "Just Play Dead",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wG0KDlzuUWE1KHaeJZcGdrJdZea.jpg"
         },
         {
             "id": "1101383",
@@ -109,16 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
         },
         {
+            "id": "1291595",
+            "title": "Insidious: Out of the Further",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+        },
+        {
             "id": "950028",
             "title": "The Invite",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
         },
         {
-            "id": "1315772",
-            "title": "Minions & Monsters",
+            "id": "1480574",
+            "title": "Just Play Dead",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg"
         }
     ]
 }
