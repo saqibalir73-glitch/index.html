@@ -13,16 +13,16 @@
             "img": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
             "id": "1204680",
@@ -37,22 +37,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1516698",
-            "title": "The Last Sunrise",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg"
-        },
-        {
             "id": "1288445",
             "title": "Mutiny",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg"
-        },
-        {
-            "id": "1083381",
-            "title": "Backrooms",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
             "id": "1384216",
@@ -61,10 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg"
         },
         {
-            "id": "1480574",
-            "title": "Just Play Dead",
+            "id": "1516698",
+            "title": "The Last Sunrise",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg"
         },
         {
             "id": "1315772",
@@ -73,16 +61,34 @@
             "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
         },
         {
+            "id": "1083381",
+            "title": "Backrooms",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+        },
+        {
             "id": "1084244",
             "title": "Toy Story 5",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
-            "id": "1631807",
-            "title": "The Secret Woman",
+            "id": "192139",
+            "title": "The Brink of War",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg"
+        },
+        {
+            "id": "1480574",
+            "title": "Just Play Dead",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg"
+        },
+        {
+            "id": "1288059",
+            "title": "I Want Your Sex",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg"
         },
         {
             "id": "87513",
@@ -91,34 +97,28 @@
             "img": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg"
         },
         {
-            "id": "1744462",
-            "title": "Grand Theft Auto VI: An Extended Look",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg"
-        },
-        {
-            "id": "1423191",
-            "title": "Resident Evil",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg"
-        },
-        {
             "id": "1212763",
             "title": "Evil Dead Burn",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
         },
         {
-            "id": "950028",
-            "title": "The Invite",
+            "id": "1731694",
+            "title": "LEGO Star Wars: The Mandalorian",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/yng4wYjB9cjX7np9c9YqfJjX52o.jpg"
         },
         {
-            "id": "192139",
-            "title": "The Brink of War",
+            "id": "1423191",
+            "title": "Resident Evil",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg"
+        },
+        {
+            "id": "1228710",
+            "title": "The Mandalorian and Grogu",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
         }
     ]
 }
