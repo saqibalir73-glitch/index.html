@@ -1,6 +1,12 @@
 {
     "news_items": [
         {
+            "id": "1386315",
+            "title": "The Runner",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
+        },
+        {
             "id": "860508",
             "title": "The Whisper Man",
             "year": "2026",
@@ -31,22 +37,16 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1288445",
-            "title": "Mutiny",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg"
-        },
-        {
             "id": "1516698",
             "title": "The Last Sunrise",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg"
         },
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
+            "id": "1288445",
+            "title": "Mutiny",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg"
         },
         {
             "id": "1083381",
@@ -67,6 +67,18 @@
             "img": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg"
         },
         {
+            "id": "1315772",
+            "title": "Minions & Monsters",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
             "id": "1631807",
             "title": "The Secret Woman",
             "year": "2026",
@@ -79,28 +91,16 @@
             "img": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg"
         },
         {
-            "id": "1423191",
-            "title": "Resident Evil",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg"
-        },
-        {
             "id": "1744462",
             "title": "Grand Theft Auto VI: An Extended Look",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg"
         },
         {
-            "id": "1560520",
-            "title": "Batman: Knightfall Part 1: Knightfall",
+            "id": "1423191",
+            "title": "Resident Evil",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg"
-        },
-        {
-            "id": "1288059",
-            "title": "I Want Your Sex",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg"
         },
         {
             "id": "1212763",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
         },
         {
-            "id": "1315772",
-            "title": "Minions & Monsters",
+            "id": "192139",
+            "title": "The Brink of War",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg"
         }
     ]
 }
