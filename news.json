@@ -1,28 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1386315",
-            "title": "The Runner",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
-        },
-        {
             "id": "1108427",
             "title": "Moana",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
+            "id": "1386315",
+            "title": "The Runner",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
-            "id": "1204680",
-            "title": "Coyote vs. Acme",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
         },
         {
             "id": "969681",
@@ -31,10 +19,28 @@
             "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
         },
         {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+        },
+        {
             "id": "1137844",
             "title": "Mayday",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg"
+        },
+        {
+            "id": "1433367",
+            "title": "One Night Only",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5HkrK2U1n1cQMymG7sIJ2XbEZPi.jpg"
+        },
+        {
+            "id": "1204680",
+            "title": "Coyote vs. Acme",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
         },
         {
             "id": "1339713",
@@ -43,34 +49,16 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1433367",
-            "title": "One Night Only",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg"
-        },
-        {
-            "id": "1302904",
-            "title": "Practical Magic 2",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg"
-        },
-        {
             "id": "1288445",
             "title": "Mutiny",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg"
         },
         {
-            "id": "1514026",
-            "title": "Buddy",
+            "id": "1522689",
+            "title": "Why Did I Get Married Again?",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg"
-        },
-        {
-            "id": "860508",
-            "title": "The Whisper Man",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg"
         },
         {
             "id": "1423191",
@@ -79,10 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg"
         },
         {
-            "id": "1083381",
-            "title": "Backrooms",
+            "id": "1302904",
+            "title": "Practical Magic 2",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg"
         },
         {
             "id": "1480574",
@@ -91,22 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg"
         },
         {
-            "id": "1315772",
-            "title": "Minions & Monsters",
+            "id": "1440098",
+            "title": "Drawn Together",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg"
         },
         {
-            "id": "1081003",
-            "title": "Supergirl",
+            "id": "860508",
+            "title": "The Whisper Man",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
         },
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
+            "id": "1083381",
+            "title": "Backrooms",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
             "id": "1506560",
@@ -115,10 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg"
         },
         {
-            "id": "1288059",
-            "title": "I Want Your Sex",
+            "id": "1514026",
+            "title": "Buddy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg"
+        },
+        {
+            "id": "1315772",
+            "title": "Minions & Monsters",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
+        },
+        {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         }
     ]
 }
