@@ -7,22 +7,10 @@
             "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
         },
         {
-            "id": "1137844",
-            "title": "Mayday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg"
-        },
-        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-        },
-        {
-            "id": "1386315",
-            "title": "The Runner",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
         },
         {
             "id": "1368337",
@@ -31,22 +19,34 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "1302904",
-            "title": "Practical Magic 2",
+            "id": "1137844",
+            "title": "Mayday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg"
         },
         {
-            "id": "1204680",
-            "title": "Coyote vs. Acme",
+            "id": "1386315",
+            "title": "The Runner",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
         },
         {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "1302904",
+            "title": "Practical Magic 2",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg"
+        },
+        {
+            "id": "1288445",
+            "title": "Mutiny",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg"
         },
         {
             "id": "1440098",
@@ -61,10 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg"
         },
         {
-            "id": "1288445",
-            "title": "Mutiny",
+            "id": "1204680",
+            "title": "Coyote vs. Acme",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg"
         },
         {
             "id": "1423191",
@@ -79,34 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
         },
         {
+            "id": "1083381",
+            "title": "Backrooms",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+        },
+        {
+            "id": "1514026",
+            "title": "Buddy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg"
+        },
+        {
             "id": "1522689",
             "title": "Why Did I Get Married Again?",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg"
-        },
-        {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
-            "id": "1365884",
-            "title": "Call My Agent! The Movie",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg"
-        },
-        {
-            "id": "1081003",
-            "title": "Supergirl",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg"
         },
         {
             "id": "860508",
@@ -115,10 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
         },
         {
-            "id": "1083381",
-            "title": "Backrooms",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
+            "id": "1377237",
+            "title": "Runner",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
+        },
+        {
+            "id": "1081003",
+            "title": "Supergirl",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg"
         }
     ]
 }
