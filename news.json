@@ -1,22 +1,22 @@
 {
     "news_items": [
         {
+            "id": "1492640",
+            "title": "Unabomber",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
+        },
+        {
             "id": "1423191",
             "title": "Resident Evil",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
-            "id": "1101383",
-            "title": "The End of Oak Street",
+            "id": "1032863",
+            "title": "The Love Hypothesis",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
-        },
-        {
-            "id": "1263337",
-            "title": "Heart of the Beast",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
         },
         {
             "id": "1084244",
@@ -25,16 +25,22 @@
             "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
+            "id": "1263337",
+            "title": "Heart of the Beast",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
         },
         {
-            "id": "1032863",
-            "title": "The Love Hypothesis",
+            "id": "1101383",
+            "title": "The End of Oak Street",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/wlb6vunPuBjboYnmy4r3NlKZWji.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+        },
+        {
+            "id": "1339713",
+            "title": "Obsession",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
             "id": "1240889",
@@ -49,18 +55,6 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-        },
-        {
-            "id": "1465063",
-            "title": "Forgotten Island",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg"
-        },
-        {
             "id": "1607127",
             "title": "One Last Shot",
             "year": "2026",
@@ -70,13 +64,25 @@
             "id": "1375441",
             "title": "Primetime",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+        },
+        {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
         },
         {
             "id": "1248832",
             "title": "Digger",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
+        },
+        {
+            "id": "1465063",
+            "title": "Forgotten Island",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg"
         },
         {
             "id": "1083381",
@@ -97,28 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
         },
         {
-            "id": "1228834",
-            "title": "The Fix",
+            "id": "445466",
+            "title": "Idiots",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg"
-        },
-        {
-            "id": "1284465",
-            "title": "The Death of Robin Hood",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg"
-        },
-        {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg"
         },
         {
             "id": "1477712",
             "title": "Ice Cream Man",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg"
+        },
+        {
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
         }
     ]
 }
