@@ -1,40 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1492640",
-            "title": "UNABOMBER",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
-        },
-        {
             "id": "1423191",
             "title": "Resident Evil",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
-            "id": "1248832",
-            "title": "Digger",
+            "id": "1492640",
+            "title": "UNABOMBER",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
-        },
-        {
-            "id": "1263337",
-            "title": "Heart of the Beast",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
-        },
-        {
-            "id": "1032863",
-            "title": "The Love Hypothesis",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
-        },
-        {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
         },
         {
             "id": "1377237",
@@ -43,10 +19,10 @@
             "img": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
         },
         {
-            "id": "1607127",
-            "title": "One Last Shot",
+            "id": "1032863",
+            "title": "The Love Hypothesis",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
         },
         {
             "id": "969681",
@@ -55,28 +31,22 @@
             "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
         },
         {
-            "id": "1465063",
-            "title": "Forgotten Island",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg"
-        },
-        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1283515",
-            "title": "Verity",
+            "id": "1263337",
+            "title": "Heart of the Beast",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
         },
         {
-            "id": "1084244",
-            "title": "Toy Story 5",
+            "id": "1248832",
+            "title": "Digger",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
         },
         {
             "id": "1375441",
@@ -85,16 +55,34 @@
             "img": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
         },
         {
+            "id": "1084244",
+            "title": "Toy Story 5",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+        },
+        {
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg"
+        },
+        {
+            "id": "1607127",
+            "title": "One Last Shot",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg"
+        },
+        {
+            "id": "1465063",
+            "title": "Forgotten Island",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg"
+        },
+        {
             "id": "1083381",
             "title": "Backrooms",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-        },
-        {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
             "id": "1101383",
@@ -103,22 +91,34 @@
             "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
         },
         {
-            "id": "1108427",
-            "title": "Moana",
+            "id": "1368337",
+            "title": "The Odyssey",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "1341138",
-            "title": "Spa Weekend",
+            "id": "1283515",
+            "title": "Verity",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg"
         },
         {
-            "id": "1240889",
-            "title": "Teenage Sex and Death at Camp Miasma",
+            "id": "445466",
+            "title": "Idiots",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg"
+        },
+        {
+            "id": "1477712",
+            "title": "Ice Cream Man",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg"
+        },
+        {
+            "id": "675871",
+            "title": "Super Troopers 3",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ecTxAyfx4fdTMy2N288oZMMn3Ey.jpg"
         }
     ]
 }
