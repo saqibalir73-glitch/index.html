@@ -1,16 +1,22 @@
 {
     "news_items": [
         {
+            "id": "1248832",
+            "title": "Digger",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
+        },
+        {
             "id": "1423191",
             "title": "Resident Evil",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
-            "id": "1248832",
-            "title": "Digger",
+            "id": "1492640",
+            "title": "UNABOMBER",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
         },
         {
             "id": "1377237",
@@ -23,12 +29,6 @@
             "title": "The Uprising",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg"
-        },
-        {
-            "id": "1492640",
-            "title": "UNABOMBER",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
         },
         {
             "id": "1283515",
@@ -49,12 +49,6 @@
             "img": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg"
         },
         {
-            "id": "1032863",
-            "title": "The Love Hypothesis",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
-        },
-        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
@@ -67,22 +61,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
         },
         {
+            "id": "1032863",
+            "title": "The Love Hypothesis",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
+        },
+        {
             "id": "1003596",
             "title": "Avengers: Doomsday",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
-        },
-        {
-            "id": "1084244",
-            "title": "Toy Story 5",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
-        },
-        {
-            "id": "1263337",
-            "title": "Heart of the Beast",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg"
         },
         {
             "id": "1368337",
@@ -97,16 +85,16 @@
             "img": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg"
         },
         {
-            "id": "1607127",
-            "title": "One Last Shot",
+            "id": "1263337",
+            "title": "Heart of the Beast",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg"
         },
         {
-            "id": "1101383",
-            "title": "The End of Oak Street",
+            "id": "1084244",
+            "title": "Toy Story 5",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
         },
         {
             "id": "1083381",
@@ -115,10 +103,22 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
+            "id": "1101383",
+            "title": "The End of Oak Street",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+        },
+        {
             "id": "1400940",
             "title": "Clayface",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
+        },
+        {
+            "id": "1153576",
+            "title": "Street Fighter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
         }
     ]
 }
