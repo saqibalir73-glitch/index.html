@@ -1,6 +1,18 @@
 {
     "news_items": [
         {
+            "id": "1248832",
+            "title": "Digger",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
+        },
+        {
+            "id": "1283515",
+            "title": "Verity",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg"
+        },
+        {
             "id": "977942",
             "title": "The Uprising",
             "year": "2026",
@@ -13,70 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
         },
         {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
-        },
-        {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-        },
-        {
-            "id": "1248832",
-            "title": "Digger",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
-        },
-        {
-            "id": "1339713",
-            "title": "Obsession",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-        },
-        {
-            "id": "1458857",
-            "title": "Doing Life",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg"
-        },
-        {
-            "id": "1307118",
-            "title": "Soulm8te",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg"
-        },
-        {
-            "id": "1204680",
-            "title": "Coyote vs. Acme",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg"
-        },
-        {
             "id": "1423191",
             "title": "Resident Evil",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
-            "id": "1283515",
-            "title": "Verity",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg"
-        },
-        {
-            "id": "1263337",
-            "title": "Heart of the Beast",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
         },
         {
             "id": "1492640",
@@ -85,16 +43,28 @@
             "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
         },
         {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+        },
+        {
+            "id": "1339713",
+            "title": "Obsession",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "1204680",
+            "title": "Coyote vs. Acme",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg"
+        },
+        {
             "id": "1375441",
             "title": "Primetime",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
-        },
-        {
-            "id": "1153576",
-            "title": "Street Fighter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
         },
         {
             "id": "1084244",
@@ -109,16 +79,46 @@
             "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         },
         {
-            "id": "1465063",
-            "title": "Forgotten Island",
+            "id": "1307118",
+            "title": "Soulm8te",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg"
         },
         {
-            "id": "1375646",
-            "title": "Colony",
+            "id": "1263337",
+            "title": "Heart of the Beast",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+        },
+        {
+            "id": "1458857",
+            "title": "Doing Life",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg"
+        },
+        {
+            "id": "1101383",
+            "title": "The End of Oak Street",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+        },
+        {
+            "id": "1153576",
+            "title": "Street Fighter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
+        },
+        {
+            "id": "1212763",
+            "title": "Evil Dead Burn",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
         }
     ]
 }
