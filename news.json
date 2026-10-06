@@ -13,28 +13,16 @@
             "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
         },
         {
-            "id": "1228834",
-            "title": "The Fix",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg"
-        },
-        {
-            "id": "977942",
-            "title": "The Uprising",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg"
-        },
-        {
             "id": "1291595",
             "title": "Insidious: Out of the Further",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
         },
         {
-            "id": "1283515",
-            "title": "Verity",
+            "id": "977942",
+            "title": "The Uprising",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg"
         },
         {
             "id": "1423191",
@@ -49,22 +37,22 @@
             "img": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
         },
         {
-            "id": "1492640",
-            "title": "UNABOMBER",
+            "id": "1283515",
+            "title": "Verity",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg"
+        },
+        {
+            "id": "1284046",
+            "title": "Onslaught",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg"
         },
         {
             "id": "1101412",
             "title": "Fall 2: Deadpoint",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg"
-        },
-        {
-            "id": "1263337",
-            "title": "Heart of the Beast",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
         },
         {
             "id": "1003596",
@@ -79,10 +67,22 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
+            "id": "1492640",
+            "title": "UNABOMBER",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
+        },
+        {
             "id": "1204680",
             "title": "Coyote vs. Acme",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg"
+        },
+        {
+            "id": "1400837",
+            "title": "Other Mommy",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
         },
         {
             "id": "1458857",
@@ -97,18 +97,6 @@
             "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
         },
         {
-            "id": "1284046",
-            "title": "Onslaught",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg"
-        },
-        {
-            "id": "1269325",
-            "title": "Drishyam: The Conclusion",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg"
-        },
-        {
             "id": "1375441",
             "title": "Primetime",
             "year": "2026",
@@ -119,6 +107,18 @@
             "title": "Street Fighter",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg"
+        },
+        {
+            "id": "1400940",
+            "title": "Clayface",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
+        },
+        {
+            "id": "1307118",
+            "title": "Soulm8te",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg"
         }
     ]
 }
