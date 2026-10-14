@@ -1,16 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1058424",
-            "title": "Hope",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
-        },
-        {
             "id": "969681",
             "title": "Spider-Man: Brand New Day",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+        },
+        {
+            "id": "1058424",
+            "title": "Hope",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg"
         },
         {
             "id": "1236045",
@@ -25,16 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg"
         },
         {
-            "id": "1381078",
-            "title": "Love of Your Life",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg"
-        },
-        {
             "id": "1153576",
             "title": "Street Fighter",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
+        },
+        {
+            "id": "1381078",
+            "title": "Love of Your Life",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg"
         },
         {
             "id": "1302904",
@@ -49,10 +49,22 @@
             "img": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg"
         },
         {
+            "id": "1400940",
+            "title": "Clayface",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
+        },
+        {
             "id": "1248832",
             "title": "Digger",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
+        },
+        {
+            "id": "1101412",
+            "title": "Fall 2: Deadpoint",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg"
         },
         {
             "id": "1400837",
@@ -67,22 +79,16 @@
             "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
-            "id": "1514026",
-            "title": "Buddy",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
-        },
-        {
             "id": "1291595",
             "title": "Insidious: Out of the Further",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
         },
         {
-            "id": "1101412",
-            "title": "Fall 2: Deadpoint",
+            "id": "1514026",
+            "title": "Buddy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
         },
         {
             "id": "1368337",
@@ -94,19 +100,7 @@
             "id": "1003596",
             "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg"
-        },
-        {
-            "id": "1377237",
-            "title": "Runner",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
-        },
-        {
-            "id": "1400940",
-            "title": "Clayface",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
         },
         {
             "id": "1283515",
@@ -115,10 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg"
         },
         {
-            "id": "1476746",
-            "title": "The Florist",
+            "id": "1187326",
+            "title": "Tad and The Magic Lamp",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg"
+        },
+        {
+            "id": "1339713",
+            "title": "Obsession",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         }
     ]
 }
