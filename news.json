@@ -7,12 +7,6 @@
             "img": "https://image.tmdb.org/t/p/w500/qW1m7bcsRb2lo8xG2v0p4mARyH8.jpg"
         },
         {
-            "id": "1153576",
-            "title": "Street Fighter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg"
-        },
-        {
             "id": "1561726",
             "title": "Masterplan",
             "year": "2026",
@@ -29,6 +23,12 @@
             "title": "Tenzing",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
+        },
+        {
+            "id": "1153576",
+            "title": "Street Fighter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg"
         },
         {
             "id": "1302904",
@@ -55,10 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg"
         },
         {
-            "id": "1514026",
-            "title": "Buddy",
+            "id": "1381078",
+            "title": "Love of Your Life",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg"
         },
         {
             "id": "1400940",
@@ -67,16 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
         },
         {
-            "id": "1381078",
-            "title": "Love of Your Life",
+            "id": "1514026",
+            "title": "Buddy",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg"
-        },
-        {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
         },
         {
             "id": "1423191",
@@ -85,10 +79,22 @@
             "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+        },
+        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+        },
+        {
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
         },
         {
             "id": "1284186",
@@ -109,16 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
+            "id": "1083381",
+            "title": "Backrooms",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
-            "id": "1291595",
-            "title": "Insidious: Out of the Further",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
         }
     ]
 }
