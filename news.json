@@ -43,12 +43,6 @@
             "img": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg"
         },
         {
-            "id": "1433583",
-            "title": "The Weight",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
-        },
-        {
             "id": "1255833",
             "title": "Whalefall",
             "year": "2026",
@@ -61,28 +55,10 @@
             "img": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
         },
         {
-            "id": "1108427",
-            "title": "Moana",
+            "id": "1422041",
+            "title": "La bola negra",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
-        },
-        {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
-            "id": "791523",
-            "title": "Wildwood",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg"
-        },
-        {
-            "id": "1380417",
-            "title": "By Any Means",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg"
         },
         {
             "id": "1339713",
@@ -91,16 +67,10 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1248832",
-            "title": "Digger",
+            "id": "1108427",
+            "title": "Moana",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
-        },
-        {
-            "id": "1780005",
-            "title": "Surviving Hurricane Otis",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
         },
         {
             "id": "1423191",
@@ -109,16 +79,46 @@
             "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
-            "id": "1170608",
-            "title": "Dune: Part Three",
+            "id": "1780005",
+            "title": "Surviving Hurricane Otis",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
         },
         {
-            "id": "1477104",
-            "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+            "id": "1433583",
+            "title": "The Weight",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
+        },
+        {
+            "id": "791523",
+            "title": "Wildwood",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg"
+        },
+        {
+            "id": "1381078",
+            "title": "Love of Your Life",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+        },
+        {
+            "id": "1380417",
+            "title": "By Any Means",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg"
+        },
+        {
+            "id": "1765072",
+            "title": "You Can See Everything",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
         }
     ]
 }
