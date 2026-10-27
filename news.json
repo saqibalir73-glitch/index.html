@@ -13,46 +13,10 @@
             "img": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg"
         },
         {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-        },
-        {
             "id": "791523",
             "title": "Wildwood",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg"
-        },
-        {
-            "id": "1058424",
-            "title": "Hope",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg"
-        },
-        {
-            "id": "1198654",
-            "title": "Bad Apples",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg"
-        },
-        {
-            "id": "1433583",
-            "title": "The Weight",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
-        },
-        {
-            "id": "1288069",
-            "title": "Tenzing",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
-        },
-        {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg"
         },
         {
             "id": "1339713",
@@ -61,28 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1567937",
-            "title": "V",
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
         },
         {
-            "id": "1423191",
-            "title": "Resident Evil",
+            "id": "1058424",
+            "title": "Hope",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
-        },
-        {
-            "id": "1422041",
-            "title": "LA BOLA NEGRA",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg"
-        },
-        {
-            "id": "1153576",
-            "title": "Street Fighter",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg"
         },
         {
             "id": "1108427",
@@ -91,22 +43,70 @@
             "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
         },
         {
+            "id": "1433583",
+            "title": "The Weight",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
+        },
+        {
+            "id": "1422041",
+            "title": "LA BOLA NEGRA",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg"
+        },
+        {
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg"
+        },
+        {
+            "id": "1153576",
+            "title": "Street Fighter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg"
+        },
+        {
+            "id": "1198654",
+            "title": "Bad Apples",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg"
+        },
+        {
+            "id": "1423191",
+            "title": "Resident Evil",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
+        },
+        {
+            "id": "1765072",
+            "title": "You Can See Everything",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
+        },
+        {
             "id": "1290418",
             "title": "The Cycle",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg"
         },
         {
-            "id": "1561726",
-            "title": "Masterplan",
+            "id": "1170608",
+            "title": "Dune: Part Three",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg"
         },
         {
-            "id": "1380417",
-            "title": "By Any Means",
+            "id": "1288069",
+            "title": "Tenzing",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
+        },
+        {
+            "id": "1780005",
+            "title": "Surviving Hurricane Otis",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
         },
         {
             "id": "1368337",
@@ -115,10 +115,10 @@
             "img": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg"
         },
         {
-            "id": "1765072",
-            "title": "You Can See Everything",
+            "id": "1561726",
+            "title": "Masterplan",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
         }
     ]
 }
