@@ -1,22 +1,16 @@
 {
     "news_items": [
         {
-            "id": "1400940",
-            "title": "Clayface",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg"
-        },
-        {
             "id": "1283515",
             "title": "Verity",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg"
         },
         {
-            "id": "1384216",
-            "title": "The Dog Stars",
+            "id": "1400940",
+            "title": "Clayface",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg"
         },
         {
             "id": "791523",
@@ -31,16 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg"
         },
         {
-            "id": "1058424",
-            "title": "Hope",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg"
-        },
-        {
             "id": "1727734",
             "title": "Ali G: Who Iz I?",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg"
+        },
+        {
+            "id": "1170608",
+            "title": "Dune: Part Three",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg"
         },
         {
             "id": "1003596",
@@ -55,46 +49,10 @@
             "img": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg"
         },
         {
-            "id": "1377237",
-            "title": "Runner",
+            "id": "1384216",
+            "title": "The Dog Stars",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg"
-        },
-        {
-            "id": "1170608",
-            "title": "Dune: Part Three",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg"
-        },
-        {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-        },
-        {
-            "id": "1503762",
-            "title": "Sense and Sensibility",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg"
-        },
-        {
-            "id": "1368337",
-            "title": "The Odyssey",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-        },
-        {
-            "id": "1108427",
-            "title": "Moana",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
-        },
-        {
-            "id": "1422041",
-            "title": "La bola negra",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg"
         },
         {
             "id": "1195803",
@@ -103,22 +61,64 @@
             "img": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg"
         },
         {
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+        },
+        {
+            "id": "1368337",
+            "title": "The Odyssey",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+        },
+        {
             "id": "1339713",
             "title": "Obsession",
             "year": "2026",
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1596275",
-            "title": "Drive \u2013 The Pretenders",
+            "id": "1503762",
+            "title": "Sense and Sensibility",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg"
         },
         {
-            "id": "1765072",
-            "title": "You Can See Everything",
+            "id": "1300968",
+            "title": "The Hunger Games: Sunrise on the Reaping",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg"
+        },
+        {
+            "id": "1422041",
+            "title": "La bola negra",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg"
+        },
+        {
+            "id": "1780005",
+            "title": "Surviving Hurricane Otis",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
+        },
+        {
+            "id": "1108427",
+            "title": "Moana",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
+        },
+        {
+            "id": "1153576",
+            "title": "Street Fighter",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg"
+        },
+        {
+            "id": "1058424",
+            "title": "Hope",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg"
         }
     ]
 }
