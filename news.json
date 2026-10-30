@@ -1,6 +1,18 @@
 {
     "news_items": [
         {
+            "id": "1507696",
+            "title": "Apocalypse Z: New World",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg"
+        },
+        {
+            "id": "1283515",
+            "title": "Verity",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg"
+        },
+        {
             "id": "1400940",
             "title": "Clayface",
             "year": "2026",
@@ -13,16 +25,16 @@
             "img": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg"
         },
         {
-            "id": "1283515",
-            "title": "Verity",
+            "id": "791523",
+            "title": "Wildwood",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg"
         },
         {
-            "id": "1507696",
-            "title": "Apocalypse Z: New World",
+            "id": "1003596",
+            "title": "Avengers: Doomsday",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/tTMmREfhVd51CCg7GN73wL8cIoT.jpg"
         },
         {
             "id": "1465063",
@@ -31,10 +43,16 @@
             "img": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg"
         },
         {
-            "id": "791523",
-            "title": "Wildwood",
+            "id": "1727734",
+            "title": "Ali G: Who Iz I?",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg"
+        },
+        {
+            "id": "1571955",
+            "title": "Collision Course",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg"
         },
         {
             "id": "1058424",
@@ -43,16 +61,10 @@
             "img": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg"
         },
         {
-            "id": "1003596",
-            "title": "Avengers: Doomsday",
+            "id": "1596275",
+            "title": "Drive - The Pretenders",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/7UN7WiNgXnKNneFx7V4nDm92luk.jpg"
-        },
-        {
-            "id": "1727734",
-            "title": "Ali G: Who Iz I?",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
         },
         {
             "id": "1290418",
@@ -67,10 +79,16 @@
             "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
         },
         {
-            "id": "1596275",
-            "title": "Drive - The Pretenders",
+            "id": "969681",
+            "title": "Spider-Man: Brand New Day",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+        },
+        {
+            "id": "1789549",
+            "title": "The Birthday\u200b Gift\u200b",
+            "year": "2026",
+            "img": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg"
         },
         {
             "id": "1170608",
@@ -79,22 +97,10 @@
             "img": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg"
         },
         {
-            "id": "969681",
-            "title": "Spider-Man: Brand New Day",
+            "id": "1423191",
+            "title": "Resident Evil",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-        },
-        {
-            "id": "1780005",
-            "title": "Surviving Hurricane Otis",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
-        },
-        {
-            "id": "1377237",
-            "title": "Runner",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
         },
         {
             "id": "1503762",
@@ -103,22 +109,16 @@
             "img": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg"
         },
         {
-            "id": "1368337",
-            "title": "The Odyssey",
+            "id": "1195803",
+            "title": "Wicker",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg"
         },
         {
-            "id": "1300968",
-            "title": "The Hunger Games: Sunrise on the Reaping",
+            "id": "1377237",
+            "title": "Runner",
             "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg"
-        },
-        {
-            "id": "1422041",
-            "title": "LA BOLA NEGRA",
-            "year": "2026",
-            "img": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg"
+            "img": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg"
         }
     ]
 }
